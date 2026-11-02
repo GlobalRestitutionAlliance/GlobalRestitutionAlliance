@@ -53,67 +53,161 @@ Each repository contains a complete litigation scaffold (44+ files):
 
 Each jurisdiction below expands to show all repositories in that continental theater.
 
-###  **Turtle Island (Indigenous Nations)**  597 Repositories
+### Turtle Island (Indigenous Nations) — 597 Repositories (12 BIA Regions)
 
+#### Alaska (228)
 <details>
-<summary><strong>View All 597 Turtle Island Indigenous Nations (12 BIA Regions)</strong></summary>
+<summary><strong>View All 228 Alaska Native Villages</strong></summary>
 
-**Alaska** (228)
-- `turtle-island-ak-agdaagux-tribe-of-king-cove-master-litigation`
-- `turtle-island-ak-akiachak-native-community-master-litigation`
-- `turtle-island-ak-akiak-native-community-master-litigation`
-- `turtle-island-ak-alatna-village-master-litigation`
-- `turtle-island-ak-aleut-community-of-st-paul-island-see-pr-master-litigation`
-- `turtle-island-ak-algaaciq-native-village-st-marys-master-litigation`
-- `turtle-island-ak-allakaket-village-master-litigation`
-- `turtle-island-ak-alutiiq-tribe-of-old-harbor-master-litigation`
-- `turtle-island-ak-angoon-community-association-master-litigation`
-- `turtle-island-ak-arctic-village-see-native-village-of-ven-master-litigation`
-- `turtle-island-ak-asacarsarmiut-tribe-master-litigation`
-- `turtle-island-ak-atmautluak-master-litigation`
-- ... and 218 more
+| Tribe | ISO | Repository | Pool | Key Issues |
+|-------|-----|------------|------|------------|
+| Agdaagux Tribe of King Cove | AK | `turtle-island-ak-agdaagux-tribe-of-king-cove-master-litigation` | $12B | ANCSA, fishing rights |
+| Akiachak Native Community | AK | `turtle-island-ak-akiachak-native-community-master-litigation` | $12B | Subsistence, education |
+| Akiak Native Community | AK | `turtle-island-ak-akiak-native-community-master-litigation` | $12B | Subsistence, governance |
+| Alatna Village | AK | `turtle-island-ak-alatna-village-master-litigation` | $12B | Subsistence, lands |
+| Aleut Community of St. Paul Island | AK | `turtle-island-ak-aleut-community-of-st-paul-island-see-pr-master-litigation` | $12B | Fur seal, ANCSA |
+| Algaaciq Native Village (St. Mary's) | AK | `turtle-island-ak-algaaciq-native-village-st-marys-master-litigation` | $12B | Subsistence, flooding |
+| Allakaket Village | AK | `turtle-island-ak-allakaket-village-master-litigation` | $12B | Subsistence, wildfires |
+| Alutiiq Tribe of Old Harbor | AK | `turtle-island-ak-alutiiq-tribe-of-old-harbor-master-litigation` | $12B | Fishing, tsunamis |
+| Angoon Community Association | AK | `turtle-island-ak-angoon-community-association-master-litigation` | $12B | Timber, subsistence |
+| Arctic Village (See Native Village of Venetie) | AK | `turtle-island-ak-arctic-village-see-native-village-of-ven-master-litigation` | $12B | ANILCA, caribou |
+| Asa'carsarmiut Tribe | AK | `turtle-island-ak-asacarsarmiut-tribe-master-litigation` | $12B | Subsistence, Yup'ik |
+| Atmautluak Native Village | AK | `turtle-island-ak-atmautluak-master-litigation` | $12B | Subsistence, erosion |
+| ... and 216 more | | | | |
 
-**Pacific (Western Washington/Oregon/California)** (103)
-- `turtle-island-ca-agua-caliente-band-of-cahuilla-indians-master-litigation`
-- `turtle-island-ca-alturas-indian-rancheria-master-litigation`
-- `turtle-island-ca-augustine-band-of-cahuilla-indians-master-litigation`
-- `turtle-island-ca-barona-band-of-mission-indians-master-litigation`
-- `turtle-island-ca-bear-river-band-of-rohnerville-rancheria-master-litigation`
-- ... and 98 more
+</details>
 
-**Western (Arizona/Nevada/Utah/Colorado)** (53)
-- `western-az-ak-chin-indian-community-master-litigation`
-- `western-az-cocopah-tribe-of-arizona-master-litigation`
-- `western-az-colorado-river-indian-tribes-master-litigation`
-- `western-az-fort-mojave-indian-tribe-master-litigation`
-- `western-az-gila-river-indian-community-master-litigation`
-- `western-az-havasupai-tribe-master-litigation`
-- `western-az-hopi-tribe-master-litigation`
-- `western-az-hualapai-indian-tribe-master-litigation`
-- `western-az-kaibab-band-of-paiute-indians-master-litigation`
-- `western-az-navajo-nation-master-litigation`
-- ... and 43 more
+#### Pacific (Western Washington/Oregon/California) (103)
+<details>
+<summary><strong>View All 103 Pacific Region Tribes</strong></summary>
 
-**Northwest (Washington/Idaho/Oregon/Montana)** (45)
-- `northwest-wa-confederated-tribes-of-the-yakama-nation-master-litigation`
-- `northwest-wa-confederated-tribes-of-the-colville-reservation-master-litigation`
-- `northwest-wa-confederated-tribes-of-the-chehalis-reservation-master-litigation`
-- `northwest-wa-lummi-tribe-master-litigation`
-- `northwest-wa-makah-indian-tribe-master-litigation`
-- `northwest-wa-puyallup-tribe-master-litigation`
-- `northwest-wa-quinault-indian-nation-master-litigation`
-- `northwest-wa-spokane-tribe-master-litigation`
-- `northwest-wa-yakama-nation-master-litigation`
-- ... and 36 more
+| Tribe | ISO | Repository | Pool | Key Issues |
+|-------|-----|------------|------|------------|
+| Agua Caliente Band of Cahuilla Indians | CA | `turtle-island-ca-agua-caliente-band-of-cahuilla-indians-master-litigation` | $25B | Water rights, gaming |
+| Alturas Indian Rancheria | CA | `turtle-island-ca-alturas-indian-rancheria-master-litigation` | $25B | Land restoration |
+| Augustine Band of Cahuilla Indians | CA | `turtle-island-ca-augustine-band-of-cahuilla-indians-master-litigation` | $25B | Land restoration |
+| Barona Band of Mission Indians | CA | `turtle-island-ca-barona-band-of-mission-indians-master-litigation` | $25B | Gaming, water |
+| Bear River Band of Rohnerville Rancheria | CA | `turtle-island-ca-bear-river-band-of-rohnerville-rancheria-master-litigation` | $25B | Salmon, lands |
+| ... and 98 more | | | | |
 
-- **Eastern** (37)
-- **Midwest** (36)
-- **Southwest** (25)
-- **Southern Plains** (24)
-- **Eastern Oklahoma** (20)
-- **Great Plains** (16)
-- **Rocky Mountain** (9)
-- **Navajo** (1)
+</details>
+
+#### Western (Arizona/Nevada/Utah/Colorado) (53)
+<details>
+<summary><strong>View All 53 Western Region Tribes</strong></summary>
+
+| Tribe | ISO | Repository | Pool | Key Issues |
+|-------|-----|------------|------|------------|
+| Ak-Chin Indian Community | AZ | `western-az-ak-chin-indian-community-master-litigation` | $40B | Water, farming |
+| Cocopah Tribe of Arizona | AZ | `western-az-cocopah-tribe-of-arizona-master-litigation` | $40B | Colorado River, farming |
+| Colorado River Indian Tribes | AZ | `western-az-colorado-river-indian-tribes-master-litigation` | $40B | Water rights, farming |
+| Fort Mojave Indian Tribe | AZ | `western-az-fort-mojave-indian-tribe-master-litigation` | $40B | Water, gaming |
+| Gila River Indian Community | AZ | `western-az-gila-river-indian-community-master-litigation` | $40B | Water, CAP |
+| Havasupai Tribe | AZ | `western-az-havasupai-tribe-master-litigation` | $40B | Grand Canyon, tourism |
+| Hopi Tribe | AZ | `western-az-hopi-tribe-master-litigation` | $40B | Coal, water, sacred sites |
+| Hualapai Indian Tribe | AZ | `western-az-hualapai-indian-tribe-master-litigation` | $40B | Tourism, water |
+| Kaibab Band of Paiute Indians | AZ | `western-az-kaibab-band-of-paiute-indians-master-litigation` | $40B | Tourism, water |
+| Navajo Nation (partial) | AZ | `western-az-navajo-nation-master-litigation` | $40B | Coal, water, uranium |
+| ... and 43 more | | | | |
+
+</details>
+
+#### Northwest (Washington/Idaho/Oregon/Montana) (45)
+<details>
+<summary><strong>View All 45 Northwest Region Tribes</strong></summary>
+
+| Tribe | ISO | Repository | Pool | Key Issues |
+|-------|-----|------------|------|------------|
+| Confederated Tribes of the Yakama Nation | WA | `northwest-wa-confederated-tribes-of-the-yakama-nation-master-litigation` | $35B | Salmon, forestry |
+| Confederated Tribes of the Colville Reservation | WA | `northwest-wa-confederated-tribes-of-the-colville-reservation-master-litigation` | $35B | Hydropower, mining |
+| Confederated Tribes of the Chehalis Reservation | WA | `northwest-wa-confederated-tribes-of-the-chehalis-reservation-master-litigation` | $35B | Salmon, flood control |
+| Lummi Tribe | WA | `northwest-wa-lummi-tribe-master-litigation` | $35B | Salmon, tidelands |
+| Makah Indian Tribe | WA | `northwest-wa-makah-indian-tribe-master-litigation` | $35B | Whaling, fisheries |
+| Puyallup Tribe | WA | `northwest-wa-puyallup-tribe-master-litigation` | $35B | Port, salmon |
+| Quinault Indian Nation | WA | `northwest-wa-quinault-indian-nation-master-litigation` | $35B | Timber, salmon |
+| Spokane Tribe | WA | `northwest-wa-spokane-tribe-master-litigation` | $35B | Uranium, salmon |
+| Yakama Nation | WA | `northwest-wa-yakama-nation-master-litigation` | $35B | Salmon, forestry |
+| ... and 36 more | | | | |
+
+</details>
+
+#### Eastern (37)
+<details>
+<summary><strong>View All 37 Eastern Region Tribes</strong></summary>
+
+| Tribe | State | Repository | Pool | Key Issues |
+|-------|-------|------------|------|------------|
+| *37 Eastern region tribes* | Various | *See individual repositories* | $30B | Treaty rights, recognition |
+
+</details>
+
+#### Midwest (36)
+<details>
+<summary><strong>View All 36 Midwest Region Tribes</strong></summary>
+
+| Tribe | State | Repository | Pool | Key Issues |
+|-------|-------|------------|------|------------|
+| *36 Midwest region tribes* | Various | *See individual repositories* | $30B | Treaty rights, gaming |
+
+</details>
+
+#### Southwest (25)
+<details>
+<summary><strong>View All 25 Southwest Region Tribes</strong></summary>
+
+| Tribe | State | Repository | Pool | Key Issues |
+|-------|-------|------------|------|------------|
+| *25 Southwest region tribes* | Various | *See individual repositories* | $25B | Water, sacred sites |
+
+</details>
+
+#### Southern Plains (24)
+<details>
+<summary><strong>View All 24 Southern Plains Region Tribes</strong></summary>
+
+| Tribe | State | Repository | Pool | Key Issues |
+|-------|-------|------------|------|------------|
+| *24 Southern Plains region tribes* | Various | *See individual repositories* | $25B | Gaming, water |
+
+</details>
+
+#### Eastern Oklahoma (20)
+<details>
+<summary><strong>View All 20 Eastern Oklahoma Region Tribes</strong></summary>
+
+| Tribe | State | Repository | Pool | Key Issues |
+|-------|-------|------------|------|------------|
+| *20 Eastern Oklahoma tribes* | OK | *See individual repositories* | $60B | Gaming, jurisdiction |
+
+</details>
+
+#### Great Plains (16)
+<details>
+<summary><strong>View All 16 Great Plains Region Tribes</strong></summary>
+
+| Tribe | State | Repository | Pool | Key Issues |
+|-------|-------|------------|------|------------|
+| *16 Great Plains tribes* | Various | *See individual repositories* | $50B | Water, energy |
+
+</details>
+
+#### Rocky Mountain (9)
+<details>
+<summary><strong>View All 9 Rocky Mountain Region Tribes</strong></summary>
+
+| Tribe | State | Repository | Pool | Key Issues |
+|-------|-------|------------|------|------------|
+| *9 Rocky Mountain tribes* | Various | *See individual repositories* | $40B | Minerals, water |
+
+</details>
+
+#### Navajo (1)
+<details>
+<summary><strong>View Navajo Nation</strong></summary>
+
+| Tribe | ISO | Repository | Pool | Key Issues |
+|-------|-----|------------|------|------------|
+| Navajo Nation | AZ/NM/UT | `western-az-navajo-nation-master-litigation` | $100B | Coal, water, uranium, DAPL |
 
 </details>
 
