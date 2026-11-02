@@ -106,7 +106,14 @@ Each jurisdiction below expands to show all repositories in that continental the
 - `northwest-wa-yakama-nation-master-litigation`
 - ... and 36 more
 
-**Eastern** (37) | **Midwest** (36) | **Southwest** (25) | **Southern Plains** (24) | **Eastern Oklahoma** (20) | **Great Plains** (16) | **Rocky Mountain** (9) | **Navajo** (1)
+- **Eastern** (37)
+- **Midwest** (36)
+- **Southwest** (25)
+- **Southern Plains** (24)
+- **Eastern Oklahoma** (20)
+- **Great Plains** (16)
+- **Rocky Mountain** (9)
+- **Navajo** (1)
 
 </details>
 
@@ -178,10 +185,10 @@ Each jurisdiction below expands to show all repositories in that continental the
 
 ---
 
-###  **Latin America**  33 Sovereign Nations + Puerto Rico
+###  **Latin America**  34
 
 <details>
-<summary><strong>View All 34 Latin American Jurisdictions (33 Sovereign + Puerto Rico)</strong></summary>
+<summary><strong>View All 34 Latin American Jurisdictions</strong></summary>
 
 | Country | ISO | Repository | Pool | Key Issues |
 |---------|-----|------------|------|------------|
@@ -323,10 +330,10 @@ Each jurisdiction below expands to show all repositories in that continental the
 
 ---
 
-###  **African American Reparations**  1 Collective Jurisdiction
+###  **African American Reparations**
 
 <details>
-<summary><strong>View African American Reparations Jurisdiction</strong></summary>
+<summary><strong>African American Reparations Jurisdiction</strong></summary>
 
 | Jurisdiction | Repository | Pool | Key Issues |
 |--------------|------------|------|------------|
@@ -336,10 +343,10 @@ Each jurisdiction below expands to show all repositories in that continental the
 
 ---
 
-###  **Domestic Victims of US Policy**  4 Collective Jurisdictions
+###  **Domestic Victims of US Policy**
 
 <details>
-<summary><strong>View All 4 Domestic Victim Jurisdictions</strong></summary>
+<summary><strong>Domestic Victims of US Policy</strong></summary>
 
 | Jurisdiction | Repository | Pool | Key Issues |
 |--------------|------------|------|------------|
@@ -431,7 +438,7 @@ We welcome contributions from legal scholars, historians, technologists, and aff
 ## Contact
 
 - **Organization**: Global Restitution Alliance
-- **Email**: legal@globalrestitutionalliance.org
+- **Email**: bb2254556@gmail.com
 - **GitHub**: [github.com/GlobalRestitutionAlliance](https://github.com/GlobalRestitutionAlliance)
 
 ---
