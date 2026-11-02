@@ -532,7 +532,7 @@ We welcome contributions from legal scholars, historians, technologists, and aff
 ## Contact
 
 - **Organization**: Global Restitution Alliance
-- **Email**: bb2254556@gmail.com
+- **Email**: 350351838+GlobalRestitutionAlliance@users.noreply.github.com
 - **GitHub**: [github.com/GlobalRestitutionAlliance](https://github.com/GlobalRestitutionAlliance)
 
 ---
