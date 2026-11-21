@@ -1,0 +1,757 @@
+skills:
+  - id: skill_eastern_oklahoma_001
+    name: EASTERN_OKLAHOMA Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_002
+    name: EASTERN_OKLAHOMA Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_003
+    name: EASTERN_OKLAHOMA Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_004
+    name: EASTERN_OKLAHOMA Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_005
+    name: EASTERN_OKLAHOMA Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_006
+    name: EASTERN_OKLAHOMA Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_007
+    name: EASTERN_OKLAHOMA Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_008
+    name: EASTERN_OKLAHOMA Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_009
+    name: EASTERN_OKLAHOMA Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_010
+    name: EASTERN_OKLAHOMA Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_011
+    name: EASTERN_OKLAHOMA Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_012
+    name: EASTERN_OKLAHOMA Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_013
+    name: EASTERN_OKLAHOMA Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_014
+    name: EASTERN_OKLAHOMA Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_015
+    name: EASTERN_OKLAHOMA Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_016
+    name: EASTERN_OKLAHOMA Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_017
+    name: EASTERN_OKLAHOMA Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_018
+    name: EASTERN_OKLAHOMA Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_019
+    name: EASTERN_OKLAHOMA Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_020
+    name: EASTERN_OKLAHOMA Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_021
+    name: EASTERN_OKLAHOMA Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_022
+    name: EASTERN_OKLAHOMA Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_023
+    name: EASTERN_OKLAHOMA Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_024
+    name: EASTERN_OKLAHOMA Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_025
+    name: EASTERN_OKLAHOMA Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_026
+    name: EASTERN_OKLAHOMA Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_027
+    name: EASTERN_OKLAHOMA Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_028
+    name: EASTERN_OKLAHOMA Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_029
+    name: EASTERN_OKLAHOMA Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_030
+    name: EASTERN_OKLAHOMA Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_031
+    name: EASTERN_OKLAHOMA Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_032
+    name: EASTERN_OKLAHOMA Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_033
+    name: EASTERN_OKLAHOMA Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_034
+    name: EASTERN_OKLAHOMA Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_035
+    name: EASTERN_OKLAHOMA Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_036
+    name: EASTERN_OKLAHOMA Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_037
+    name: EASTERN_OKLAHOMA Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_038
+    name: EASTERN_OKLAHOMA Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_039
+    name: EASTERN_OKLAHOMA Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_040
+    name: EASTERN_OKLAHOMA Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_041
+    name: EASTERN_OKLAHOMA Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_042
+    name: EASTERN_OKLAHOMA Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_043
+    name: EASTERN_OKLAHOMA Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_044
+    name: EASTERN_OKLAHOMA Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_045
+    name: EASTERN_OKLAHOMA Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_046
+    name: EASTERN_OKLAHOMA Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_047
+    name: EASTERN_OKLAHOMA Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_048
+    name: EASTERN_OKLAHOMA Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_049
+    name: EASTERN_OKLAHOMA Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_050
+    name: EASTERN_OKLAHOMA Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_051
+    name: EASTERN_OKLAHOMA Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_052
+    name: EASTERN_OKLAHOMA Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_053
+    name: EASTERN_OKLAHOMA Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_054
+    name: EASTERN_OKLAHOMA Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_055
+    name: EASTERN_OKLAHOMA Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_056
+    name: EASTERN_OKLAHOMA Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_057
+    name: EASTERN_OKLAHOMA Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_058
+    name: EASTERN_OKLAHOMA Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_059
+    name: EASTERN_OKLAHOMA Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_060
+    name: EASTERN_OKLAHOMA Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_061
+    name: EASTERN_OKLAHOMA Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_062
+    name: EASTERN_OKLAHOMA Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_063
+    name: EASTERN_OKLAHOMA Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_064
+    name: EASTERN_OKLAHOMA Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_065
+    name: EASTERN_OKLAHOMA Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_066
+    name: EASTERN_OKLAHOMA Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_067
+    name: EASTERN_OKLAHOMA Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_068
+    name: EASTERN_OKLAHOMA Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_069
+    name: EASTERN_OKLAHOMA Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_070
+    name: EASTERN_OKLAHOMA Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_071
+    name: EASTERN_OKLAHOMA Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_072
+    name: EASTERN_OKLAHOMA Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_073
+    name: EASTERN_OKLAHOMA Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_074
+    name: EASTERN_OKLAHOMA Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_075
+    name: EASTERN_OKLAHOMA Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_076
+    name: EASTERN_OKLAHOMA Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_077
+    name: EASTERN_OKLAHOMA Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_078
+    name: EASTERN_OKLAHOMA Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_079
+    name: EASTERN_OKLAHOMA Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_080
+    name: EASTERN_OKLAHOMA Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_081
+    name: EASTERN_OKLAHOMA Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_082
+    name: EASTERN_OKLAHOMA Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_083
+    name: EASTERN_OKLAHOMA Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_084
+    name: EASTERN_OKLAHOMA Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_085
+    name: EASTERN_OKLAHOMA Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_086
+    name: EASTERN_OKLAHOMA Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_087
+    name: EASTERN_OKLAHOMA Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_088
+    name: EASTERN_OKLAHOMA Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_089
+    name: EASTERN_OKLAHOMA Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_090
+    name: EASTERN_OKLAHOMA Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_091
+    name: EASTERN_OKLAHOMA Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_092
+    name: EASTERN_OKLAHOMA Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_093
+    name: EASTERN_OKLAHOMA Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_094
+    name: EASTERN_OKLAHOMA Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_095
+    name: EASTERN_OKLAHOMA Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_096
+    name: EASTERN_OKLAHOMA Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_097
+    name: EASTERN_OKLAHOMA Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_098
+    name: EASTERN_OKLAHOMA Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_099
+    name: EASTERN_OKLAHOMA Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_100
+    name: EASTERN_OKLAHOMA Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_101
+    name: EASTERN_OKLAHOMA Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_102
+    name: EASTERN_OKLAHOMA Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_103
+    name: EASTERN_OKLAHOMA Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_104
+    name: EASTERN_OKLAHOMA Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_105
+    name: EASTERN_OKLAHOMA Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_106
+    name: EASTERN_OKLAHOMA Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_107
+    name: EASTERN_OKLAHOMA Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_108
+    name: EASTERN_OKLAHOMA Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_109
+    name: EASTERN_OKLAHOMA Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_110
+    name: EASTERN_OKLAHOMA Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_111
+    name: EASTERN_OKLAHOMA Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_112
+    name: EASTERN_OKLAHOMA Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_113
+    name: EASTERN_OKLAHOMA Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_114
+    name: EASTERN_OKLAHOMA Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_115
+    name: EASTERN_OKLAHOMA Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_116
+    name: EASTERN_OKLAHOMA Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_117
+    name: EASTERN_OKLAHOMA Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_118
+    name: EASTERN_OKLAHOMA Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_119
+    name: EASTERN_OKLAHOMA Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_120
+    name: EASTERN_OKLAHOMA Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_121
+    name: EASTERN_OKLAHOMA Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_122
+    name: EASTERN_OKLAHOMA Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_123
+    name: EASTERN_OKLAHOMA Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_124
+    name: EASTERN_OKLAHOMA Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_125
+    name: EASTERN_OKLAHOMA Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_126
+    name: EASTERN_OKLAHOMA Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_127
+    name: EASTERN_OKLAHOMA Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_128
+    name: EASTERN_OKLAHOMA Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_129
+    name: EASTERN_OKLAHOMA Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_130
+    name: EASTERN_OKLAHOMA Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_131
+    name: EASTERN_OKLAHOMA Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_132
+    name: EASTERN_OKLAHOMA Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_133
+    name: EASTERN_OKLAHOMA Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_134
+    name: EASTERN_OKLAHOMA Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_135
+    name: EASTERN_OKLAHOMA Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_136
+    name: EASTERN_OKLAHOMA Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_137
+    name: EASTERN_OKLAHOMA Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_138
+    name: EASTERN_OKLAHOMA Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_139
+    name: EASTERN_OKLAHOMA Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_140
+    name: EASTERN_OKLAHOMA Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_141
+    name: EASTERN_OKLAHOMA Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_142
+    name: EASTERN_OKLAHOMA Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_143
+    name: EASTERN_OKLAHOMA Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_144
+    name: EASTERN_OKLAHOMA Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_145
+    name: EASTERN_OKLAHOMA Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_146
+    name: EASTERN_OKLAHOMA Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_147
+    name: EASTERN_OKLAHOMA Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_148
+    name: EASTERN_OKLAHOMA Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_149
+    name: EASTERN_OKLAHOMA Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_150
+    name: EASTERN_OKLAHOMA Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_151
+    name: EASTERN_OKLAHOMA Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_152
+    name: EASTERN_OKLAHOMA Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_153
+    name: EASTERN_OKLAHOMA Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_154
+    name: EASTERN_OKLAHOMA Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_155
+    name: EASTERN_OKLAHOMA Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_156
+    name: EASTERN_OKLAHOMA Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_157
+    name: EASTERN_OKLAHOMA Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_158
+    name: EASTERN_OKLAHOMA Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_159
+    name: EASTERN_OKLAHOMA Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_160
+    name: EASTERN_OKLAHOMA Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_161
+    name: EASTERN_OKLAHOMA Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_162
+    name: EASTERN_OKLAHOMA Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_163
+    name: EASTERN_OKLAHOMA Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_164
+    name: EASTERN_OKLAHOMA Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_165
+    name: EASTERN_OKLAHOMA Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_166
+    name: EASTERN_OKLAHOMA Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_167
+    name: EASTERN_OKLAHOMA Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_168
+    name: EASTERN_OKLAHOMA Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_169
+    name: EASTERN_OKLAHOMA Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_170
+    name: EASTERN_OKLAHOMA Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_171
+    name: EASTERN_OKLAHOMA Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_172
+    name: EASTERN_OKLAHOMA Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_173
+    name: EASTERN_OKLAHOMA Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_174
+    name: EASTERN_OKLAHOMA Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_175
+    name: EASTERN_OKLAHOMA Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_176
+    name: EASTERN_OKLAHOMA Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_177
+    name: EASTERN_OKLAHOMA Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_178
+    name: EASTERN_OKLAHOMA Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_179
+    name: EASTERN_OKLAHOMA Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_180
+    name: EASTERN_OKLAHOMA Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_181
+    name: EASTERN_OKLAHOMA Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_182
+    name: EASTERN_OKLAHOMA Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_183
+    name: EASTERN_OKLAHOMA Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_184
+    name: EASTERN_OKLAHOMA Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_185
+    name: EASTERN_OKLAHOMA Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_186
+    name: EASTERN_OKLAHOMA Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_187
+    name: EASTERN_OKLAHOMA Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_188
+    name: EASTERN_OKLAHOMA Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_189
+    name: EASTERN_OKLAHOMA Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_190
+    name: EASTERN_OKLAHOMA Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_191
+    name: EASTERN_OKLAHOMA Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_192
+    name: EASTERN_OKLAHOMA Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_193
+    name: EASTERN_OKLAHOMA Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_194
+    name: EASTERN_OKLAHOMA Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_195
+    name: EASTERN_OKLAHOMA Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_196
+    name: EASTERN_OKLAHOMA Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_197
+    name: EASTERN_OKLAHOMA Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_198
+    name: EASTERN_OKLAHOMA Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_199
+    name: EASTERN_OKLAHOMA Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_200
+    name: EASTERN_OKLAHOMA Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_201
+    name: EASTERN_OKLAHOMA Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_202
+    name: EASTERN_OKLAHOMA Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_203
+    name: EASTERN_OKLAHOMA Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_204
+    name: EASTERN_OKLAHOMA Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_205
+    name: EASTERN_OKLAHOMA Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_206
+    name: EASTERN_OKLAHOMA Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_207
+    name: EASTERN_OKLAHOMA Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_208
+    name: EASTERN_OKLAHOMA Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_209
+    name: EASTERN_OKLAHOMA Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_210
+    name: EASTERN_OKLAHOMA Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_211
+    name: EASTERN_OKLAHOMA Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_212
+    name: EASTERN_OKLAHOMA Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_213
+    name: EASTERN_OKLAHOMA Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_214
+    name: EASTERN_OKLAHOMA Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_215
+    name: EASTERN_OKLAHOMA Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_216
+    name: EASTERN_OKLAHOMA Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_217
+    name: EASTERN_OKLAHOMA Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_218
+    name: EASTERN_OKLAHOMA Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_219
+    name: EASTERN_OKLAHOMA Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_220
+    name: EASTERN_OKLAHOMA Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_221
+    name: EASTERN_OKLAHOMA Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_222
+    name: EASTERN_OKLAHOMA Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_223
+    name: EASTERN_OKLAHOMA Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_224
+    name: EASTERN_OKLAHOMA Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_225
+    name: EASTERN_OKLAHOMA Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_226
+    name: EASTERN_OKLAHOMA Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_227
+    name: EASTERN_OKLAHOMA Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_228
+    name: EASTERN_OKLAHOMA Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_229
+    name: EASTERN_OKLAHOMA Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_230
+    name: EASTERN_OKLAHOMA Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_231
+    name: EASTERN_OKLAHOMA Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_232
+    name: EASTERN_OKLAHOMA Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_233
+    name: EASTERN_OKLAHOMA Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_234
+    name: EASTERN_OKLAHOMA Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_235
+    name: EASTERN_OKLAHOMA Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_236
+    name: EASTERN_OKLAHOMA Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_237
+    name: EASTERN_OKLAHOMA Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_238
+    name: EASTERN_OKLAHOMA Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_239
+    name: EASTERN_OKLAHOMA Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_240
+    name: EASTERN_OKLAHOMA Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_241
+    name: EASTERN_OKLAHOMA Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_242
+    name: EASTERN_OKLAHOMA Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_243
+    name: EASTERN_OKLAHOMA Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_244
+    name: EASTERN_OKLAHOMA Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_245
+    name: EASTERN_OKLAHOMA Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_246
+    name: EASTERN_OKLAHOMA Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_247
+    name: EASTERN_OKLAHOMA Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_248
+    name: EASTERN_OKLAHOMA Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_249
+    name: EASTERN_OKLAHOMA Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_250
+    name: EASTERN_OKLAHOMA Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_251
+    name: EASTERN_OKLAHOMA Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_oklahoma_252
+    name: EASTERN_OKLAHOMA Skill 252
+    status: ACTIVE_SCAFFOLD

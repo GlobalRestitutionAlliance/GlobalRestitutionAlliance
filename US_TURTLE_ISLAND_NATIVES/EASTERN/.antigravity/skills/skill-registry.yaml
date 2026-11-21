@@ -1,0 +1,757 @@
+skills:
+  - id: skill_eastern_001
+    name: EASTERN Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_002
+    name: EASTERN Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_003
+    name: EASTERN Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_004
+    name: EASTERN Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_005
+    name: EASTERN Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_006
+    name: EASTERN Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_007
+    name: EASTERN Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_008
+    name: EASTERN Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_009
+    name: EASTERN Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_010
+    name: EASTERN Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_011
+    name: EASTERN Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_012
+    name: EASTERN Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_013
+    name: EASTERN Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_014
+    name: EASTERN Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_015
+    name: EASTERN Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_016
+    name: EASTERN Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_017
+    name: EASTERN Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_018
+    name: EASTERN Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_019
+    name: EASTERN Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_020
+    name: EASTERN Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_021
+    name: EASTERN Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_022
+    name: EASTERN Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_023
+    name: EASTERN Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_024
+    name: EASTERN Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_025
+    name: EASTERN Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_026
+    name: EASTERN Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_027
+    name: EASTERN Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_028
+    name: EASTERN Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_029
+    name: EASTERN Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_030
+    name: EASTERN Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_031
+    name: EASTERN Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_032
+    name: EASTERN Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_033
+    name: EASTERN Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_034
+    name: EASTERN Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_035
+    name: EASTERN Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_036
+    name: EASTERN Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_037
+    name: EASTERN Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_038
+    name: EASTERN Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_039
+    name: EASTERN Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_040
+    name: EASTERN Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_041
+    name: EASTERN Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_042
+    name: EASTERN Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_043
+    name: EASTERN Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_044
+    name: EASTERN Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_045
+    name: EASTERN Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_046
+    name: EASTERN Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_047
+    name: EASTERN Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_048
+    name: EASTERN Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_049
+    name: EASTERN Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_050
+    name: EASTERN Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_051
+    name: EASTERN Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_052
+    name: EASTERN Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_053
+    name: EASTERN Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_054
+    name: EASTERN Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_055
+    name: EASTERN Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_056
+    name: EASTERN Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_057
+    name: EASTERN Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_058
+    name: EASTERN Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_059
+    name: EASTERN Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_060
+    name: EASTERN Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_061
+    name: EASTERN Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_062
+    name: EASTERN Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_063
+    name: EASTERN Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_064
+    name: EASTERN Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_065
+    name: EASTERN Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_066
+    name: EASTERN Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_067
+    name: EASTERN Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_068
+    name: EASTERN Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_069
+    name: EASTERN Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_070
+    name: EASTERN Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_071
+    name: EASTERN Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_072
+    name: EASTERN Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_073
+    name: EASTERN Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_074
+    name: EASTERN Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_075
+    name: EASTERN Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_076
+    name: EASTERN Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_077
+    name: EASTERN Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_078
+    name: EASTERN Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_079
+    name: EASTERN Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_080
+    name: EASTERN Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_081
+    name: EASTERN Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_082
+    name: EASTERN Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_083
+    name: EASTERN Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_084
+    name: EASTERN Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_085
+    name: EASTERN Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_086
+    name: EASTERN Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_087
+    name: EASTERN Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_088
+    name: EASTERN Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_089
+    name: EASTERN Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_090
+    name: EASTERN Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_091
+    name: EASTERN Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_092
+    name: EASTERN Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_093
+    name: EASTERN Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_094
+    name: EASTERN Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_095
+    name: EASTERN Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_096
+    name: EASTERN Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_097
+    name: EASTERN Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_098
+    name: EASTERN Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_099
+    name: EASTERN Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_100
+    name: EASTERN Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_101
+    name: EASTERN Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_102
+    name: EASTERN Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_103
+    name: EASTERN Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_104
+    name: EASTERN Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_105
+    name: EASTERN Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_106
+    name: EASTERN Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_107
+    name: EASTERN Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_108
+    name: EASTERN Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_109
+    name: EASTERN Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_110
+    name: EASTERN Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_111
+    name: EASTERN Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_112
+    name: EASTERN Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_113
+    name: EASTERN Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_114
+    name: EASTERN Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_115
+    name: EASTERN Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_116
+    name: EASTERN Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_117
+    name: EASTERN Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_118
+    name: EASTERN Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_119
+    name: EASTERN Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_120
+    name: EASTERN Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_121
+    name: EASTERN Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_122
+    name: EASTERN Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_123
+    name: EASTERN Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_124
+    name: EASTERN Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_125
+    name: EASTERN Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_126
+    name: EASTERN Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_127
+    name: EASTERN Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_128
+    name: EASTERN Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_129
+    name: EASTERN Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_130
+    name: EASTERN Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_131
+    name: EASTERN Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_132
+    name: EASTERN Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_133
+    name: EASTERN Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_134
+    name: EASTERN Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_135
+    name: EASTERN Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_136
+    name: EASTERN Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_137
+    name: EASTERN Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_138
+    name: EASTERN Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_139
+    name: EASTERN Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_140
+    name: EASTERN Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_141
+    name: EASTERN Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_142
+    name: EASTERN Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_143
+    name: EASTERN Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_144
+    name: EASTERN Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_145
+    name: EASTERN Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_146
+    name: EASTERN Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_147
+    name: EASTERN Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_148
+    name: EASTERN Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_149
+    name: EASTERN Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_150
+    name: EASTERN Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_151
+    name: EASTERN Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_152
+    name: EASTERN Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_153
+    name: EASTERN Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_154
+    name: EASTERN Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_155
+    name: EASTERN Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_156
+    name: EASTERN Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_157
+    name: EASTERN Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_158
+    name: EASTERN Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_159
+    name: EASTERN Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_160
+    name: EASTERN Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_161
+    name: EASTERN Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_162
+    name: EASTERN Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_163
+    name: EASTERN Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_164
+    name: EASTERN Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_165
+    name: EASTERN Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_166
+    name: EASTERN Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_167
+    name: EASTERN Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_168
+    name: EASTERN Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_169
+    name: EASTERN Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_170
+    name: EASTERN Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_171
+    name: EASTERN Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_172
+    name: EASTERN Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_173
+    name: EASTERN Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_174
+    name: EASTERN Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_175
+    name: EASTERN Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_176
+    name: EASTERN Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_177
+    name: EASTERN Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_178
+    name: EASTERN Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_179
+    name: EASTERN Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_180
+    name: EASTERN Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_181
+    name: EASTERN Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_182
+    name: EASTERN Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_183
+    name: EASTERN Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_184
+    name: EASTERN Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_185
+    name: EASTERN Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_186
+    name: EASTERN Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_187
+    name: EASTERN Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_188
+    name: EASTERN Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_189
+    name: EASTERN Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_190
+    name: EASTERN Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_191
+    name: EASTERN Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_192
+    name: EASTERN Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_193
+    name: EASTERN Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_194
+    name: EASTERN Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_195
+    name: EASTERN Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_196
+    name: EASTERN Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_197
+    name: EASTERN Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_198
+    name: EASTERN Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_199
+    name: EASTERN Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_200
+    name: EASTERN Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_201
+    name: EASTERN Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_202
+    name: EASTERN Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_203
+    name: EASTERN Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_204
+    name: EASTERN Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_205
+    name: EASTERN Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_206
+    name: EASTERN Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_207
+    name: EASTERN Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_208
+    name: EASTERN Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_209
+    name: EASTERN Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_210
+    name: EASTERN Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_211
+    name: EASTERN Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_212
+    name: EASTERN Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_213
+    name: EASTERN Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_214
+    name: EASTERN Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_215
+    name: EASTERN Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_216
+    name: EASTERN Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_217
+    name: EASTERN Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_218
+    name: EASTERN Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_219
+    name: EASTERN Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_220
+    name: EASTERN Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_221
+    name: EASTERN Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_222
+    name: EASTERN Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_223
+    name: EASTERN Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_224
+    name: EASTERN Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_225
+    name: EASTERN Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_226
+    name: EASTERN Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_227
+    name: EASTERN Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_228
+    name: EASTERN Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_229
+    name: EASTERN Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_230
+    name: EASTERN Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_231
+    name: EASTERN Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_232
+    name: EASTERN Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_233
+    name: EASTERN Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_234
+    name: EASTERN Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_235
+    name: EASTERN Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_236
+    name: EASTERN Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_237
+    name: EASTERN Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_238
+    name: EASTERN Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_239
+    name: EASTERN Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_240
+    name: EASTERN Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_241
+    name: EASTERN Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_242
+    name: EASTERN Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_243
+    name: EASTERN Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_244
+    name: EASTERN Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_245
+    name: EASTERN Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_246
+    name: EASTERN Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_247
+    name: EASTERN Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_248
+    name: EASTERN Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_249
+    name: EASTERN Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_250
+    name: EASTERN Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_251
+    name: EASTERN Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_eastern_252
+    name: EASTERN Skill 252
+    status: ACTIVE_SCAFFOLD

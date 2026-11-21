@@ -1,0 +1,757 @@
+skills:
+  - id: skill_southern_plains_001
+    name: SOUTHERN_PLAINS Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_002
+    name: SOUTHERN_PLAINS Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_003
+    name: SOUTHERN_PLAINS Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_004
+    name: SOUTHERN_PLAINS Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_005
+    name: SOUTHERN_PLAINS Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_006
+    name: SOUTHERN_PLAINS Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_007
+    name: SOUTHERN_PLAINS Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_008
+    name: SOUTHERN_PLAINS Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_009
+    name: SOUTHERN_PLAINS Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_010
+    name: SOUTHERN_PLAINS Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_011
+    name: SOUTHERN_PLAINS Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_012
+    name: SOUTHERN_PLAINS Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_013
+    name: SOUTHERN_PLAINS Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_014
+    name: SOUTHERN_PLAINS Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_015
+    name: SOUTHERN_PLAINS Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_016
+    name: SOUTHERN_PLAINS Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_017
+    name: SOUTHERN_PLAINS Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_018
+    name: SOUTHERN_PLAINS Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_019
+    name: SOUTHERN_PLAINS Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_020
+    name: SOUTHERN_PLAINS Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_021
+    name: SOUTHERN_PLAINS Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_022
+    name: SOUTHERN_PLAINS Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_023
+    name: SOUTHERN_PLAINS Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_024
+    name: SOUTHERN_PLAINS Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_025
+    name: SOUTHERN_PLAINS Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_026
+    name: SOUTHERN_PLAINS Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_027
+    name: SOUTHERN_PLAINS Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_028
+    name: SOUTHERN_PLAINS Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_029
+    name: SOUTHERN_PLAINS Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_030
+    name: SOUTHERN_PLAINS Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_031
+    name: SOUTHERN_PLAINS Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_032
+    name: SOUTHERN_PLAINS Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_033
+    name: SOUTHERN_PLAINS Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_034
+    name: SOUTHERN_PLAINS Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_035
+    name: SOUTHERN_PLAINS Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_036
+    name: SOUTHERN_PLAINS Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_037
+    name: SOUTHERN_PLAINS Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_038
+    name: SOUTHERN_PLAINS Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_039
+    name: SOUTHERN_PLAINS Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_040
+    name: SOUTHERN_PLAINS Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_041
+    name: SOUTHERN_PLAINS Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_042
+    name: SOUTHERN_PLAINS Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_043
+    name: SOUTHERN_PLAINS Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_044
+    name: SOUTHERN_PLAINS Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_045
+    name: SOUTHERN_PLAINS Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_046
+    name: SOUTHERN_PLAINS Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_047
+    name: SOUTHERN_PLAINS Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_048
+    name: SOUTHERN_PLAINS Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_049
+    name: SOUTHERN_PLAINS Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_050
+    name: SOUTHERN_PLAINS Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_051
+    name: SOUTHERN_PLAINS Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_052
+    name: SOUTHERN_PLAINS Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_053
+    name: SOUTHERN_PLAINS Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_054
+    name: SOUTHERN_PLAINS Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_055
+    name: SOUTHERN_PLAINS Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_056
+    name: SOUTHERN_PLAINS Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_057
+    name: SOUTHERN_PLAINS Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_058
+    name: SOUTHERN_PLAINS Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_059
+    name: SOUTHERN_PLAINS Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_060
+    name: SOUTHERN_PLAINS Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_061
+    name: SOUTHERN_PLAINS Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_062
+    name: SOUTHERN_PLAINS Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_063
+    name: SOUTHERN_PLAINS Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_064
+    name: SOUTHERN_PLAINS Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_065
+    name: SOUTHERN_PLAINS Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_066
+    name: SOUTHERN_PLAINS Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_067
+    name: SOUTHERN_PLAINS Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_068
+    name: SOUTHERN_PLAINS Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_069
+    name: SOUTHERN_PLAINS Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_070
+    name: SOUTHERN_PLAINS Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_071
+    name: SOUTHERN_PLAINS Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_072
+    name: SOUTHERN_PLAINS Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_073
+    name: SOUTHERN_PLAINS Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_074
+    name: SOUTHERN_PLAINS Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_075
+    name: SOUTHERN_PLAINS Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_076
+    name: SOUTHERN_PLAINS Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_077
+    name: SOUTHERN_PLAINS Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_078
+    name: SOUTHERN_PLAINS Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_079
+    name: SOUTHERN_PLAINS Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_080
+    name: SOUTHERN_PLAINS Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_081
+    name: SOUTHERN_PLAINS Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_082
+    name: SOUTHERN_PLAINS Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_083
+    name: SOUTHERN_PLAINS Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_084
+    name: SOUTHERN_PLAINS Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_085
+    name: SOUTHERN_PLAINS Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_086
+    name: SOUTHERN_PLAINS Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_087
+    name: SOUTHERN_PLAINS Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_088
+    name: SOUTHERN_PLAINS Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_089
+    name: SOUTHERN_PLAINS Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_090
+    name: SOUTHERN_PLAINS Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_091
+    name: SOUTHERN_PLAINS Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_092
+    name: SOUTHERN_PLAINS Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_093
+    name: SOUTHERN_PLAINS Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_094
+    name: SOUTHERN_PLAINS Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_095
+    name: SOUTHERN_PLAINS Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_096
+    name: SOUTHERN_PLAINS Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_097
+    name: SOUTHERN_PLAINS Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_098
+    name: SOUTHERN_PLAINS Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_099
+    name: SOUTHERN_PLAINS Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_100
+    name: SOUTHERN_PLAINS Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_101
+    name: SOUTHERN_PLAINS Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_102
+    name: SOUTHERN_PLAINS Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_103
+    name: SOUTHERN_PLAINS Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_104
+    name: SOUTHERN_PLAINS Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_105
+    name: SOUTHERN_PLAINS Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_106
+    name: SOUTHERN_PLAINS Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_107
+    name: SOUTHERN_PLAINS Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_108
+    name: SOUTHERN_PLAINS Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_109
+    name: SOUTHERN_PLAINS Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_110
+    name: SOUTHERN_PLAINS Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_111
+    name: SOUTHERN_PLAINS Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_112
+    name: SOUTHERN_PLAINS Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_113
+    name: SOUTHERN_PLAINS Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_114
+    name: SOUTHERN_PLAINS Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_115
+    name: SOUTHERN_PLAINS Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_116
+    name: SOUTHERN_PLAINS Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_117
+    name: SOUTHERN_PLAINS Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_118
+    name: SOUTHERN_PLAINS Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_119
+    name: SOUTHERN_PLAINS Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_120
+    name: SOUTHERN_PLAINS Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_121
+    name: SOUTHERN_PLAINS Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_122
+    name: SOUTHERN_PLAINS Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_123
+    name: SOUTHERN_PLAINS Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_124
+    name: SOUTHERN_PLAINS Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_125
+    name: SOUTHERN_PLAINS Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_126
+    name: SOUTHERN_PLAINS Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_127
+    name: SOUTHERN_PLAINS Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_128
+    name: SOUTHERN_PLAINS Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_129
+    name: SOUTHERN_PLAINS Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_130
+    name: SOUTHERN_PLAINS Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_131
+    name: SOUTHERN_PLAINS Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_132
+    name: SOUTHERN_PLAINS Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_133
+    name: SOUTHERN_PLAINS Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_134
+    name: SOUTHERN_PLAINS Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_135
+    name: SOUTHERN_PLAINS Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_136
+    name: SOUTHERN_PLAINS Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_137
+    name: SOUTHERN_PLAINS Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_138
+    name: SOUTHERN_PLAINS Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_139
+    name: SOUTHERN_PLAINS Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_140
+    name: SOUTHERN_PLAINS Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_141
+    name: SOUTHERN_PLAINS Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_142
+    name: SOUTHERN_PLAINS Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_143
+    name: SOUTHERN_PLAINS Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_144
+    name: SOUTHERN_PLAINS Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_145
+    name: SOUTHERN_PLAINS Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_146
+    name: SOUTHERN_PLAINS Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_147
+    name: SOUTHERN_PLAINS Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_148
+    name: SOUTHERN_PLAINS Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_149
+    name: SOUTHERN_PLAINS Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_150
+    name: SOUTHERN_PLAINS Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_151
+    name: SOUTHERN_PLAINS Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_152
+    name: SOUTHERN_PLAINS Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_153
+    name: SOUTHERN_PLAINS Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_154
+    name: SOUTHERN_PLAINS Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_155
+    name: SOUTHERN_PLAINS Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_156
+    name: SOUTHERN_PLAINS Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_157
+    name: SOUTHERN_PLAINS Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_158
+    name: SOUTHERN_PLAINS Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_159
+    name: SOUTHERN_PLAINS Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_160
+    name: SOUTHERN_PLAINS Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_161
+    name: SOUTHERN_PLAINS Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_162
+    name: SOUTHERN_PLAINS Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_163
+    name: SOUTHERN_PLAINS Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_164
+    name: SOUTHERN_PLAINS Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_165
+    name: SOUTHERN_PLAINS Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_166
+    name: SOUTHERN_PLAINS Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_167
+    name: SOUTHERN_PLAINS Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_168
+    name: SOUTHERN_PLAINS Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_169
+    name: SOUTHERN_PLAINS Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_170
+    name: SOUTHERN_PLAINS Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_171
+    name: SOUTHERN_PLAINS Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_172
+    name: SOUTHERN_PLAINS Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_173
+    name: SOUTHERN_PLAINS Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_174
+    name: SOUTHERN_PLAINS Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_175
+    name: SOUTHERN_PLAINS Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_176
+    name: SOUTHERN_PLAINS Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_177
+    name: SOUTHERN_PLAINS Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_178
+    name: SOUTHERN_PLAINS Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_179
+    name: SOUTHERN_PLAINS Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_180
+    name: SOUTHERN_PLAINS Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_181
+    name: SOUTHERN_PLAINS Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_182
+    name: SOUTHERN_PLAINS Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_183
+    name: SOUTHERN_PLAINS Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_184
+    name: SOUTHERN_PLAINS Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_185
+    name: SOUTHERN_PLAINS Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_186
+    name: SOUTHERN_PLAINS Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_187
+    name: SOUTHERN_PLAINS Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_188
+    name: SOUTHERN_PLAINS Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_189
+    name: SOUTHERN_PLAINS Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_190
+    name: SOUTHERN_PLAINS Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_191
+    name: SOUTHERN_PLAINS Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_192
+    name: SOUTHERN_PLAINS Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_193
+    name: SOUTHERN_PLAINS Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_194
+    name: SOUTHERN_PLAINS Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_195
+    name: SOUTHERN_PLAINS Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_196
+    name: SOUTHERN_PLAINS Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_197
+    name: SOUTHERN_PLAINS Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_198
+    name: SOUTHERN_PLAINS Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_199
+    name: SOUTHERN_PLAINS Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_200
+    name: SOUTHERN_PLAINS Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_201
+    name: SOUTHERN_PLAINS Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_202
+    name: SOUTHERN_PLAINS Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_203
+    name: SOUTHERN_PLAINS Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_204
+    name: SOUTHERN_PLAINS Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_205
+    name: SOUTHERN_PLAINS Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_206
+    name: SOUTHERN_PLAINS Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_207
+    name: SOUTHERN_PLAINS Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_208
+    name: SOUTHERN_PLAINS Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_209
+    name: SOUTHERN_PLAINS Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_210
+    name: SOUTHERN_PLAINS Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_211
+    name: SOUTHERN_PLAINS Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_212
+    name: SOUTHERN_PLAINS Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_213
+    name: SOUTHERN_PLAINS Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_214
+    name: SOUTHERN_PLAINS Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_215
+    name: SOUTHERN_PLAINS Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_216
+    name: SOUTHERN_PLAINS Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_217
+    name: SOUTHERN_PLAINS Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_218
+    name: SOUTHERN_PLAINS Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_219
+    name: SOUTHERN_PLAINS Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_220
+    name: SOUTHERN_PLAINS Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_221
+    name: SOUTHERN_PLAINS Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_222
+    name: SOUTHERN_PLAINS Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_223
+    name: SOUTHERN_PLAINS Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_224
+    name: SOUTHERN_PLAINS Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_225
+    name: SOUTHERN_PLAINS Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_226
+    name: SOUTHERN_PLAINS Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_227
+    name: SOUTHERN_PLAINS Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_228
+    name: SOUTHERN_PLAINS Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_229
+    name: SOUTHERN_PLAINS Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_230
+    name: SOUTHERN_PLAINS Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_231
+    name: SOUTHERN_PLAINS Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_232
+    name: SOUTHERN_PLAINS Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_233
+    name: SOUTHERN_PLAINS Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_234
+    name: SOUTHERN_PLAINS Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_235
+    name: SOUTHERN_PLAINS Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_236
+    name: SOUTHERN_PLAINS Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_237
+    name: SOUTHERN_PLAINS Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_238
+    name: SOUTHERN_PLAINS Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_239
+    name: SOUTHERN_PLAINS Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_240
+    name: SOUTHERN_PLAINS Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_241
+    name: SOUTHERN_PLAINS Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_242
+    name: SOUTHERN_PLAINS Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_243
+    name: SOUTHERN_PLAINS Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_244
+    name: SOUTHERN_PLAINS Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_245
+    name: SOUTHERN_PLAINS Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_246
+    name: SOUTHERN_PLAINS Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_247
+    name: SOUTHERN_PLAINS Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_248
+    name: SOUTHERN_PLAINS Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_249
+    name: SOUTHERN_PLAINS Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_250
+    name: SOUTHERN_PLAINS Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_251
+    name: SOUTHERN_PLAINS Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_southern_plains_252
+    name: SOUTHERN_PLAINS Skill 252
+    status: ACTIVE_SCAFFOLD

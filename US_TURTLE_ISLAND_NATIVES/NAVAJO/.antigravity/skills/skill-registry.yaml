@@ -1,0 +1,757 @@
+skills:
+  - id: skill_navajo_001
+    name: NAVAJO Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_002
+    name: NAVAJO Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_003
+    name: NAVAJO Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_004
+    name: NAVAJO Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_005
+    name: NAVAJO Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_006
+    name: NAVAJO Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_007
+    name: NAVAJO Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_008
+    name: NAVAJO Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_009
+    name: NAVAJO Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_010
+    name: NAVAJO Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_011
+    name: NAVAJO Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_012
+    name: NAVAJO Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_013
+    name: NAVAJO Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_014
+    name: NAVAJO Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_015
+    name: NAVAJO Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_016
+    name: NAVAJO Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_017
+    name: NAVAJO Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_018
+    name: NAVAJO Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_019
+    name: NAVAJO Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_020
+    name: NAVAJO Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_021
+    name: NAVAJO Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_022
+    name: NAVAJO Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_023
+    name: NAVAJO Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_024
+    name: NAVAJO Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_025
+    name: NAVAJO Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_026
+    name: NAVAJO Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_027
+    name: NAVAJO Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_028
+    name: NAVAJO Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_029
+    name: NAVAJO Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_030
+    name: NAVAJO Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_031
+    name: NAVAJO Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_032
+    name: NAVAJO Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_033
+    name: NAVAJO Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_034
+    name: NAVAJO Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_035
+    name: NAVAJO Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_036
+    name: NAVAJO Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_037
+    name: NAVAJO Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_038
+    name: NAVAJO Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_039
+    name: NAVAJO Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_040
+    name: NAVAJO Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_041
+    name: NAVAJO Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_042
+    name: NAVAJO Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_043
+    name: NAVAJO Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_044
+    name: NAVAJO Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_045
+    name: NAVAJO Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_046
+    name: NAVAJO Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_047
+    name: NAVAJO Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_048
+    name: NAVAJO Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_049
+    name: NAVAJO Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_050
+    name: NAVAJO Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_051
+    name: NAVAJO Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_052
+    name: NAVAJO Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_053
+    name: NAVAJO Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_054
+    name: NAVAJO Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_055
+    name: NAVAJO Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_056
+    name: NAVAJO Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_057
+    name: NAVAJO Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_058
+    name: NAVAJO Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_059
+    name: NAVAJO Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_060
+    name: NAVAJO Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_061
+    name: NAVAJO Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_062
+    name: NAVAJO Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_063
+    name: NAVAJO Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_064
+    name: NAVAJO Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_065
+    name: NAVAJO Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_066
+    name: NAVAJO Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_067
+    name: NAVAJO Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_068
+    name: NAVAJO Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_069
+    name: NAVAJO Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_070
+    name: NAVAJO Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_071
+    name: NAVAJO Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_072
+    name: NAVAJO Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_073
+    name: NAVAJO Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_074
+    name: NAVAJO Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_075
+    name: NAVAJO Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_076
+    name: NAVAJO Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_077
+    name: NAVAJO Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_078
+    name: NAVAJO Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_079
+    name: NAVAJO Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_080
+    name: NAVAJO Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_081
+    name: NAVAJO Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_082
+    name: NAVAJO Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_083
+    name: NAVAJO Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_084
+    name: NAVAJO Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_085
+    name: NAVAJO Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_086
+    name: NAVAJO Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_087
+    name: NAVAJO Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_088
+    name: NAVAJO Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_089
+    name: NAVAJO Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_090
+    name: NAVAJO Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_091
+    name: NAVAJO Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_092
+    name: NAVAJO Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_093
+    name: NAVAJO Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_094
+    name: NAVAJO Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_095
+    name: NAVAJO Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_096
+    name: NAVAJO Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_097
+    name: NAVAJO Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_098
+    name: NAVAJO Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_099
+    name: NAVAJO Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_100
+    name: NAVAJO Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_101
+    name: NAVAJO Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_102
+    name: NAVAJO Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_103
+    name: NAVAJO Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_104
+    name: NAVAJO Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_105
+    name: NAVAJO Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_106
+    name: NAVAJO Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_107
+    name: NAVAJO Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_108
+    name: NAVAJO Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_109
+    name: NAVAJO Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_110
+    name: NAVAJO Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_111
+    name: NAVAJO Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_112
+    name: NAVAJO Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_113
+    name: NAVAJO Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_114
+    name: NAVAJO Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_115
+    name: NAVAJO Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_116
+    name: NAVAJO Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_117
+    name: NAVAJO Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_118
+    name: NAVAJO Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_119
+    name: NAVAJO Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_120
+    name: NAVAJO Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_121
+    name: NAVAJO Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_122
+    name: NAVAJO Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_123
+    name: NAVAJO Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_124
+    name: NAVAJO Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_125
+    name: NAVAJO Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_126
+    name: NAVAJO Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_127
+    name: NAVAJO Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_128
+    name: NAVAJO Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_129
+    name: NAVAJO Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_130
+    name: NAVAJO Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_131
+    name: NAVAJO Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_132
+    name: NAVAJO Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_133
+    name: NAVAJO Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_134
+    name: NAVAJO Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_135
+    name: NAVAJO Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_136
+    name: NAVAJO Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_137
+    name: NAVAJO Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_138
+    name: NAVAJO Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_139
+    name: NAVAJO Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_140
+    name: NAVAJO Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_141
+    name: NAVAJO Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_142
+    name: NAVAJO Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_143
+    name: NAVAJO Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_144
+    name: NAVAJO Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_145
+    name: NAVAJO Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_146
+    name: NAVAJO Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_147
+    name: NAVAJO Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_148
+    name: NAVAJO Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_149
+    name: NAVAJO Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_150
+    name: NAVAJO Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_151
+    name: NAVAJO Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_152
+    name: NAVAJO Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_153
+    name: NAVAJO Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_154
+    name: NAVAJO Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_155
+    name: NAVAJO Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_156
+    name: NAVAJO Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_157
+    name: NAVAJO Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_158
+    name: NAVAJO Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_159
+    name: NAVAJO Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_160
+    name: NAVAJO Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_161
+    name: NAVAJO Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_162
+    name: NAVAJO Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_163
+    name: NAVAJO Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_164
+    name: NAVAJO Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_165
+    name: NAVAJO Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_166
+    name: NAVAJO Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_167
+    name: NAVAJO Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_168
+    name: NAVAJO Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_169
+    name: NAVAJO Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_170
+    name: NAVAJO Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_171
+    name: NAVAJO Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_172
+    name: NAVAJO Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_173
+    name: NAVAJO Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_174
+    name: NAVAJO Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_175
+    name: NAVAJO Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_176
+    name: NAVAJO Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_177
+    name: NAVAJO Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_178
+    name: NAVAJO Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_179
+    name: NAVAJO Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_180
+    name: NAVAJO Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_181
+    name: NAVAJO Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_182
+    name: NAVAJO Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_183
+    name: NAVAJO Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_184
+    name: NAVAJO Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_185
+    name: NAVAJO Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_186
+    name: NAVAJO Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_187
+    name: NAVAJO Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_188
+    name: NAVAJO Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_189
+    name: NAVAJO Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_190
+    name: NAVAJO Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_191
+    name: NAVAJO Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_192
+    name: NAVAJO Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_193
+    name: NAVAJO Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_194
+    name: NAVAJO Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_195
+    name: NAVAJO Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_196
+    name: NAVAJO Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_197
+    name: NAVAJO Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_198
+    name: NAVAJO Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_199
+    name: NAVAJO Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_200
+    name: NAVAJO Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_201
+    name: NAVAJO Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_202
+    name: NAVAJO Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_203
+    name: NAVAJO Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_204
+    name: NAVAJO Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_205
+    name: NAVAJO Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_206
+    name: NAVAJO Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_207
+    name: NAVAJO Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_208
+    name: NAVAJO Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_209
+    name: NAVAJO Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_210
+    name: NAVAJO Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_211
+    name: NAVAJO Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_212
+    name: NAVAJO Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_213
+    name: NAVAJO Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_214
+    name: NAVAJO Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_215
+    name: NAVAJO Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_216
+    name: NAVAJO Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_217
+    name: NAVAJO Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_218
+    name: NAVAJO Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_219
+    name: NAVAJO Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_220
+    name: NAVAJO Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_221
+    name: NAVAJO Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_222
+    name: NAVAJO Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_223
+    name: NAVAJO Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_224
+    name: NAVAJO Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_225
+    name: NAVAJO Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_226
+    name: NAVAJO Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_227
+    name: NAVAJO Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_228
+    name: NAVAJO Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_229
+    name: NAVAJO Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_230
+    name: NAVAJO Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_231
+    name: NAVAJO Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_232
+    name: NAVAJO Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_233
+    name: NAVAJO Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_234
+    name: NAVAJO Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_235
+    name: NAVAJO Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_236
+    name: NAVAJO Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_237
+    name: NAVAJO Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_238
+    name: NAVAJO Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_239
+    name: NAVAJO Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_240
+    name: NAVAJO Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_241
+    name: NAVAJO Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_242
+    name: NAVAJO Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_243
+    name: NAVAJO Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_244
+    name: NAVAJO Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_245
+    name: NAVAJO Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_246
+    name: NAVAJO Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_247
+    name: NAVAJO Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_248
+    name: NAVAJO Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_249
+    name: NAVAJO Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_250
+    name: NAVAJO Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_251
+    name: NAVAJO Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_navajo_252
+    name: NAVAJO Skill 252
+    status: ACTIVE_SCAFFOLD

@@ -1,0 +1,757 @@
+skills:
+  - id: skill_pacific_001
+    name: PACIFIC Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_002
+    name: PACIFIC Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_003
+    name: PACIFIC Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_004
+    name: PACIFIC Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_005
+    name: PACIFIC Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_006
+    name: PACIFIC Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_007
+    name: PACIFIC Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_008
+    name: PACIFIC Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_009
+    name: PACIFIC Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_010
+    name: PACIFIC Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_011
+    name: PACIFIC Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_012
+    name: PACIFIC Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_013
+    name: PACIFIC Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_014
+    name: PACIFIC Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_015
+    name: PACIFIC Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_016
+    name: PACIFIC Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_017
+    name: PACIFIC Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_018
+    name: PACIFIC Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_019
+    name: PACIFIC Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_020
+    name: PACIFIC Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_021
+    name: PACIFIC Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_022
+    name: PACIFIC Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_023
+    name: PACIFIC Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_024
+    name: PACIFIC Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_025
+    name: PACIFIC Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_026
+    name: PACIFIC Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_027
+    name: PACIFIC Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_028
+    name: PACIFIC Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_029
+    name: PACIFIC Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_030
+    name: PACIFIC Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_031
+    name: PACIFIC Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_032
+    name: PACIFIC Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_033
+    name: PACIFIC Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_034
+    name: PACIFIC Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_035
+    name: PACIFIC Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_036
+    name: PACIFIC Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_037
+    name: PACIFIC Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_038
+    name: PACIFIC Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_039
+    name: PACIFIC Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_040
+    name: PACIFIC Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_041
+    name: PACIFIC Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_042
+    name: PACIFIC Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_043
+    name: PACIFIC Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_044
+    name: PACIFIC Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_045
+    name: PACIFIC Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_046
+    name: PACIFIC Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_047
+    name: PACIFIC Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_048
+    name: PACIFIC Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_049
+    name: PACIFIC Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_050
+    name: PACIFIC Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_051
+    name: PACIFIC Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_052
+    name: PACIFIC Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_053
+    name: PACIFIC Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_054
+    name: PACIFIC Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_055
+    name: PACIFIC Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_056
+    name: PACIFIC Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_057
+    name: PACIFIC Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_058
+    name: PACIFIC Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_059
+    name: PACIFIC Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_060
+    name: PACIFIC Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_061
+    name: PACIFIC Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_062
+    name: PACIFIC Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_063
+    name: PACIFIC Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_064
+    name: PACIFIC Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_065
+    name: PACIFIC Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_066
+    name: PACIFIC Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_067
+    name: PACIFIC Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_068
+    name: PACIFIC Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_069
+    name: PACIFIC Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_070
+    name: PACIFIC Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_071
+    name: PACIFIC Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_072
+    name: PACIFIC Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_073
+    name: PACIFIC Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_074
+    name: PACIFIC Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_075
+    name: PACIFIC Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_076
+    name: PACIFIC Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_077
+    name: PACIFIC Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_078
+    name: PACIFIC Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_079
+    name: PACIFIC Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_080
+    name: PACIFIC Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_081
+    name: PACIFIC Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_082
+    name: PACIFIC Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_083
+    name: PACIFIC Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_084
+    name: PACIFIC Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_085
+    name: PACIFIC Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_086
+    name: PACIFIC Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_087
+    name: PACIFIC Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_088
+    name: PACIFIC Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_089
+    name: PACIFIC Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_090
+    name: PACIFIC Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_091
+    name: PACIFIC Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_092
+    name: PACIFIC Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_093
+    name: PACIFIC Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_094
+    name: PACIFIC Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_095
+    name: PACIFIC Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_096
+    name: PACIFIC Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_097
+    name: PACIFIC Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_098
+    name: PACIFIC Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_099
+    name: PACIFIC Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_100
+    name: PACIFIC Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_101
+    name: PACIFIC Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_102
+    name: PACIFIC Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_103
+    name: PACIFIC Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_104
+    name: PACIFIC Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_105
+    name: PACIFIC Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_106
+    name: PACIFIC Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_107
+    name: PACIFIC Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_108
+    name: PACIFIC Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_109
+    name: PACIFIC Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_110
+    name: PACIFIC Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_111
+    name: PACIFIC Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_112
+    name: PACIFIC Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_113
+    name: PACIFIC Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_114
+    name: PACIFIC Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_115
+    name: PACIFIC Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_116
+    name: PACIFIC Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_117
+    name: PACIFIC Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_118
+    name: PACIFIC Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_119
+    name: PACIFIC Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_120
+    name: PACIFIC Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_121
+    name: PACIFIC Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_122
+    name: PACIFIC Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_123
+    name: PACIFIC Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_124
+    name: PACIFIC Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_125
+    name: PACIFIC Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_126
+    name: PACIFIC Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_127
+    name: PACIFIC Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_128
+    name: PACIFIC Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_129
+    name: PACIFIC Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_130
+    name: PACIFIC Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_131
+    name: PACIFIC Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_132
+    name: PACIFIC Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_133
+    name: PACIFIC Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_134
+    name: PACIFIC Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_135
+    name: PACIFIC Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_136
+    name: PACIFIC Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_137
+    name: PACIFIC Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_138
+    name: PACIFIC Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_139
+    name: PACIFIC Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_140
+    name: PACIFIC Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_141
+    name: PACIFIC Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_142
+    name: PACIFIC Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_143
+    name: PACIFIC Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_144
+    name: PACIFIC Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_145
+    name: PACIFIC Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_146
+    name: PACIFIC Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_147
+    name: PACIFIC Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_148
+    name: PACIFIC Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_149
+    name: PACIFIC Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_150
+    name: PACIFIC Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_151
+    name: PACIFIC Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_152
+    name: PACIFIC Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_153
+    name: PACIFIC Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_154
+    name: PACIFIC Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_155
+    name: PACIFIC Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_156
+    name: PACIFIC Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_157
+    name: PACIFIC Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_158
+    name: PACIFIC Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_159
+    name: PACIFIC Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_160
+    name: PACIFIC Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_161
+    name: PACIFIC Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_162
+    name: PACIFIC Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_163
+    name: PACIFIC Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_164
+    name: PACIFIC Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_165
+    name: PACIFIC Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_166
+    name: PACIFIC Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_167
+    name: PACIFIC Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_168
+    name: PACIFIC Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_169
+    name: PACIFIC Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_170
+    name: PACIFIC Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_171
+    name: PACIFIC Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_172
+    name: PACIFIC Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_173
+    name: PACIFIC Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_174
+    name: PACIFIC Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_175
+    name: PACIFIC Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_176
+    name: PACIFIC Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_177
+    name: PACIFIC Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_178
+    name: PACIFIC Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_179
+    name: PACIFIC Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_180
+    name: PACIFIC Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_181
+    name: PACIFIC Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_182
+    name: PACIFIC Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_183
+    name: PACIFIC Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_184
+    name: PACIFIC Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_185
+    name: PACIFIC Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_186
+    name: PACIFIC Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_187
+    name: PACIFIC Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_188
+    name: PACIFIC Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_189
+    name: PACIFIC Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_190
+    name: PACIFIC Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_191
+    name: PACIFIC Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_192
+    name: PACIFIC Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_193
+    name: PACIFIC Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_194
+    name: PACIFIC Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_195
+    name: PACIFIC Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_196
+    name: PACIFIC Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_197
+    name: PACIFIC Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_198
+    name: PACIFIC Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_199
+    name: PACIFIC Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_200
+    name: PACIFIC Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_201
+    name: PACIFIC Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_202
+    name: PACIFIC Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_203
+    name: PACIFIC Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_204
+    name: PACIFIC Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_205
+    name: PACIFIC Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_206
+    name: PACIFIC Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_207
+    name: PACIFIC Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_208
+    name: PACIFIC Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_209
+    name: PACIFIC Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_210
+    name: PACIFIC Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_211
+    name: PACIFIC Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_212
+    name: PACIFIC Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_213
+    name: PACIFIC Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_214
+    name: PACIFIC Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_215
+    name: PACIFIC Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_216
+    name: PACIFIC Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_217
+    name: PACIFIC Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_218
+    name: PACIFIC Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_219
+    name: PACIFIC Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_220
+    name: PACIFIC Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_221
+    name: PACIFIC Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_222
+    name: PACIFIC Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_223
+    name: PACIFIC Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_224
+    name: PACIFIC Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_225
+    name: PACIFIC Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_226
+    name: PACIFIC Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_227
+    name: PACIFIC Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_228
+    name: PACIFIC Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_229
+    name: PACIFIC Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_230
+    name: PACIFIC Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_231
+    name: PACIFIC Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_232
+    name: PACIFIC Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_233
+    name: PACIFIC Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_234
+    name: PACIFIC Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_235
+    name: PACIFIC Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_236
+    name: PACIFIC Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_237
+    name: PACIFIC Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_238
+    name: PACIFIC Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_239
+    name: PACIFIC Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_240
+    name: PACIFIC Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_241
+    name: PACIFIC Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_242
+    name: PACIFIC Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_243
+    name: PACIFIC Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_244
+    name: PACIFIC Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_245
+    name: PACIFIC Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_246
+    name: PACIFIC Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_247
+    name: PACIFIC Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_248
+    name: PACIFIC Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_249
+    name: PACIFIC Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_250
+    name: PACIFIC Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_251
+    name: PACIFIC Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pacific_252
+    name: PACIFIC Skill 252
+    status: ACTIVE_SCAFFOLD

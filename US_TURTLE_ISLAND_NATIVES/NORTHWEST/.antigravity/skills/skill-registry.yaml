@@ -1,0 +1,757 @@
+skills:
+  - id: skill_northwest_001
+    name: NORTHWEST Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_002
+    name: NORTHWEST Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_003
+    name: NORTHWEST Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_004
+    name: NORTHWEST Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_005
+    name: NORTHWEST Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_006
+    name: NORTHWEST Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_007
+    name: NORTHWEST Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_008
+    name: NORTHWEST Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_009
+    name: NORTHWEST Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_010
+    name: NORTHWEST Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_011
+    name: NORTHWEST Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_012
+    name: NORTHWEST Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_013
+    name: NORTHWEST Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_014
+    name: NORTHWEST Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_015
+    name: NORTHWEST Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_016
+    name: NORTHWEST Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_017
+    name: NORTHWEST Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_018
+    name: NORTHWEST Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_019
+    name: NORTHWEST Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_020
+    name: NORTHWEST Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_021
+    name: NORTHWEST Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_022
+    name: NORTHWEST Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_023
+    name: NORTHWEST Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_024
+    name: NORTHWEST Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_025
+    name: NORTHWEST Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_026
+    name: NORTHWEST Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_027
+    name: NORTHWEST Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_028
+    name: NORTHWEST Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_029
+    name: NORTHWEST Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_030
+    name: NORTHWEST Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_031
+    name: NORTHWEST Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_032
+    name: NORTHWEST Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_033
+    name: NORTHWEST Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_034
+    name: NORTHWEST Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_035
+    name: NORTHWEST Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_036
+    name: NORTHWEST Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_037
+    name: NORTHWEST Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_038
+    name: NORTHWEST Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_039
+    name: NORTHWEST Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_040
+    name: NORTHWEST Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_041
+    name: NORTHWEST Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_042
+    name: NORTHWEST Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_043
+    name: NORTHWEST Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_044
+    name: NORTHWEST Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_045
+    name: NORTHWEST Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_046
+    name: NORTHWEST Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_047
+    name: NORTHWEST Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_048
+    name: NORTHWEST Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_049
+    name: NORTHWEST Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_050
+    name: NORTHWEST Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_051
+    name: NORTHWEST Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_052
+    name: NORTHWEST Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_053
+    name: NORTHWEST Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_054
+    name: NORTHWEST Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_055
+    name: NORTHWEST Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_056
+    name: NORTHWEST Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_057
+    name: NORTHWEST Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_058
+    name: NORTHWEST Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_059
+    name: NORTHWEST Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_060
+    name: NORTHWEST Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_061
+    name: NORTHWEST Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_062
+    name: NORTHWEST Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_063
+    name: NORTHWEST Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_064
+    name: NORTHWEST Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_065
+    name: NORTHWEST Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_066
+    name: NORTHWEST Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_067
+    name: NORTHWEST Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_068
+    name: NORTHWEST Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_069
+    name: NORTHWEST Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_070
+    name: NORTHWEST Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_071
+    name: NORTHWEST Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_072
+    name: NORTHWEST Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_073
+    name: NORTHWEST Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_074
+    name: NORTHWEST Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_075
+    name: NORTHWEST Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_076
+    name: NORTHWEST Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_077
+    name: NORTHWEST Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_078
+    name: NORTHWEST Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_079
+    name: NORTHWEST Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_080
+    name: NORTHWEST Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_081
+    name: NORTHWEST Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_082
+    name: NORTHWEST Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_083
+    name: NORTHWEST Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_084
+    name: NORTHWEST Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_085
+    name: NORTHWEST Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_086
+    name: NORTHWEST Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_087
+    name: NORTHWEST Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_088
+    name: NORTHWEST Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_089
+    name: NORTHWEST Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_090
+    name: NORTHWEST Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_091
+    name: NORTHWEST Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_092
+    name: NORTHWEST Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_093
+    name: NORTHWEST Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_094
+    name: NORTHWEST Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_095
+    name: NORTHWEST Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_096
+    name: NORTHWEST Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_097
+    name: NORTHWEST Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_098
+    name: NORTHWEST Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_099
+    name: NORTHWEST Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_100
+    name: NORTHWEST Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_101
+    name: NORTHWEST Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_102
+    name: NORTHWEST Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_103
+    name: NORTHWEST Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_104
+    name: NORTHWEST Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_105
+    name: NORTHWEST Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_106
+    name: NORTHWEST Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_107
+    name: NORTHWEST Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_108
+    name: NORTHWEST Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_109
+    name: NORTHWEST Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_110
+    name: NORTHWEST Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_111
+    name: NORTHWEST Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_112
+    name: NORTHWEST Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_113
+    name: NORTHWEST Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_114
+    name: NORTHWEST Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_115
+    name: NORTHWEST Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_116
+    name: NORTHWEST Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_117
+    name: NORTHWEST Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_118
+    name: NORTHWEST Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_119
+    name: NORTHWEST Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_120
+    name: NORTHWEST Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_121
+    name: NORTHWEST Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_122
+    name: NORTHWEST Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_123
+    name: NORTHWEST Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_124
+    name: NORTHWEST Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_125
+    name: NORTHWEST Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_126
+    name: NORTHWEST Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_127
+    name: NORTHWEST Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_128
+    name: NORTHWEST Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_129
+    name: NORTHWEST Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_130
+    name: NORTHWEST Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_131
+    name: NORTHWEST Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_132
+    name: NORTHWEST Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_133
+    name: NORTHWEST Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_134
+    name: NORTHWEST Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_135
+    name: NORTHWEST Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_136
+    name: NORTHWEST Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_137
+    name: NORTHWEST Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_138
+    name: NORTHWEST Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_139
+    name: NORTHWEST Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_140
+    name: NORTHWEST Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_141
+    name: NORTHWEST Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_142
+    name: NORTHWEST Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_143
+    name: NORTHWEST Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_144
+    name: NORTHWEST Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_145
+    name: NORTHWEST Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_146
+    name: NORTHWEST Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_147
+    name: NORTHWEST Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_148
+    name: NORTHWEST Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_149
+    name: NORTHWEST Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_150
+    name: NORTHWEST Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_151
+    name: NORTHWEST Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_152
+    name: NORTHWEST Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_153
+    name: NORTHWEST Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_154
+    name: NORTHWEST Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_155
+    name: NORTHWEST Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_156
+    name: NORTHWEST Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_157
+    name: NORTHWEST Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_158
+    name: NORTHWEST Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_159
+    name: NORTHWEST Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_160
+    name: NORTHWEST Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_161
+    name: NORTHWEST Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_162
+    name: NORTHWEST Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_163
+    name: NORTHWEST Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_164
+    name: NORTHWEST Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_165
+    name: NORTHWEST Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_166
+    name: NORTHWEST Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_167
+    name: NORTHWEST Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_168
+    name: NORTHWEST Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_169
+    name: NORTHWEST Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_170
+    name: NORTHWEST Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_171
+    name: NORTHWEST Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_172
+    name: NORTHWEST Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_173
+    name: NORTHWEST Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_174
+    name: NORTHWEST Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_175
+    name: NORTHWEST Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_176
+    name: NORTHWEST Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_177
+    name: NORTHWEST Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_178
+    name: NORTHWEST Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_179
+    name: NORTHWEST Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_180
+    name: NORTHWEST Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_181
+    name: NORTHWEST Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_182
+    name: NORTHWEST Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_183
+    name: NORTHWEST Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_184
+    name: NORTHWEST Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_185
+    name: NORTHWEST Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_186
+    name: NORTHWEST Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_187
+    name: NORTHWEST Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_188
+    name: NORTHWEST Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_189
+    name: NORTHWEST Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_190
+    name: NORTHWEST Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_191
+    name: NORTHWEST Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_192
+    name: NORTHWEST Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_193
+    name: NORTHWEST Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_194
+    name: NORTHWEST Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_195
+    name: NORTHWEST Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_196
+    name: NORTHWEST Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_197
+    name: NORTHWEST Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_198
+    name: NORTHWEST Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_199
+    name: NORTHWEST Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_200
+    name: NORTHWEST Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_201
+    name: NORTHWEST Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_202
+    name: NORTHWEST Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_203
+    name: NORTHWEST Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_204
+    name: NORTHWEST Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_205
+    name: NORTHWEST Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_206
+    name: NORTHWEST Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_207
+    name: NORTHWEST Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_208
+    name: NORTHWEST Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_209
+    name: NORTHWEST Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_210
+    name: NORTHWEST Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_211
+    name: NORTHWEST Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_212
+    name: NORTHWEST Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_213
+    name: NORTHWEST Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_214
+    name: NORTHWEST Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_215
+    name: NORTHWEST Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_216
+    name: NORTHWEST Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_217
+    name: NORTHWEST Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_218
+    name: NORTHWEST Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_219
+    name: NORTHWEST Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_220
+    name: NORTHWEST Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_221
+    name: NORTHWEST Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_222
+    name: NORTHWEST Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_223
+    name: NORTHWEST Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_224
+    name: NORTHWEST Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_225
+    name: NORTHWEST Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_226
+    name: NORTHWEST Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_227
+    name: NORTHWEST Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_228
+    name: NORTHWEST Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_229
+    name: NORTHWEST Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_230
+    name: NORTHWEST Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_231
+    name: NORTHWEST Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_232
+    name: NORTHWEST Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_233
+    name: NORTHWEST Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_234
+    name: NORTHWEST Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_235
+    name: NORTHWEST Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_236
+    name: NORTHWEST Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_237
+    name: NORTHWEST Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_238
+    name: NORTHWEST Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_239
+    name: NORTHWEST Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_240
+    name: NORTHWEST Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_241
+    name: NORTHWEST Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_242
+    name: NORTHWEST Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_243
+    name: NORTHWEST Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_244
+    name: NORTHWEST Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_245
+    name: NORTHWEST Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_246
+    name: NORTHWEST Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_247
+    name: NORTHWEST Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_248
+    name: NORTHWEST Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_249
+    name: NORTHWEST Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_250
+    name: NORTHWEST Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_251
+    name: NORTHWEST Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_northwest_252
+    name: NORTHWEST Skill 252
+    status: ACTIVE_SCAFFOLD

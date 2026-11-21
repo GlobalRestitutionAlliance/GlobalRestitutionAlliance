@@ -1,0 +1,757 @@
+skills:
+  - id: skill_alaska_001
+    name: ALASKA Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_002
+    name: ALASKA Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_003
+    name: ALASKA Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_004
+    name: ALASKA Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_005
+    name: ALASKA Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_006
+    name: ALASKA Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_007
+    name: ALASKA Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_008
+    name: ALASKA Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_009
+    name: ALASKA Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_010
+    name: ALASKA Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_011
+    name: ALASKA Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_012
+    name: ALASKA Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_013
+    name: ALASKA Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_014
+    name: ALASKA Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_015
+    name: ALASKA Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_016
+    name: ALASKA Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_017
+    name: ALASKA Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_018
+    name: ALASKA Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_019
+    name: ALASKA Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_020
+    name: ALASKA Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_021
+    name: ALASKA Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_022
+    name: ALASKA Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_023
+    name: ALASKA Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_024
+    name: ALASKA Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_025
+    name: ALASKA Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_026
+    name: ALASKA Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_027
+    name: ALASKA Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_028
+    name: ALASKA Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_029
+    name: ALASKA Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_030
+    name: ALASKA Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_031
+    name: ALASKA Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_032
+    name: ALASKA Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_033
+    name: ALASKA Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_034
+    name: ALASKA Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_035
+    name: ALASKA Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_036
+    name: ALASKA Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_037
+    name: ALASKA Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_038
+    name: ALASKA Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_039
+    name: ALASKA Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_040
+    name: ALASKA Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_041
+    name: ALASKA Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_042
+    name: ALASKA Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_043
+    name: ALASKA Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_044
+    name: ALASKA Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_045
+    name: ALASKA Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_046
+    name: ALASKA Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_047
+    name: ALASKA Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_048
+    name: ALASKA Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_049
+    name: ALASKA Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_050
+    name: ALASKA Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_051
+    name: ALASKA Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_052
+    name: ALASKA Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_053
+    name: ALASKA Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_054
+    name: ALASKA Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_055
+    name: ALASKA Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_056
+    name: ALASKA Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_057
+    name: ALASKA Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_058
+    name: ALASKA Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_059
+    name: ALASKA Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_060
+    name: ALASKA Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_061
+    name: ALASKA Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_062
+    name: ALASKA Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_063
+    name: ALASKA Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_064
+    name: ALASKA Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_065
+    name: ALASKA Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_066
+    name: ALASKA Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_067
+    name: ALASKA Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_068
+    name: ALASKA Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_069
+    name: ALASKA Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_070
+    name: ALASKA Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_071
+    name: ALASKA Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_072
+    name: ALASKA Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_073
+    name: ALASKA Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_074
+    name: ALASKA Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_075
+    name: ALASKA Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_076
+    name: ALASKA Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_077
+    name: ALASKA Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_078
+    name: ALASKA Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_079
+    name: ALASKA Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_080
+    name: ALASKA Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_081
+    name: ALASKA Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_082
+    name: ALASKA Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_083
+    name: ALASKA Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_084
+    name: ALASKA Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_085
+    name: ALASKA Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_086
+    name: ALASKA Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_087
+    name: ALASKA Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_088
+    name: ALASKA Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_089
+    name: ALASKA Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_090
+    name: ALASKA Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_091
+    name: ALASKA Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_092
+    name: ALASKA Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_093
+    name: ALASKA Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_094
+    name: ALASKA Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_095
+    name: ALASKA Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_096
+    name: ALASKA Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_097
+    name: ALASKA Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_098
+    name: ALASKA Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_099
+    name: ALASKA Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_100
+    name: ALASKA Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_101
+    name: ALASKA Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_102
+    name: ALASKA Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_103
+    name: ALASKA Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_104
+    name: ALASKA Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_105
+    name: ALASKA Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_106
+    name: ALASKA Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_107
+    name: ALASKA Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_108
+    name: ALASKA Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_109
+    name: ALASKA Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_110
+    name: ALASKA Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_111
+    name: ALASKA Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_112
+    name: ALASKA Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_113
+    name: ALASKA Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_114
+    name: ALASKA Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_115
+    name: ALASKA Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_116
+    name: ALASKA Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_117
+    name: ALASKA Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_118
+    name: ALASKA Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_119
+    name: ALASKA Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_120
+    name: ALASKA Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_121
+    name: ALASKA Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_122
+    name: ALASKA Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_123
+    name: ALASKA Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_124
+    name: ALASKA Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_125
+    name: ALASKA Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_126
+    name: ALASKA Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_127
+    name: ALASKA Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_128
+    name: ALASKA Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_129
+    name: ALASKA Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_130
+    name: ALASKA Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_131
+    name: ALASKA Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_132
+    name: ALASKA Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_133
+    name: ALASKA Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_134
+    name: ALASKA Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_135
+    name: ALASKA Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_136
+    name: ALASKA Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_137
+    name: ALASKA Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_138
+    name: ALASKA Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_139
+    name: ALASKA Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_140
+    name: ALASKA Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_141
+    name: ALASKA Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_142
+    name: ALASKA Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_143
+    name: ALASKA Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_144
+    name: ALASKA Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_145
+    name: ALASKA Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_146
+    name: ALASKA Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_147
+    name: ALASKA Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_148
+    name: ALASKA Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_149
+    name: ALASKA Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_150
+    name: ALASKA Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_151
+    name: ALASKA Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_152
+    name: ALASKA Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_153
+    name: ALASKA Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_154
+    name: ALASKA Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_155
+    name: ALASKA Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_156
+    name: ALASKA Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_157
+    name: ALASKA Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_158
+    name: ALASKA Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_159
+    name: ALASKA Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_160
+    name: ALASKA Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_161
+    name: ALASKA Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_162
+    name: ALASKA Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_163
+    name: ALASKA Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_164
+    name: ALASKA Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_165
+    name: ALASKA Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_166
+    name: ALASKA Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_167
+    name: ALASKA Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_168
+    name: ALASKA Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_169
+    name: ALASKA Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_170
+    name: ALASKA Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_171
+    name: ALASKA Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_172
+    name: ALASKA Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_173
+    name: ALASKA Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_174
+    name: ALASKA Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_175
+    name: ALASKA Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_176
+    name: ALASKA Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_177
+    name: ALASKA Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_178
+    name: ALASKA Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_179
+    name: ALASKA Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_180
+    name: ALASKA Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_181
+    name: ALASKA Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_182
+    name: ALASKA Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_183
+    name: ALASKA Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_184
+    name: ALASKA Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_185
+    name: ALASKA Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_186
+    name: ALASKA Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_187
+    name: ALASKA Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_188
+    name: ALASKA Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_189
+    name: ALASKA Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_190
+    name: ALASKA Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_191
+    name: ALASKA Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_192
+    name: ALASKA Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_193
+    name: ALASKA Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_194
+    name: ALASKA Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_195
+    name: ALASKA Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_196
+    name: ALASKA Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_197
+    name: ALASKA Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_198
+    name: ALASKA Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_199
+    name: ALASKA Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_200
+    name: ALASKA Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_201
+    name: ALASKA Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_202
+    name: ALASKA Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_203
+    name: ALASKA Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_204
+    name: ALASKA Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_205
+    name: ALASKA Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_206
+    name: ALASKA Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_207
+    name: ALASKA Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_208
+    name: ALASKA Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_209
+    name: ALASKA Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_210
+    name: ALASKA Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_211
+    name: ALASKA Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_212
+    name: ALASKA Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_213
+    name: ALASKA Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_214
+    name: ALASKA Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_215
+    name: ALASKA Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_216
+    name: ALASKA Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_217
+    name: ALASKA Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_218
+    name: ALASKA Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_219
+    name: ALASKA Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_220
+    name: ALASKA Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_221
+    name: ALASKA Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_222
+    name: ALASKA Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_223
+    name: ALASKA Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_224
+    name: ALASKA Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_225
+    name: ALASKA Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_226
+    name: ALASKA Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_227
+    name: ALASKA Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_228
+    name: ALASKA Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_229
+    name: ALASKA Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_230
+    name: ALASKA Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_231
+    name: ALASKA Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_232
+    name: ALASKA Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_233
+    name: ALASKA Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_234
+    name: ALASKA Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_235
+    name: ALASKA Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_236
+    name: ALASKA Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_237
+    name: ALASKA Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_238
+    name: ALASKA Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_239
+    name: ALASKA Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_240
+    name: ALASKA Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_241
+    name: ALASKA Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_242
+    name: ALASKA Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_243
+    name: ALASKA Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_244
+    name: ALASKA Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_245
+    name: ALASKA Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_246
+    name: ALASKA Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_247
+    name: ALASKA Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_248
+    name: ALASKA Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_249
+    name: ALASKA Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_250
+    name: ALASKA Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_251
+    name: ALASKA Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_alaska_252
+    name: ALASKA Skill 252
+    status: ACTIVE_SCAFFOLD

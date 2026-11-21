@@ -1,0 +1,757 @@
+skills:
+  - id: skill_western_001
+    name: WESTERN Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_002
+    name: WESTERN Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_003
+    name: WESTERN Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_004
+    name: WESTERN Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_005
+    name: WESTERN Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_006
+    name: WESTERN Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_007
+    name: WESTERN Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_008
+    name: WESTERN Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_009
+    name: WESTERN Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_010
+    name: WESTERN Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_011
+    name: WESTERN Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_012
+    name: WESTERN Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_013
+    name: WESTERN Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_014
+    name: WESTERN Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_015
+    name: WESTERN Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_016
+    name: WESTERN Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_017
+    name: WESTERN Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_018
+    name: WESTERN Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_019
+    name: WESTERN Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_020
+    name: WESTERN Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_021
+    name: WESTERN Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_022
+    name: WESTERN Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_023
+    name: WESTERN Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_024
+    name: WESTERN Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_025
+    name: WESTERN Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_026
+    name: WESTERN Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_027
+    name: WESTERN Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_028
+    name: WESTERN Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_029
+    name: WESTERN Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_030
+    name: WESTERN Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_031
+    name: WESTERN Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_032
+    name: WESTERN Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_033
+    name: WESTERN Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_034
+    name: WESTERN Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_035
+    name: WESTERN Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_036
+    name: WESTERN Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_037
+    name: WESTERN Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_038
+    name: WESTERN Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_039
+    name: WESTERN Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_040
+    name: WESTERN Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_041
+    name: WESTERN Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_042
+    name: WESTERN Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_043
+    name: WESTERN Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_044
+    name: WESTERN Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_045
+    name: WESTERN Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_046
+    name: WESTERN Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_047
+    name: WESTERN Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_048
+    name: WESTERN Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_049
+    name: WESTERN Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_050
+    name: WESTERN Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_051
+    name: WESTERN Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_052
+    name: WESTERN Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_053
+    name: WESTERN Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_054
+    name: WESTERN Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_055
+    name: WESTERN Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_056
+    name: WESTERN Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_057
+    name: WESTERN Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_058
+    name: WESTERN Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_059
+    name: WESTERN Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_060
+    name: WESTERN Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_061
+    name: WESTERN Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_062
+    name: WESTERN Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_063
+    name: WESTERN Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_064
+    name: WESTERN Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_065
+    name: WESTERN Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_066
+    name: WESTERN Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_067
+    name: WESTERN Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_068
+    name: WESTERN Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_069
+    name: WESTERN Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_070
+    name: WESTERN Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_071
+    name: WESTERN Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_072
+    name: WESTERN Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_073
+    name: WESTERN Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_074
+    name: WESTERN Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_075
+    name: WESTERN Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_076
+    name: WESTERN Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_077
+    name: WESTERN Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_078
+    name: WESTERN Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_079
+    name: WESTERN Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_080
+    name: WESTERN Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_081
+    name: WESTERN Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_082
+    name: WESTERN Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_083
+    name: WESTERN Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_084
+    name: WESTERN Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_085
+    name: WESTERN Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_086
+    name: WESTERN Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_087
+    name: WESTERN Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_088
+    name: WESTERN Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_089
+    name: WESTERN Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_090
+    name: WESTERN Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_091
+    name: WESTERN Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_092
+    name: WESTERN Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_093
+    name: WESTERN Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_094
+    name: WESTERN Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_095
+    name: WESTERN Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_096
+    name: WESTERN Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_097
+    name: WESTERN Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_098
+    name: WESTERN Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_099
+    name: WESTERN Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_100
+    name: WESTERN Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_101
+    name: WESTERN Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_102
+    name: WESTERN Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_103
+    name: WESTERN Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_104
+    name: WESTERN Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_105
+    name: WESTERN Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_106
+    name: WESTERN Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_107
+    name: WESTERN Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_108
+    name: WESTERN Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_109
+    name: WESTERN Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_110
+    name: WESTERN Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_111
+    name: WESTERN Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_112
+    name: WESTERN Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_113
+    name: WESTERN Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_114
+    name: WESTERN Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_115
+    name: WESTERN Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_116
+    name: WESTERN Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_117
+    name: WESTERN Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_118
+    name: WESTERN Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_119
+    name: WESTERN Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_120
+    name: WESTERN Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_121
+    name: WESTERN Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_122
+    name: WESTERN Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_123
+    name: WESTERN Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_124
+    name: WESTERN Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_125
+    name: WESTERN Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_126
+    name: WESTERN Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_127
+    name: WESTERN Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_128
+    name: WESTERN Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_129
+    name: WESTERN Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_130
+    name: WESTERN Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_131
+    name: WESTERN Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_132
+    name: WESTERN Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_133
+    name: WESTERN Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_134
+    name: WESTERN Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_135
+    name: WESTERN Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_136
+    name: WESTERN Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_137
+    name: WESTERN Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_138
+    name: WESTERN Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_139
+    name: WESTERN Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_140
+    name: WESTERN Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_141
+    name: WESTERN Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_142
+    name: WESTERN Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_143
+    name: WESTERN Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_144
+    name: WESTERN Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_145
+    name: WESTERN Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_146
+    name: WESTERN Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_147
+    name: WESTERN Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_148
+    name: WESTERN Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_149
+    name: WESTERN Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_150
+    name: WESTERN Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_151
+    name: WESTERN Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_152
+    name: WESTERN Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_153
+    name: WESTERN Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_154
+    name: WESTERN Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_155
+    name: WESTERN Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_156
+    name: WESTERN Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_157
+    name: WESTERN Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_158
+    name: WESTERN Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_159
+    name: WESTERN Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_160
+    name: WESTERN Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_161
+    name: WESTERN Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_162
+    name: WESTERN Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_163
+    name: WESTERN Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_164
+    name: WESTERN Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_165
+    name: WESTERN Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_166
+    name: WESTERN Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_167
+    name: WESTERN Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_168
+    name: WESTERN Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_169
+    name: WESTERN Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_170
+    name: WESTERN Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_171
+    name: WESTERN Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_172
+    name: WESTERN Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_173
+    name: WESTERN Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_174
+    name: WESTERN Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_175
+    name: WESTERN Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_176
+    name: WESTERN Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_177
+    name: WESTERN Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_178
+    name: WESTERN Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_179
+    name: WESTERN Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_180
+    name: WESTERN Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_181
+    name: WESTERN Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_182
+    name: WESTERN Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_183
+    name: WESTERN Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_184
+    name: WESTERN Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_185
+    name: WESTERN Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_186
+    name: WESTERN Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_187
+    name: WESTERN Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_188
+    name: WESTERN Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_189
+    name: WESTERN Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_190
+    name: WESTERN Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_191
+    name: WESTERN Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_192
+    name: WESTERN Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_193
+    name: WESTERN Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_194
+    name: WESTERN Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_195
+    name: WESTERN Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_196
+    name: WESTERN Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_197
+    name: WESTERN Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_198
+    name: WESTERN Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_199
+    name: WESTERN Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_200
+    name: WESTERN Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_201
+    name: WESTERN Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_202
+    name: WESTERN Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_203
+    name: WESTERN Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_204
+    name: WESTERN Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_205
+    name: WESTERN Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_206
+    name: WESTERN Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_207
+    name: WESTERN Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_208
+    name: WESTERN Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_209
+    name: WESTERN Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_210
+    name: WESTERN Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_211
+    name: WESTERN Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_212
+    name: WESTERN Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_213
+    name: WESTERN Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_214
+    name: WESTERN Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_215
+    name: WESTERN Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_216
+    name: WESTERN Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_217
+    name: WESTERN Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_218
+    name: WESTERN Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_219
+    name: WESTERN Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_220
+    name: WESTERN Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_221
+    name: WESTERN Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_222
+    name: WESTERN Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_223
+    name: WESTERN Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_224
+    name: WESTERN Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_225
+    name: WESTERN Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_226
+    name: WESTERN Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_227
+    name: WESTERN Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_228
+    name: WESTERN Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_229
+    name: WESTERN Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_230
+    name: WESTERN Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_231
+    name: WESTERN Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_232
+    name: WESTERN Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_233
+    name: WESTERN Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_234
+    name: WESTERN Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_235
+    name: WESTERN Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_236
+    name: WESTERN Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_237
+    name: WESTERN Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_238
+    name: WESTERN Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_239
+    name: WESTERN Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_240
+    name: WESTERN Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_241
+    name: WESTERN Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_242
+    name: WESTERN Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_243
+    name: WESTERN Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_244
+    name: WESTERN Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_245
+    name: WESTERN Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_246
+    name: WESTERN Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_247
+    name: WESTERN Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_248
+    name: WESTERN Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_249
+    name: WESTERN Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_250
+    name: WESTERN Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_251
+    name: WESTERN Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_western_252
+    name: WESTERN Skill 252
+    status: ACTIVE_SCAFFOLD
