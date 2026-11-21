@@ -38,3 +38,16 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - **Counsel validation**: qualified legal review per `LEGAL_ACCURACY_REVIEW_CHECKLIST.md` (jurisdiction/standing, immunity FSIA/act of state/comity, limitations/prescription, causation/damages, forum compliance). Prioritize NI, GT, CL, AR, SV, HN, CO, BR, VE, HT but complete all 33.
 - **Filing-grade post-review packages**: court-formatted DOCX/PDF bundles with exhibit indexes and human-attested authentication affidavits only after counsel verification.
 - **Remote CI/mirror**: commit/push in logical batches, configure GitHub secrets, make `integrity-verification` required on PRs.
+
+
+## Continental Expansion (2026-11-21)
+- [x] AFRICA 54/54 bolstered+harvested+cited+pushed (GRA fallback for org repos)
+- [x] ASIA 48/48 bolstered+harvested+cited+pushed
+- [x] PACIFIC 18/18 bolstered+harvested+cited+pushed
+- [x] US_DOMESTIC_VICTIMS 4 + US_AFRICAN_AMERICAN_REPARATIONS 1 bolstered+pushed
+- [x] US_TURTLE_ISLAND_NATIVES 12 region-level framework files committed/pushed to main repo
+- [~] US_TURTLE_ISLAND_NATIVES 597 tribal sub-repos: per-repo bolster+push running (background script .opencode/bolster_turtle_tribes.py)
+- [x] Main README updated (marketable/simple, status parity)
+
+## Push policy
+- R03LV1S preferred pusher; GRA account fallback used when R03LV1S lacks org repo write access. gh restored to R03LV1S after fallback.
