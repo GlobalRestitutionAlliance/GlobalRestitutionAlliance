@@ -1,0 +1,5 @@
+
+__pycache__/
+*.pyc
+.opencode/browser_capture_results.jsonl
+.opencode/failed_harvest_worklist.json
