@@ -46,7 +46,7 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - [x] PACIFIC 18/18 bolstered+harvested+cited+pushed
 - [x] US_DOMESTIC_VICTIMS 4 + US_AFRICAN_AMERICAN_REPARATIONS 1 bolstered+pushed
 - [x] US_TURTLE_ISLAND_NATIVES 12 region-level framework files committed/pushed to main repo
-- [~] US_TURTLE_ISLAND_NATIVES 597 tribal sub-repos: per-repo bolster+push running (background script .opencode/bolster_turtle_tribes.py)
+- [x] US_TURTLE_ISLAND_NATIVES 597 tribal sub-repos: bolstered+committed+pushed (596 via GRA retry; 1 misconfigured remote fixed: US_PAIUTE_INDIAN_TRIBE_OF_UTAH_KANOSH_BAND_)
 - [x] Main README updated (marketable/simple, status parity)
 
 ## Push policy
