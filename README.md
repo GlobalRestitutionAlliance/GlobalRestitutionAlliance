@@ -1,10 +1,15 @@
 # Global Restitution Alliance
 
-> **A global legal framework for historical justice, reparations, and restitution.**
+**Open-source litigation infrastructure for historical justice, reparations, and restitution.**
 
-## Mission
+Global Restitution Alliance (GRA) maintains ready-to-use campaign frameworks across 756 repositories - giving communities, counsel, and partner organizations a structured starting point for research, evidence organization, and claims development.
 
-The Global Restitution Alliance (GRA) maintains a comprehensive, open-source legal infrastructure for pursuing historical justice claims worldwide. Our repositories serve as master litigation scaffolds for communities, nations, and peoples seeking accountability for historical injustices.
+## Current Status
+
+- **Cuba-template framework parity** rolled out across Latin America, Africa, Asia, Pacific, Domestic Victims, African American Reparations, and Turtle Island regional workspaces.
+- **Verifiable public-source backbone**: hashed public captures, provenance sidecars, intake logs, and review-gated citation indexes (`PENDING_LEGAL_REVIEW`; no `VERIFIED` without local hashed artifact + human sign-off).
+- **Integrity by default**: SHA-256 manifests, CI verification workflows, and standardized scaffold structure in every campaign.
+- **Built for handoff**: frameworks are designed for qualified counsel/organizations to authenticate evidence, validate jurisdiction-specific claims, and file.
 
 ---
 
@@ -537,4 +542,4 @@ We welcome contributions from legal scholars, historians, technologists, and aff
 
 ---
 
-*Last updated: 2026-11-02 | 756 repositories | 7 regions | 6 continents | 193/193 UN members mapped*
+*Last updated: 2026-11-21 | 756 repositories | 7 regions | 6 continents | Cuba-template framework parity rollout in progress across all campaign workspaces*
