@@ -65,6 +65,7 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - [x] Rebuilt pilot citations/manifests/intake logs for 8 pilot repos via `.opencode/pilot_browser_ingest_rebuild.py`; browser captures ingested into `CITATION_INDEX.csv/md`, `EVIDENCE_INTAKE_LOG.md` updated, `VERIFICATION_KEYS/sha256_manifest.txt` refreshed. All citations remain `PENDING_LEGAL_REVIEW`; no fabricated claims.
 - [x] QA gate: `batch5_qa.py` => CHECKED 731, ISSUES 0.
 - [x] Committed/pushed 8 pilot repos to GRA remotes (GRA auth boundary respected).
+- [x] Adversarial review gate: fixed BLOCKING fabricated `status:200` in browser capture provenance (patched 72 pilot browser metas to `http_status=unknown_browser_outerhtml_capture`, updated intake notes); hardened save/ingest scripts (no hardcoded default path, workspace repo validation, safer JSON parse, sha computed from bytes with mismatch warning, citation upsert/preserve/backup, manifest mkdir, markdown sanitization). QA recheck: CHECKED 731, ISSUES 0.
 
 ## Next (quality-first, all applicable repos)
 - [ ] Scale proven pilot pattern in batched waves across remaining applicable repos: source gap fill, browser fallback for high-value blocked sources, evidence-linked vector/valuation enrichment, domain methodology/FOIA queue, QA, commit/push. Track in ledger; no fabricated amounts/citations; keep 3000-vector baseline and TBD valuation defaults.
