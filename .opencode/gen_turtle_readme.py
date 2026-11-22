@@ -56,8 +56,8 @@ for region in regions:
         f"<summary><strong>View All {len(repos)} {title} Repositories</strong></summary>"
     )
     lines.append("")
-    lines.append("| Tribe | Region | Repository |")
-    lines.append("|-------|--------|------------|")
+    lines.append("| Tribe | Region | Repository | Pool | Key Issues |")
+    lines.append("|-------|--------|------------|------|------------|")
     for r in repos:
         try:
             res = subprocess.run(
@@ -71,7 +71,9 @@ for region in regions:
         except Exception:
             repo_name = r.name
         tribe = nice_name(r.name)
-        lines.append(f"| {tribe} | {title} | `{repo_name}` |")
+        lines.append(
+            f"| {tribe} | {title} | `{repo_name}` | TBD (valuation pending) | Treaties, land, sovereignty, trust claims - verification required |"
+        )
     lines.append("")
     lines.append("</details>")
     lines.append("")
