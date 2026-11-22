@@ -1,5 +1,5 @@
 from pathlib import Path
-import subprocess
+import subprocess, re
 
 root = Path(r"W:\Legal\US_TURTLE_ISLAND_NATIVES")
 regions = sorted([d for d in root.iterdir() if d.is_dir()])
@@ -20,21 +20,20 @@ region_map = {
 
 
 def nice_name(dir_name):
-    # US_AK_AGDAAGUX_TRIBE_OF_KING_COVE -> Agdaagux Tribe of King Cove
     n = dir_name
     n = re.sub(r"^US_[A-Z]{2}_", "", n)
     n = n.replace("_", " ").strip()
-    # title case but keep common words
-    return (
-        n.title()
-        .replace(" Of ", " of ")
-        .replace(" And ", " and ")
-        .replace(" The ", " the ")
-        .replace(" At ", " at ")
-    )
+    n = n.title()
+    for a, b in [
+        (" Of ", " of "),
+        (" And ", " and "),
+        (" The ", " the "),
+        (" At ", " at "),
+        (" In ", " in "),
+    ]:
+        n = n.replace(a, b)
+    return n
 
-
-import re
 
 lines = []
 lines.append(
@@ -72,12 +71,11 @@ for region in regions:
             repo_name = r.name
         tribe = nice_name(r.name)
         lines.append(
-            f"| {tribe} | {title} | `{repo_name}` | TBD (valuation pending) | Treaties, land, sovereignty, trust claims - verification required |"
+            f"| {tribe} | {title} | `{repo_name}` | TBD (valuation pending) | Pending verified research; treaty/land/resource claims (verification required) |"
         )
     lines.append("")
     lines.append("</details>")
     lines.append("")
-
 print(f"TOTAL={total}")
 Path(r"W:\Legal\.opencode\turtle_section.md").write_text(
     "\n".join(lines), encoding="utf-8", newline="\n"
