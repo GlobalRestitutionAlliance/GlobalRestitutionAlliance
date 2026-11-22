@@ -127,18 +127,8 @@ def enrich(repo: Path, domain: str, cites):
             fields = list(r.fieldnames or [])
             rows = list(r)
         for req in [
-            "vector_id",
-            "domain",
-            "harm_category",
-            "low_usd",
-            "base_usd",
-            "high_usd",
-            "currency",
-            "evidence_basis",
-            "citation_ids",
-            "valuation_status",
-            "review_status",
-            "notes",
+            "vector_id","domain","harm_category","low_usd","base_usd","high_usd","currency",
+            "evidence_basis","citation_ids","evidence_mapping_status","valuation_status","review_status","notes",
         ]:
             if req not in fields:
                 fields.append(req)
@@ -151,18 +141,16 @@ def enrich(repo: Path, domain: str, cites):
             row["base_usd"] = ""
             row["high_usd"] = ""
             if ids:
-                # deterministic spread of citation refs, no fabrication
+                # deterministic auto-candidate only; not reviewed evidentiary mapping
                 pick = ids[i % len(ids)]
                 row["citation_ids"] = pick
-                row["evidence_basis"] = (
-                    f"Linked to captured artifact {pick}; pending legal/evidentiary review"
-                )
+                row["evidence_mapping_status"] = "AUTO_CANDIDATE_PENDING_REVIEW"
+                row["evidence_basis"] = f"AUTO_CANDIDATE_CITATION {pick}; mapping PENDING_EVIDENCE_MAPPING_REVIEW"
             else:
                 row["citation_ids"] = ""
+                row["evidence_mapping_status"] = "PENDING_EVIDENCE_MAPPING"
                 row["evidence_basis"] = "PENDING_EVIDENCE_LINK"
-            row["notes"] = (
-                "No published amount; valuation pending evidence-backed review."
-            )
+            row["notes"] = "No published amount; valuation pending evidence-backed review."
         with ws.open("w", encoding="utf-8", newline="") as f:
             w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
             w.writeheader()
@@ -182,8 +170,10 @@ def enrich(repo: Path, domain: str, cites):
         v["review_status"] = "PENDING_LEGAL_REVIEW"
         if ids:
             v["evidence_ids"] = [ids[i % len(ids)]]
+            v["evidence_mapping_status"] = "AUTO_CANDIDATE_PENDING_REVIEW"
         else:
             v["evidence_ids"] = []
+            v["evidence_mapping_status"] = "PENDING_EVIDENCE_MAPPING"
         v.setdefault("harm_class", "PENDING_CLASSIFICATION")
     vp.write_text(json.dumps(vecs, ensure_ascii=False, indent=2), encoding="utf-8")
 

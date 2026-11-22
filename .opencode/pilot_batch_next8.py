@@ -1,4 +1,4 @@
-import csv, hashlib, json, re, datetime, urllib.request, os, subprocess, shutil
+import csv, hashlib, json, re, datetime, urllib.request, shutil
 from pathlib import Path
 
 TODAY = datetime.date.today().isoformat()
@@ -265,10 +265,21 @@ def harvest(repo: Path, sources):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=30) as resp:
-                data = resp.read()
                 final_url = resp.geturl()
                 ctype = resp.headers.get("Content-Type", "")
                 http_status = getattr(resp, "status", 200)
+                max_bytes = 15 * 1024 * 1024
+                chunks = []
+                total = 0
+                while True:
+                    chunk = resp.read(65536)
+                    if not chunk:
+                        break
+                    total += len(chunk)
+                    if total > max_bytes:
+                        raise ValueError(f"response_too_large>{max_bytes}")
+                    chunks.append(chunk)
+                data = b"".join(chunks)
             ext = ".html"
             if "pdf" in ctype.lower() or final_url.lower().endswith(".pdf"):
                 ext = ".pdf"

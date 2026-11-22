@@ -73,6 +73,7 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - [x] VALUATION_WORKSHEET.csv (3000 rows, all TBD, no amounts), claim_vector_registry_3000.json (3000, TBD, evidence_ids linked to citation IDs), VALUATION_METHODOLOGY_PILOT.md per domain created.
 - [x] Citations/manifests rebuilt; QA atch5_qa.py CHECKED 731, ISSUES 0.
 - [x] Committed/pushed 8 repos to GRA remotes (GRA auth boundary respected).
+- [x] Adversarial gate fixes: removed tracked citation-index backups; replaced synthetic "Linked..." evidence wording with `AUTO_CANDIDATE_CITATION` + `evidence_mapping_status=AUTO_CANDIDATE_PENDING_REVIEW` in worksheets/vectors; bounded harvest reads; scripts hardened (no tracked backup proliferation). QA recheck: CHECKED 731, ISSUES 0.
 
 ## Next (quality-first, all applicable repos)
 - [ ] Scale proven pilot pattern in batched waves across remaining applicable repos: source gap fill, browser fallback for high-value blocked sources, evidence-linked vector/valuation enrichment, domain methodology/FOIA queue, QA, commit/push. Track in ledger; no fabricated amounts/citations; keep 3000-vector baseline and TBD valuation defaults.
