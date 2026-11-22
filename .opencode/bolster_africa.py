@@ -183,7 +183,7 @@ def scaffold_country(name):
     )
     write(
         cdir / "Expansion_and_Audit_Log.md",
-        f"# Expansion and Audit Log - {prof['country']}\n\n- {TODAY}: Scaffolded/bolstered to Cuba-template framework.\n",
+        f"# Expansion and Audit Log - {prof['country']}\n\n- {TODAY}: Scaffolded/bolstered to GRA litigation framework.\n",
         cdir,
     )
     write(

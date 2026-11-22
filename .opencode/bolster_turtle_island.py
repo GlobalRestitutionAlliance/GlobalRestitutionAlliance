@@ -76,7 +76,7 @@ for cdir in REGIONS:
         (cdir / d).mkdir(parents=True, exist_ok=True)
     write(
         cdir / "README.md",
-        f"# {name} - Turtle Island Restitution Framework\n\n**Template:** CUBA-adapted framework\n**Generated:** {TODAY}\n**Status:** SCAFFOLD - verification required. No fabricated citations.\n",
+        f"# {name} - Turtle Island Restitution Framework\n\n**Template:** GRA litigation framework\n**Generated:** {TODAY}\n**Status:** SCAFFOLD - verification required. No fabricated citations.\n",
         cdir,
     )
     write(

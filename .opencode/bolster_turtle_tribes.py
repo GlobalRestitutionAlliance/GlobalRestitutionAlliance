@@ -92,7 +92,7 @@ def bolster_repo(cdir):
     # core docs
     write(
         cdir / "README.md",
-        f"# {label} - Litigation Framework\n\n**Template:** CUBA-adapted framework\n**Generated:** {TODAY}\n**Status:** SCAFFOLD - verification required. No fabricated citations.\n\nThis repository is a research/framework scaffold for qualified counsel and partner organizations. All captures are `PUBLIC_CAPTURE_UNAUTHENTICATED` until custodian/legal authentication.\n",
+        f"# {label} - Litigation Framework\n\n**Template:** GRA litigation framework\n**Generated:** {TODAY}\n**Status:** SCAFFOLD - verification required. No fabricated citations.\n\nThis repository is a research/framework scaffold for qualified counsel and partner organizations. All captures are `PUBLIC_CAPTURE_UNAUTHENTICATED` until custodian/legal authentication.\n",
         cdir,
     )
     write(
@@ -411,7 +411,7 @@ def commit_repo(cdir, env):
     if not st.stdout.strip():
         return "clean"
     c = git_run(
-        cdir, ["git", "commit", "-m", "Bolster to Cuba-template framework parity"], env
+        cdir, ["git", "commit", "-m", "Bolster to GRA litigation framework parity"], env
     )
     return "committed" if c.returncode == 0 else "commit-fail"
 

@@ -6,7 +6,7 @@ Global Restitution Alliance (GRA) maintains ready-to-use campaign frameworks acr
 
 ## Current Status
 
-- **Cuba-template framework parity** rolled out across Latin America, Africa, Asia, Pacific, Domestic Victims, African American Reparations, and Turtle Island regional workspaces.
+- **GRA litigation framework parity** rolled out across Latin America, Africa, Asia, Pacific, Domestic Victims, African American Reparations, and Turtle Island regional workspaces.
 - **Verifiable public-source backbone**: hashed public captures, provenance sidecars, intake logs, and review-gated citation indexes (`PENDING_LEGAL_REVIEW`; no `VERIFIED` without local hashed artifact + human sign-off).
 - **Integrity by default**: SHA-256 manifests, CI verification workflows, and standardized scaffold structure in every campaign.
 - **Built for handoff**: frameworks are designed for qualified counsel/organizations to authenticate evidence, validate jurisdiction-specific claims, and file.
@@ -1091,4 +1091,4 @@ We welcome contributions from legal scholars, historians, technologists, and aff
 
 ---
 
-*Last updated: 2026-11-21 | 756 repositories | 7 regions | 6 continents | Cuba-template framework parity rollout in progress across all campaign workspaces*
+*Last updated: 2026-11-21 | 756 repositories | 7 regions | 6 continents | GRA litigation framework parity rollout in progress across all campaign workspaces*

@@ -129,7 +129,7 @@ for name, prof in TARGETS.items():
         (cdir / d).mkdir(parents=True, exist_ok=True)
     write(
         cdir / "README.md",
-        f"# {country} - Framework\n\n**Template:** CUBA-adapted framework\n**Generated:** {TODAY}\n**Status:** SCAFFOLD - verification required. No fabricated citations.\n\nIssues (verify): {prof['issue']}\nInstruments (verify): {prof['instruments']}\n",
+        f"# {country} - Framework\n\n**Template:** GRA litigation framework\n**Generated:** {TODAY}\n**Status:** SCAFFOLD - verification required. No fabricated citations.\n\nIssues (verify): {prof['issue']}\nInstruments (verify): {prof['instruments']}\n",
         cdir,
     )
     # CI
