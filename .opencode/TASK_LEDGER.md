@@ -67,5 +67,12 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - [x] Committed/pushed 8 pilot repos to GRA remotes (GRA auth boundary respected).
 - [x] Adversarial review gate: fixed BLOCKING fabricated `status:200` in browser capture provenance (patched 72 pilot browser metas to `http_status=unknown_browser_outerhtml_capture`, updated intake notes); hardened save/ingest scripts (no hardcoded default path, workspace repo validation, safer JSON parse, sha computed from bytes with mismatch warning, citation upsert/preserve/backup, manifest mkdir, markdown sanitization). QA recheck: CHECKED 731, ISSUES 0.
 
+## Next8 Pilot Enrichment Batch (2026-11-22)
+- [x] Targets (8): african-american-actor-dutch-wic, african-american-actor-royal-african-company, african-american-br, african-american-dk, african-american-es, african-american-fr, US_ER_EXTRAORDINARY_RENDITION_VICTIMS, US_GT_GUANTANAMO_DETAINEES.
+- [x] Source registries added, direct harvest + browser-fallback captures for missing high-value sources (24 unique URLs attempted; 23 captured, UNESCO retried successfully). Artifacts saved with provenance rowser-rendered-outerHTML / direct-http-capture, http_status unknown where browser-eval captured, PUBLIC_CAPTURE_UNAUTHENTICATED, PENDING_LEGAL_REVIEW.
+- [x] VALUATION_WORKSHEET.csv (3000 rows, all TBD, no amounts), claim_vector_registry_3000.json (3000, TBD, evidence_ids linked to citation IDs), VALUATION_METHODOLOGY_PILOT.md per domain created.
+- [x] Citations/manifests rebuilt; QA atch5_qa.py CHECKED 731, ISSUES 0.
+- [x] Committed/pushed 8 repos to GRA remotes (GRA auth boundary respected).
+
 ## Next (quality-first, all applicable repos)
 - [ ] Scale proven pilot pattern in batched waves across remaining applicable repos: source gap fill, browser fallback for high-value blocked sources, evidence-linked vector/valuation enrichment, domain methodology/FOIA queue, QA, commit/push. Track in ledger; no fabricated amounts/citations; keep 3000-vector baseline and TBD valuation defaults.
