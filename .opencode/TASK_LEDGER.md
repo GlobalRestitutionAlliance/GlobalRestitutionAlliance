@@ -59,3 +59,12 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - [x] Batch 3: Vector baseline expanded to 3000 (min 1805+goal, PENDING_VERIFICATION). VEC_DONE 731, PUSH_DONE ok=731 fail=0.
 - [x] Batch 4: Valuation workbook/crosswalk scaffold rows (TBD only). VAL_DONE 731, PUSH_DONE ok=731 fail=0.
 - [x] Batch 5: QA gate passed (CHECKED 731, ISSUES 0). Report .opencode/batch5_qa_report.txt
+
+## Pilot Browser Fallback + Ingest (2026-11-22)
+- [x] Pilot failed-URL worklist processed: 76/76 attempted from `.opencode/pilot_failed_urls.json` via browse extension (Brave) outerHTML captures; artifacts saved to pilot repo `03_Evidentiary_Exhibits/Immutable_Ledger/*_browser.html` + `.meta.json` with provenance `browser-rendered-outerHTML`, custodian `OpenCode/browser-fallback`, status `PUBLIC_CAPTURE_UNAUTHENTICATED`-appropriate metadata.
+- [x] Rebuilt pilot citations/manifests/intake logs for 8 pilot repos via `.opencode/pilot_browser_ingest_rebuild.py`; browser captures ingested into `CITATION_INDEX.csv/md`, `EVIDENCE_INTAKE_LOG.md` updated, `VERIFICATION_KEYS/sha256_manifest.txt` refreshed. All citations remain `PENDING_LEGAL_REVIEW`; no fabricated claims.
+- [x] QA gate: `batch5_qa.py` => CHECKED 731, ISSUES 0.
+- [x] Committed/pushed 8 pilot repos to GRA remotes (GRA auth boundary respected).
+
+## Next (quality-first, all applicable repos)
+- [ ] Scale proven pilot pattern in batched waves across remaining applicable repos: source gap fill, browser fallback for high-value blocked sources, evidence-linked vector/valuation enrichment, domain methodology/FOIA queue, QA, commit/push. Track in ledger; no fabricated amounts/citations; keep 3000-vector baseline and TBD valuation defaults.

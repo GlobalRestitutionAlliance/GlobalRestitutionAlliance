@@ -1,57 +1,60 @@
-import json, hashlib, datetime, sys
+import json, re, hashlib, datetime, sys
 from pathlib import Path
-from bolster_latam_deep import backup_if_exists
 
-inp = Path(sys.argv[1])
-data = json.loads(inp.read_text(encoding="utf-8"))
-ts = datetime.datetime.utcnow().isoformat() + "Z"
-for r in data:
-    cdir = Path(r["cdir"])
-    capdir = cdir / "03_Evidentiary_Exhibits" / "Immutable_Ledger"
-    capdir.mkdir(parents=True, exist_ok=True)
-    log = cdir / "03_Evidentiary_Exhibits" / "EVIDENCE_INTAKE_LOG.md"
-    if not r.get("ok"):
-        row = f"| {datetime.date.today().isoformat()} | {r.get('artifact', '')} | {r.get('url', '')} | OpenCode/browser | N/A | CAPTURE_FAILED | {r.get('error', '')} |"
-    else:
-        html = r.get("html", "")
-        if isinstance(html, str) and html.startswith('"') and html.endswith('"'):
-            try:
-                html = json.loads(html)
-            except:
-                pass
-        b = html.encode("utf-8", errors="ignore")
-        h = hashlib.sha256(b).hexdigest()
-        name = r.get("artifact", "capture") + "_browser.html"
-        out = capdir / name
-        n = 1
-        while out.exists():
-            out = capdir / (r.get("artifact", "capture") + f"_browser_{n}.html")
-            n += 1
-        out.write_bytes(b)
-        meta = {
-            "url": r.get("url"),
-            "final_url": r.get("final_url", r.get("url")),
-            "status": r.get("status"),
-            "title": r.get("title"),
-            "bytes": len(b),
-            "sha256": h,
-            "captured_at": ts,
-            "custodian": "OpenCode/browser-fallback",
-            "country": r.get("country"),
-            "iso": r.get("iso"),
-            "provenance": "browser-eval-outerHTML; WARC-like metadata sidecar; not certified original",
-        }
-        out.with_suffix(out.suffix + ".meta.json").write_text(
-            json.dumps(meta, indent=2), encoding="utf-8", newline="\n"
-        )
-        row = f"| {datetime.date.today().isoformat()} | {out.name} | {r.get('url', '')} | OpenCode/browser-fallback | {h} | PUBLIC_CAPTURE_UNAUTHENTICATED | status={r.get('status')}; bytes={len(b)}; captured={ts}; browser=brave |"
-    if log.exists():
-        txt = log.read_text(encoding="utf-8")
-        marker = "## Intake Rules"
-        txt = (
-            txt.replace(marker, row + "\n\n" + marker, 1)
-            if marker in txt
-            else txt + "\n" + row + "\n"
-        )
-        log.write_text(txt, encoding="utf-8", newline="\n")
-print("saved", len(data))
+p = (
+    Path(sys.argv[1])
+    if len(sys.argv) > 1
+    else Path(
+        r"C:\Users\User\.local\share\opencode\tool-output\tool_204ec34720010opPaCW8WuPr1M"
+    )
+)
+txt = p.read_text(encoding="utf-8", errors="ignore")
+m = re.search(r"\[.*\]", txt, re.S)
+if not m:
+    print("no json")
+    sys.exit(1)
+data = json.loads(m.group(0))
+for item in data:
+    repo = Path(item["repo"])
+    cap = item.get("captured")
+    if not cap or item.get("error"):
+        print("skip", item.get("source_url"), item.get("error"))
+        continue
+    if isinstance(cap, str):
+        try:
+            cap = json.loads(cap)
+        except:
+            cap = {
+                "html": cap,
+                "title": item.get("source_title", ""),
+                "url": item.get("source_url", ""),
+            }
+    html = cap.get("html", "")
+    url = item.get("source_url")
+    title = item.get("source_title") or cap.get("title") or "capture"
+    ledger = repo / "03_Evidentiary_Exhibits/Immutable_Ledger"
+    ledger.mkdir(parents=True, exist_ok=True)
+    safe = re.sub(r"[^A-Za-z0-9._-]+", "_", title)[:70] + "_browser.html"
+    out = ledger / safe
+    n = 1
+    while out.exists():
+        out = ledger / (safe.rsplit(".", 1)[0] + f"_{n}.html")
+        n += 1
+    out.write_bytes(html.encode("utf-8"))
+    h = hashlib.sha256(html.encode("utf-8")).hexdigest()
+    meta = {
+        "url": url,
+        "final_url": cap.get("url", url),
+        "status": 200,
+        "title": cap.get("title", title),
+        "bytes": len(html.encode("utf-8")),
+        "sha256": h,
+        "captured_at": datetime.datetime.utcnow().isoformat() + "Z",
+        "custodian": "OpenCode/browser-fallback",
+        "provenance": "browser-rendered-outerHTML",
+        "batch": "pilot-browser-fallback",
+    }
+    out.with_suffix(out.suffix + ".meta.json").write_text(
+        json.dumps(meta, indent=2), encoding="utf-8"
+    )
+    print("saved", out.name, h[:12])
