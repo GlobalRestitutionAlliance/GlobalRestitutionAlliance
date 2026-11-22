@@ -51,3 +51,11 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 
 ## Push policy
 - R03LV1S preferred pusher; GRA account fallback used when R03LV1S lacks org repo write access. gh restored to R03LV1S after fallback.
+
+## Valuation & Evidence Batches (2026-11-21)
+- [x] Batch 1: Valuation methodology scaffolding rolled out to 731 repos (TBD default, 1805 min baseline+goal, no fabricated amounts). Pushed 731/731.
+- [x] Batch 2a: Source registry expansion complete (731/731 changed, retry push ok=731 fail=0). 
+- [x] Batch 2b: Harvest expanded sources complete (HARV_DONE changed=731, PUSH_DONE ok=731 fail=0).
+- [x] Batch 3: Vector baseline expanded to 3000 (min 1805+goal, PENDING_VERIFICATION). VEC_DONE 731, PUSH_DONE ok=731 fail=0.
+- [x] Batch 4: Valuation workbook/crosswalk scaffold rows (TBD only). VAL_DONE 731, PUSH_DONE ok=731 fail=0.
+- [x] Batch 5: QA gate passed (CHECKED 731, ISSUES 0). Report .opencode/batch5_qa_report.txt
