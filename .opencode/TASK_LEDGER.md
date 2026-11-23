@@ -83,4 +83,6 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - **Guardrails**: no fabricated amounts/dockets/IDs; browser captures http_status=unknown_browser_outerhtml_capture, PUBLIC_CAPTURE_UNAUTHENTICATED; evidence mapping AUTO_CANDIDATE_PENDING_REVIEW/PENDING_EVIDENCE_MAPPING_REVIEW.
 - **QA**: batch5_qa.py => CHECKED 731, ISSUES 0.
 - **Adversarial review (ses_dfa3acb01ffe0rZeWbtQWgYjy4)**: BLOCKING fixed - added capture_access: PUBLIC_CAPTURE_UNAUTHENTICATED to all browser-rendered outerHTML meta.json files; refreshed manifests. No MAJOR. MINOR (pre_bolster_backup tracked, pre-existing) noted. Scripts hardened (save_browser_captures.py, pilot_browser_ingest_rebuild.py).
-- **Status**: QA recheck pending, then commit amend/push.
+- **QA recheck**: batch5_qa.py => CHECKED 731, ISSUES 0.
+- **Pushes**: 8 Africa repos pushed to GRA origin main; main repo pushed to r03lvis/main, origin/main, origin/master.
+- **Status**: complete.
