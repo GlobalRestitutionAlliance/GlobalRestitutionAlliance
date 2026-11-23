@@ -163,5 +163,14 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - **QA**: `python W:\Legal\.opencodeatch5_qa.py` => `CHECKED 731, ISSUES 0` (post-reconcile, post-remediation).
 - **Push**: 6 repos committed/pushed to GRA `origin/master` (GRA identity/boundary, explicit path allowlists): TG `dff93c4`, TN `c10cfad`, TZ `cbb3b3f`, UG `82e45f3`, ZM `7fae1c8`, ZW `b8531fd`.
 - **Guardrails**: no fabricated citations/dockets/IDs/amounts/authenticated claims; no VERIFIED without local hashed artifact + human sign-off; all captures `PUBLIC_CAPTURE_UNAUTHENTICATED`/`PENDING_LEGAL_REVIEW`; no-captures recorded honestly.
-- **Status**: complete; run Africa gap scan and select next highest-value under-enriched region/batch.
+- **Status**: complete; Africa gap scan run (18 repos missing PENDING_RECAPTURE_REGISTER only).
+
+## 2026-11-23 - Africa Light Reconciliation (18 repos, pending-recapture registers/empty-capture flags, gated)
+- **Repos (GRA, local AFRICA/)**: US_AO_ANGOLA, US_BF_BURKINA_FASO, US_BI_BURUNDI, US_BJ_BENIN, US_BW_BOTSWANA, US_CD_CONGO_DEMOCRATIC_REPUBLIC_OF_THE, US_CF_CENTRAL_AFRICAN_REPUBLIC, US_CG_CONGO_REPUBLIC_OF_THE, US_CI_COTE_DIVOIRE, US_CM_CAMEROON, US_CV_CABO_VERDE, US_EG_EGYPT, US_ET_ETHIOPIA, US_GH_GHANA, US_KE_KENYA, US_NG_NIGERIA, US_SN_SENEGAL, US_ZA_SOUTH_AFRICA
+- **Actions**: created/normalized `99_Archives_and_Manifests/PENDING_RECAPTURE_REGISTER.csv` for all 18; backfilled 0-byte/empty-hash capture handling per adversarial MAJOR - flagged affected citation rows/metas as `EMPTY_CAPTURE_PENDING_RECAPTURE`, `substantive=False`, `PENDING_LEGAL_REVIEW` retained, added annotation; normalized citation-index schema with nullable `quality_flag,substantive,annotation_note` where missing. No fabricated entries/citations/amounts/VERIFIED claims.
+- **Register counts**: AO 3, BF 2, BI 2, BJ 1, BW 3, CD 1, CF 2, CG 2, CI 2, CM 3, CV 2, EG 3, ET 1, GH 1, KE 1, NG 1, SN 1, ZA 1 (total 32).
+- **Adversarial review (ses_df87a8824ffeAHY9BEb69IICz1)**: MAJOR resolved - empty-hash/0-byte captures now flagged and registered consistently; MINOR schema drift addressed. `EMPTY_CAPTURE_ISSUES 0` verification check.
+- **QA**: `python W:\Legal\.opencodeatch5_qa.py` => `CHECKED 731, ISSUES 0`.
+- **Push**: 18 repos committed/pushed to GRA `origin/master` (GRA identity/boundary, explicit path allowlists): AO `dca821e`, BF `70fd928`, BI `f4f9dac`, BJ `d7ecf15`, BW `450fbe9`, CD `19447d0`, CF `2372a82`, CG `ac25de9`, CI `1eb125d`, CM `ce62209`, CV `820632f`, EG `65b5f8e`, ET `661fd07`, GH `944a55b`, KE `cce8d2f`, NG `e4720c7`, SN `afa3bcd`, ZA `42dbd05`.
+- **Status**: complete; run next-region gap scan and select next highest-value under-enriched batch.
 
