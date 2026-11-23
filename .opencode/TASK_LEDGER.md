@@ -172,5 +172,14 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - **Adversarial review (ses_df87a8824ffeAHY9BEb69IICz1)**: MAJOR resolved - empty-hash/0-byte captures now flagged and registered consistently; MINOR schema drift addressed. `EMPTY_CAPTURE_ISSUES 0` verification check.
 - **QA**: `python W:\Legal\.opencodeatch5_qa.py` => `CHECKED 731, ISSUES 0`.
 - **Push**: 18 repos committed/pushed to GRA `origin/master` (GRA identity/boundary, explicit path allowlists): AO `dca821e`, BF `70fd928`, BI `f4f9dac`, BJ `d7ecf15`, BW `450fbe9`, CD `19447d0`, CF `2372a82`, CG `ac25de9`, CI `1eb125d`, CM `ce62209`, CV `820632f`, EG `65b5f8e`, ET `661fd07`, GH `944a55b`, KE `cce8d2f`, NG `e4720c7`, SN `afa3bcd`, ZA `42dbd05`.
-- **Status**: complete; run next-region gap scan and select next highest-value under-enriched batch.
+- **Status**: complete; next-region gap scan run (AFRICA 0 under, ASIA 48/48, PACIFIC 18/18 incl MH PR-only, LATAM-noCU 33/33, DOMESTIC 4/4 PR-only, AA 9/9 PR-only, TURTLE_ISLAND 12 region dirs under by basic signal - deeper 597-subrepo scan needed).
+
+## 2026-11-23 - PR-only Light Reconciliation Batch (14 repos, registers/schema/empty-capture, gated)
+- **Repos (GRA)**: PACIFIC/US_MH_MARSHALL_ISLANDS; US_DOMESTIC_VICTIMS/US_DW_NUCLEAR_DOWNWINDERS, US_ER_EXTRAORDINARY_RENDITION_VICTIMS, US_GT_GUANTANAMO_DETAINEES, US_JA_JAPANESE_AMERICAN_INTERNEES; US_AFRICAN_AMERICAN_REPARATIONS african-american-actor-dutch-wic, actor-royal-african-company, br/dk/es/fr/gb/nl/pt reparations master litigation repos.
+- **Actions**: created/normalized `99_Archives_and_Manifests/PENDING_RECAPTURE_REGISTER.csv` for all 14; applied canonical 0-byte/empty-hash rule (`EMPTY_CAPTURE_PENDING_RECAPTURE`, `substantive=False`, `PENDING_LEGAL_REVIEW` retained, annotation); normalized citation index schema (added `evidence_usability,content_status,quality_flag,substantive,annotation_note` as needed) and added register join keys `citation_id,local_artifact` per adversarial MAJORs. No fabricated entries/citations/amounts/VERIFIED claims.
+- **Register counts**: MH 1, DW 0, ER 0, GT 0, JA 0, AA-dutch-wic 0, AA-royal-african-company 1, AA-br 0, AA-dk 0, AA-es 0, AA-fr 0, AA-gb 0, AA-nl 0, AA-pt 0.
+- **Adversarial review (ses_df871250dffePklR702StQRjfB)**: 2 MAJORs resolved before push - added `citation_id,local_artifact` to registers; normalized citation-index schema across batch. `EMPTY_ISSUES 0`.
+- **QA**: `python W:\Legal\.opencodeatch5_qa.py` => `CHECKED 731, ISSUES 0`.
+- **Push**: 14 repos pushed to GRA `origin/master` (explicit path allowlists): MH `3e6b099`, DW `096dfd0`, ER `b5248de`, GT `c973149`, JA `01a11f3`, AA-dutch-wic `7422e7b`, AA-royal-african-company `43d4097`, AA-br `b69f0d6`, AA-dk `9edb89f`, AA-es `63392aa`, AA-fr `669afae`, AA-gb `3199e66`, AA-nl `a439e08`, AA-pt `307d0a6`.
+- **Status**: complete; next select highest-value under-enriched full-enrichment wave (ASIA/PACIFIC/LATAM-noCU/TURTLE_ISLAND deep scan) using gated workflow.
 
