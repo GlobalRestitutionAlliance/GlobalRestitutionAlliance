@@ -1,0 +1,44 @@
+[
+  {
+    "repo_key": "US_SD_SUDAN",
+    "title": "UNESCO Slave Route",
+    "url": "https://www.unesco.org/en/routes-enslaved-peoples",
+    "error": "ERR_EMPTY_RESPONSE (-324) loading; browser.navigation_failed",
+    "recorded_at": "2026-11-23T07:27:47.422695Z"
+  },
+  {
+    "repo_key": "US_SL_SIERRA_LEONE",
+    "title": "UNESCO Slave Route",
+    "url": "https://www.unesco.org/en/routes-enslaved-peoples",
+    "error": "ERR_EMPTY_RESPONSE (-324) loading; browser.navigation_failed",
+    "recorded_at": "2026-11-23T07:27:47.422695Z"
+  },
+  {
+    "repo_key": "US_SO_SOMALIA",
+    "title": "Italian Archives Portal (public)",
+    "url": "https://www.archivi.beniculturali.it/",
+    "error": "Error: [browser.navigation_failed] browser.tabs.open failed. The desktop rejected the site's TLS connection. Ask the user to fix the certificate or trust configuration; do not bypass certificate checks. Details: ERR_CERT_DATE_INVALID (-201) loading 'https://www.archivi.beniculturali.it/'",
+    "recorded_at": "2026-11-23T07:29:44.827871Z"
+  },
+  {
+    "repo_key": "US_SS_SOUTH_SUDAN",
+    "title": "UNESCO Slave Route",
+    "url": "https://www.unesco.org/en/routes-enslaved-peoples",
+    "error": "Error: [browser.timeout] browser.tabs.open did not finish within 60 seconds; its outcome is unknown. Check the desktop connection, call browser.tabs.list({}), and inspect the tab or browser.files.list({tabID}) for completed work. Do not blindly repeat a mutating action or start another recording.",
+    "recorded_at": "2026-11-23T07:31:47.996252Z"
+  },
+  {
+    "repo_key": "US_ST_SAO_TOME_AND_PRINCIPE",
+    "title": "UNESCO Slave Route",
+    "url": "https://www.unesco.org/en/routes-enslaved-peoples",
+    "error": "Error: [browser.navigation_failed] browser.tabs.open failed. The site failed to load through the connected server. Check its URL/network and the OC2 connection before retrying; inspect the current tab first. Details: ERR_EMPTY_RESPONSE (-324) loading 'https://www.unesco.org/en/routes-enslaved-people",
+    "recorded_at": "2026-11-23T07:32:51.449418Z"
+  },
+  {
+    "repo_key": "US_TD_CHAD",
+    "title": "Library of Congress - Chad (French colonial forced labor)",
+    "url": "https://www.loc.gov/item/?q=chad+french+colonial+forced+labor",
+    "error": "Browser capture attempted but artifact not verifiably persisted in tool-output; recorded as no-capture pending recapture (no fabrication).",
+    "recorded_at": "2026-11-23T07:38:27.307073Z"
+  }
+]
