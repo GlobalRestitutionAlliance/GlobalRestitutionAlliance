@@ -124,3 +124,13 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - **Push**: 6 repos committed/pushed to GRA `origin/master` with GRA identity.
 - **Guardrails**: no VERIFIED/authenticated claims; no fabricated citations/dockets/IDs/amounts; unresolved items remain pending recapture/manual/FOIA/custodian path.
 - **Status**: complete; next is Africa Wave 4 selection/execution.
+
+## 2026-11-23 - Africa Wave 4 (8 repos, enrichment+browser fallback, gated)
+- **Repos (GRA, local AFRICA/)**: US_GQ_EQUATORIAL_GUINEA, US_GW_GUINEA-BISSAU, US_KM_COMOROS, US_LR_LIBERIA, US_LS_LESOTHO, US_LY_LIBYA, US_MA_MOROCCO, US_MG_MADAGASCAR
+- **Actions**: ran `pilot_batch_africa8_wave4.py` scaffold/harvest/enrich; added SOURCE_REGISTRY.csv, 3000 VALUATION_WORKSHEET.csv (all `TBD (valuation pending)`, `PENDING_LEGAL_REVIEW`), 3000 claim_vector_registry_3000.json (`AUTO_CANDIDATE_PENDING_REVIEW`), VALUATION_METHODOLOGY_PILOT.md; browser outerHTML captures with `http_status=unknown_browser_outerhtml_capture`, `capture_access=PUBLIC_CAPTURE_UNAUTHENTICATED`, `provenance=browser-rendered-outerHTML`; challenge/AWS WAF/tiny captures flagged `NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE`/`NOT_SUBSTANTIVE_EMPTY_PENDING_RECAPTURE`, `substantive=False`, annotated in meta + CITATION_INDEX.csv; rebuilt citations/pending registers/manifests.
+- **Capture status**: 3 no-capture URLs remain pending (honest, no artifacts fabricated): `US_LS_LESOTHO` UNESCO Memory of the World (`ERR_EMPTY_RESPONSE`), `US_LY_LIBYA` Italian National Archives public portal (`ERR_CERT_DATE_INVALID`), `US_MG_MADAGASCAR` UNESCO Slave Route (`ERR_EMPTY_RESPONSE`); recorded in per-repo `PENDING_RECAPTURE_REGISTER.csv` as `NO_CAPTURE`.
+- **QA**: `python W:\Legal\.opencode\batch5_qa.py` => `CHECKED 731, ISSUES 0` (post-fix).
+- **Adversarial review (ses_df8dcc430ffe3a8kQhxzKV5MPE)**: BLOCKING/MAJOR resolved - removed `VERIFIED & AUDITED` overclaims and hardcoded published amounts from active Master_Armory manifests, crosswalk dashboards/matrices, and pre_bolster_backup copies across all 8 repos; replaced with `PENDING_LEGAL_REVIEW` / `TBD (valuation pending)`; manifests refreshed. No remaining BLOCKING/CRITICAL/HIGH/MAJOR.
+- **Push**: 8 repos committed/pushed to GRA `origin/master` (GRA identity/boundary).
+- **Guardrails**: no fabricated citations/dockets/IDs/amounts/authenticated claims; no VERIFIED without local hashed artifact + human sign-off; all captures `PUBLIC_CAPTURE_UNAUTHENTICATED`/`PENDING_LEGAL_REVIEW`.
+- **Status**: complete; next is Africa Wave 5 selection/execution.
