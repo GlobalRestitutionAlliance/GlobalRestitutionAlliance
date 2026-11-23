@@ -114,3 +114,13 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - **Adversarial review (ses_df9cd8354ffeuh4u4HyF5C30lc)**: 2 MAJOR resolved - (1) empty/failed capture artifacts flagged non-substantive pending recapture in meta/citations/manifests; (2) per-repo pending-recapture registers added with URL/method/reason/date/status/next action and audit-log references. No BLOCKING/CRITICAL/HIGH. MINOR/NIT noted for future hardening (coarse auto-mapping, browser substantive checks, manifest location convention).
 - **Push**: 8 repos committed/pushed to GRA `origin/master` (GRA auth boundary); main ledger pushed per boundary.
 - **Status**: complete.
+
+## 2026-11-23 - Africa Wave 3 Pending-Recapture Retry (reconciliation complete)
+- **Scope (GRA AFRICA repos)**: US_DJ_DJIBOUTI, US_DZ_ALGERIA, US_ER_ERITREA, US_GA_GABON, US_GM_GAMBIA, US_GN_GUINEA (35 previously pending Wave 3 URLs attempted via real browser outerHTML capture).
+- **Capture outcomes**: 18 substantive OK captures; 15 challenge/AWS WAF interstitial captures saved but flagged `NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE`, `substantive=False`, with annotation notes (not evidence of substantive content); 2 no-capture failures remain pending (`US_ER_ERITREA` Italian National Archives public portal `ERR_CERT_DATE_INVALID`; `US_GM_GAMBIA` UNESCO Slave Route `ERR_EMPTY_RESPONSE`).
+- **Per-repo pending registers (post-fix, all flagged non-substantive/pending included)**: DJ 2, DZ 2, ER 4, GA 6, GM 9, GN 7.
+- **Reconciliation**: updated/added browser HTML+meta with `http_status=unknown_browser_outerhtml_capture`, `provenance=browser-rendered-outerHTML`, `capture_access=PUBLIC_CAPTURE_UNAUTHENTICATED`, `legal_review_status=PENDING_LEGAL_REVIEW`; rebuilt CITATION_INDEX.csv/md; refreshed PENDING_RECAPTURE_REGISTER.csv to include all meta/CITATION-flagged non-substantive/pending items; appended corrective audit-log entries; normalized OK browser meta `substantive=null -> true`; rebuilt `VERIFICATION_KEYS/sha256_manifest.txt`.
+- **Gates**: `python W:\Legal\.opencode\batch5_qa.py` => `CHECKED 731, ISSUES 0`. Adversarial review (`ses_df8fcc433ffe9zzXl5rlN8NiYe`) MAJORs resolved (missing flagged items in registers + audit-count inconsistency; MINOR meta/index substantive alignment fixed). No BLOCKING/CRITICAL/HIGH remaining from resolved findings.
+- **Push**: 6 repos committed/pushed to GRA `origin/master` with GRA identity.
+- **Guardrails**: no VERIFIED/authenticated claims; no fabricated citations/dockets/IDs/amounts; unresolved items remain pending recapture/manual/FOIA/custodian path.
+- **Status**: complete; next is Africa Wave 4 selection/execution.
