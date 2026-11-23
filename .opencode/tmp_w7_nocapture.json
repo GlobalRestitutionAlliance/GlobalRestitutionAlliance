@@ -1,0 +1,16 @@
+[
+  {
+    "repo_key": "US_TN_TUNISIA",
+    "title": "UNESCO Slave Route",
+    "url": "https://www.unesco.org/en/routes-enslaved-peoples",
+    "error": "Error: [browser.navigation_failed] browser.tabs.open failed. The site failed to load through the connected server. Check its URL/network and the OC2 connection before retrying; inspect the current tab first. Details: ERR_EMPTY_RESPONSE (-324) loading 'https://www.unesco.org/en/routes-enslaved-people",
+    "recorded_at": "2026-11-23T08:02:33.788817Z"
+  },
+  {
+    "repo_key": "US_ZM_ZAMBIA",
+    "title": "UNESCO Slave Route",
+    "url": "https://www.unesco.org/en/routes-enslaved-peoples",
+    "error": "Error: [browser.navigation_failed] browser.tabs.open failed. The site failed to load through the connected server. Check its URL/network and the OC2 connection before retrying; inspect the current tab first. Details: ERR_EMPTY_RESPONSE (-324) loading 'https://www.unesco.org/en/routes-enslaved-people",
+    "recorded_at": "2026-11-23T08:08:34.875878Z"
+  }
+]
