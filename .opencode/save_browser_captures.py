@@ -114,6 +114,7 @@ def main():
             "bytes": len(html_bytes),
             "sha256": sha,
             "provenance": "browser-rendered-outerHTML",
+            "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
             "custodian": "OpenCode/browser-fallback",
             "legal_review_status": "PENDING_LEGAL_REVIEW",
             "capture_method": "opencode-browse-extension+eval.outerHTML",

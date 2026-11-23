@@ -77,3 +77,10 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 
 ## Next (quality-first, all applicable repos)
 - [ ] Scale proven pilot pattern in batched waves across remaining applicable repos: source gap fill, browser fallback for high-value blocked sources, evidence-linked vector/valuation enrichment, domain methodology/FOIA queue, QA, commit/push. Track in ledger; no fabricated amounts/citations; keep 3000-vector baseline and TBD valuation defaults.
+## 2026-11-22 - Africa Pilot Wave 1 (8 repos, enrichment+browser fallback)
+- **Repos (GRA)**: AFRICA/US_GH_GHANA, US_NG_NIGERIA, US_SN_SENEGAL, US_BJ_BENIN, US_CD_CONGO_DEMOCRATIC_REPUBLIC_OF_THE, US_KE_KENYA, US_ZA_SOUTH_AFRICA, US_ET_ETHIOPIA
+- **Actions**: added SOURCE_REGISTRY.csv, direct harvest attempts, browser-fallback outerHTML captures for missing high-value sources (UN OHCHR/LOC/HathiTrust/Chronicling America/World Bank/TNA/archives; UNESCO Slave Route for GH/NG/SN/BJ). Created 3000-row VALUATION_WORKSHEET.csv and claim_vector_registry_3000.json (all TBD, PENDING_LEGAL_REVIEW, AUTO_CANDIDATE_PENDING_REVIEW where citation IDs present), added VALUATION_METHODOLOGY_PILOT.md. Rebuilt citations/manifests.
+- **Guardrails**: no fabricated amounts/dockets/IDs; browser captures http_status=unknown_browser_outerhtml_capture, PUBLIC_CAPTURE_UNAUTHENTICATED; evidence mapping AUTO_CANDIDATE_PENDING_REVIEW/PENDING_EVIDENCE_MAPPING_REVIEW.
+- **QA**: batch5_qa.py => CHECKED 731, ISSUES 0.
+- **Adversarial review (ses_dfa3acb01ffe0rZeWbtQWgYjy4)**: BLOCKING fixed - added capture_access: PUBLIC_CAPTURE_UNAUTHENTICATED to all browser-rendered outerHTML meta.json files; refreshed manifests. No MAJOR. MINOR (pre_bolster_backup tracked, pre-existing) noted. Scripts hardened (save_browser_captures.py, pilot_browser_ingest_rebuild.py).
+- **Status**: QA recheck pending, then commit amend/push.

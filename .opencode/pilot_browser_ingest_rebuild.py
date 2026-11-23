@@ -90,6 +90,11 @@ def main():
                 continue
             if meta.get("provenance") != "browser-rendered-outerHTML":
                 continue
+            if meta.get("capture_access") != "PUBLIC_CAPTURE_UNAUTHENTICATED":
+                meta["capture_access"] = "PUBLIC_CAPTURE_UNAUTHENTICATED"
+                mp.write_text(
+                    json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8"
+                )
             sha = sha256p(art)
             meta_sha = meta.get("sha256", "")
             if meta_sha and meta_sha != sha:
