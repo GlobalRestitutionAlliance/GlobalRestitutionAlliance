@@ -104,3 +104,13 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - **Adversarial review (ses_df9ed2490ffe48F2MsMY09uAxa)**: 1 MAJOR resolved - added 404/non-substantive annotation columns to affected CITATION_INDEX.csv rows and regenerated citation MD/manifests. No BLOCKING/CRITICAL/HIGH.
 - **Push**: all 8 repos committed and pushed to GRA `origin/master`.
 - **Status**: complete.
+
+## 2026-11-22 - Africa Pilot Wave 3 (8 repos, enrichment+browser/direct fallback)
+- **Repos (GRA, local AFRICA/)**: US_CV_CABO_VERDE, US_DJ_DJIBOUTI, US_DZ_ALGERIA, US_EG_EGYPT, US_ER_ERITREA, US_GA_GABON, US_GM_GAMBIA, US_GN_GUINEA
+- **Actions**: ran `pilot_batch_africa8_wave3.py` scaffold/harvest/enrich; added SOURCE_REGISTRY.csv, 3000 VALUATION_WORKSHEET.csv (all `TBD (valuation pending)`, `PENDING_LEGAL_REVIEW`), 3000 claim_vector_registry_3000.json (`AUTO_CANDIDATE_PENDING_REVIEW`), VALUATION_METHODOLOGY_PILOT.md; rebuilt citations/enrich/manifests. Browser outerHTML captures marked `http_status=unknown_browser_outerhtml_capture`, `capture_access=PUBLIC_CAPTURE_UNAUTHENTICATED`, `provenance=browser-rendered-outerHTML`; direct captures `provenance=direct-urllib-capture` with real http_status.
+- **Capture status**: 38/73 targeted missing URLs captured (browser/direct); 35 failed (403/reset/timeout) after browse tool unavailable mid-wave - **not fabricated**. Per-repo `99_Archives_and_Manifests/PENDING_RECAPTURE_REGISTER.csv` added and referenced in `Expansion_and_Audit_Log.md`.
+- **Quality flags**: LOC 404/landing captures flagged `NOT_SUBSTANTIVE_404_PENDING_RECAPTURE`; 10 empty/failed capture artifacts flagged `EMPTY_CAPTURE_PENDING_RECAPTURE`, `substantive=False`, with annotation notes in meta + CITATION_INDEX.csv/md. Manifests refreshed.
+- **QA**: `python W:\Legal\.opencodeatch5_qa.py` => `CHECKED 731, ISSUES 0` (post-fix).
+- **Adversarial review (ses_df9cd8354ffeuh4u4HyF5C30lc)**: 2 MAJOR resolved - (1) empty/failed capture artifacts flagged non-substantive pending recapture in meta/citations/manifests; (2) per-repo pending-recapture registers added with URL/method/reason/date/status/next action and audit-log references. No BLOCKING/CRITICAL/HIGH. MINOR/NIT noted for future hardening (coarse auto-mapping, browser substantive checks, manifest location convention).
+- **Push**: 8 repos committed/pushed to GRA `origin/master` (GRA auth boundary); main ledger pushed per boundary.
+- **Status**: complete.
