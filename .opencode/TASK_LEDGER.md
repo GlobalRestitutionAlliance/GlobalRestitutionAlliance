@@ -90,5 +90,7 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - **Repos (GRA)**: PACIFIC/US_MH_MARSHALL_ISLANDS; US_AFRICAN_AMERICAN_REPARATIONS (+ african-american-gb/nl/pt subrepos); US_DOMESTIC_VICTIMS/US_DW_NUCLEAR_DOWNWINDERS, US_JA_JAPANESE_AMERICAN_INTERNEES; US_TURTLE_ISLAND_NATIVES/NAVAJO/US_AZ_NAVAJO_NATION_ARIZONA_NEW_MEXICO_UTAH
 - **Goal**: add missing SOURCE_REGISTRY, 3000 VALUATION_WORKSHEET, 3000 claim_vector_registry_3000; preserve existing pilot/workbook; rebuild citations/manifests.
 - **Actions**: added SOURCE_REGISTRY, direct harvest, browser-fallback captures for missing high-value URLs, created 3000 VALUATION_WORKSHEET + 3000 claim_vector_registry_3000 (all TBD, PENDING_LEGAL_REVIEW, AUTO_CANDIDATE_PENDING_REVIEW), preserved existing pilot/workbook; rebuilt citations/manifests. Browser metas include capture_access=PUBLIC_CAPTURE_UNAUTHENTICATED.
-- **QA**: pending recheck.
-- **Status**: adversarial review + commit/push pending.
+- **Adversarial review (ses_dfa2118c6ffeTNGBP79Vnt00Fw)**: MAJORs resolved - 13 404/landing browser captures flagged NOT_SUBSTANTIVE_404_PENDING_RECAPTURE in meta/citation/intake (no overclaim); tracked evidence backup files removed; manifests regenerated with self-entry. No BLOCKING/CRITICAL/HIGH remaining.
+- **QA**: atch5_qa.py CHECKED 731, ISSUES 0.
+- **Push**: all 8 repos pushed to GRA origin/master.
+- **Status**: complete.
