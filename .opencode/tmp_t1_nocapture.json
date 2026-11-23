@@ -1,0 +1,226 @@
+[
+  {
+    "repo_key": "US_OK_CHEROKEE_NATION",
+    "title": "Library of Congress - Cherokee",
+    "url": "https://www.loc.gov/search/?q=cherokee+nation+treaty",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_CHEROKEE_NATION",
+    "title": "Yale Avalon - Treaty with the Cherokee 1835",
+    "url": "https://avalon.law.yale.edu/19th_century/cherokee.asp",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_CHEROKEE_NATION",
+    "title": "BIA - Cherokee Nation",
+    "url": "https://www.bia.gov/bia/ois/dhs/icwa/agents-locations/cherokee-nation",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_CHEROKEE_NATION",
+    "title": "Supreme Court - Cherokee Nation v. Georgia",
+    "url": "https://supreme.justia.com/cases/federal/us/30/1/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_CHEROKEE_NATION",
+    "title": "UN - Indigenous Peoples",
+    "url": "https://www.un.org/development/desa/indigenouspeoples/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_SD_OGLALA_SIOUX_TRIBE",
+    "title": "Library of Congress - Oglala Sioux",
+    "url": "https://www.loc.gov/search/?q=oglala+sioux+treaty",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_SD_OGLALA_SIOUX_TRIBE",
+    "title": "Supreme Court - United States v. Sioux Nation",
+    "url": "https://supreme.justia.com/cases/federal/us/448/371/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_SD_OGLALA_SIOUX_TRIBE",
+    "title": "NPS - Wounded Knee",
+    "url": "https://www.nps.gov/articles/000/wounded-knee.htm",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_SD_OGLALA_SIOUX_TRIBE",
+    "title": "UN - Indigenous Peoples",
+    "url": "https://www.un.org/development/desa/indigenouspeoples/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_THE_CHOCTAW_NATION_OF_OKLAHOMA",
+    "title": "Library of Congress - Choctaw Nation",
+    "url": "https://www.loc.gov/search/?q=choctaw+nation+treaty",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_THE_CHOCTAW_NATION_OF_OKLAHOMA",
+    "title": "Yale Avalon - Treaty of Dancing Rabbit Creek 1830",
+    "url": "https://avalon.law.yale.edu/19th_century/choctaw.asp",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_THE_CHOCTAW_NATION_OF_OKLAHOMA",
+    "title": "BIA - Choctaw Nation",
+    "url": "https://www.bia.gov/bia/ois/dhs/icwa/agents-locations/choctaw-nation-oklahoma",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_THE_CHOCTAW_NATION_OF_OKLAHOMA",
+    "title": "Supreme Court - McGirt v. Oklahoma",
+    "url": "https://supreme.justia.com/cases/federal/us/591/18-9526/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_THE_CHOCTAW_NATION_OF_OKLAHOMA",
+    "title": "UN - Indigenous Peoples",
+    "url": "https://www.un.org/development/desa/indigenouspeoples/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_THE_SEMINOLE_NATION_OF_OKLAHOMA",
+    "title": "Library of Congress - Seminole Nation",
+    "url": "https://www.loc.gov/search/?q=seminole+nation+oklahoma",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_THE_SEMINOLE_NATION_OF_OKLAHOMA",
+    "title": "Yale Avalon - Treaty with the Seminole 1832",
+    "url": "https://avalon.law.yale.edu/19th_century/seminole.asp",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_THE_SEMINOLE_NATION_OF_OKLAHOMA",
+    "title": "BIA - Seminole Nation of Oklahoma",
+    "url": "https://www.bia.gov/bia/ois/dhs/icwa/agents-locations/seminole-nation-oklahoma",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_THE_SEMINOLE_NATION_OF_OKLAHOMA",
+    "title": "Supreme Court - Seminole Tribe v. Florida",
+    "url": "https://supreme.justia.com/cases/federal/us/517/44/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_OK_THE_SEMINOLE_NATION_OF_OKLAHOMA",
+    "title": "UN - Indigenous Peoples",
+    "url": "https://www.un.org/development/desa/indigenouspeoples/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_AZ_HOPI_TRIBE_OF_ARIZONA",
+    "title": "Library of Congress - Hopi",
+    "url": "https://www.loc.gov/search/?q=hopi+tribe+arizona",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_AZ_HOPI_TRIBE_OF_ARIZONA",
+    "title": "Supreme Court - Masayesva v. Zah",
+    "url": "https://supreme.justia.com/cases/federal/us/prec/516-1002/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_AZ_HOPI_TRIBE_OF_ARIZONA",
+    "title": "UN - Indigenous Peoples",
+    "url": "https://www.un.org/development/desa/indigenouspeoples/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_SD_ROSEBUD_SIOUX_TRIBE_OF_THE_ROSEBUD_INDIA",
+    "title": "Library of Congress - Rosebud Sioux",
+    "url": "https://www.loc.gov/search/?q=rosebud+sioux+tribe",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_SD_ROSEBUD_SIOUX_TRIBE_OF_THE_ROSEBUD_INDIA",
+    "title": "Supreme Court - Rosebud Sioux Tribe v. Kneip",
+    "url": "https://supreme.justia.com/cases/federal/us/430/584/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_SD_ROSEBUD_SIOUX_TRIBE_OF_THE_ROSEBUD_INDIA",
+    "title": "UN - Indigenous Peoples",
+    "url": "https://www.un.org/development/desa/indigenouspeoples/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_ND_STANDING_ROCK_SIOUX_TRIBE_OF_NORTH_SOUTH",
+    "title": "Library of Congress - Standing Rock Sioux",
+    "url": "https://www.loc.gov/search/?q=standing+rock+sioux+tribe",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_ND_STANDING_ROCK_SIOUX_TRIBE_OF_NORTH_SOUTH",
+    "title": "Army Corps - Dakota Access Pipeline",
+    "url": "https://www.nwo.usace.army.mil/Missions/Dam-and-Lake-Projects/Oil-and-Gas-Development/Dakota-Access-Pipeline/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_ND_STANDING_ROCK_SIOUX_TRIBE_OF_NORTH_SOUTH",
+    "title": "UN - Indigenous Peoples",
+    "url": "https://www.un.org/development/desa/indigenouspeoples/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_MT_BLACKFEET_TRIBE_OF_THE_BLACKFEET_INDIAN_",
+    "title": "Library of Congress - Blackfeet",
+    "url": "https://www.loc.gov/search/?q=blackfeet+tribe+montana+treaty",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_MT_BLACKFEET_TRIBE_OF_THE_BLACKFEET_INDIAN_",
+    "title": "Yale Avalon - Treaty with the Blackfeet 1855",
+    "url": "https://avalon.law.yale.edu/19th_century/blackfeet.asp",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_MT_BLACKFEET_TRIBE_OF_THE_BLACKFEET_INDIAN_",
+    "title": "Supreme Court - Montana v. United States",
+    "url": "https://supreme.justia.com/cases/federal/us/450/544/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  },
+  {
+    "repo_key": "US_MT_BLACKFEET_TRIBE_OF_THE_BLACKFEET_INDIAN_",
+    "title": "UN - Indigenous Peoples",
+    "url": "https://www.un.org/development/desa/indigenouspeoples/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:33:09.503560Z"
+  }
+]

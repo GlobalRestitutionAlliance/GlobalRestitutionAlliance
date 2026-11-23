@@ -3,6 +3,39 @@ from pathlib import Path
 
 ROOT = Path(r"W:\Legal")
 
+TURTLE8 = [
+    ROOT/"US_TURTLE_ISLAND_NATIVES"/"EASTERN_OKLAHOMA"/"US_OK_CHEROKEE_NATION",
+    ROOT/"US_TURTLE_ISLAND_NATIVES"/"GREAT_PLAINS"/"US_SD_OGLALA_SIOUX_TRIBE",
+    ROOT/"US_TURTLE_ISLAND_NATIVES"/"EASTERN_OKLAHOMA"/"US_OK_THE_CHOCTAW_NATION_OF_OKLAHOMA",
+    ROOT/"US_TURTLE_ISLAND_NATIVES"/"EASTERN_OKLAHOMA"/"US_OK_THE_SEMINOLE_NATION_OF_OKLAHOMA",
+    ROOT/"US_TURTLE_ISLAND_NATIVES"/"WESTERN"/"US_AZ_HOPI_TRIBE_OF_ARIZONA",
+    ROOT/"US_TURTLE_ISLAND_NATIVES"/"GREAT_PLAINS"/"US_SD_ROSEBUD_SIOUX_TRIBE_OF_THE_ROSEBUD_INDIA",
+    ROOT/"US_TURTLE_ISLAND_NATIVES"/"GREAT_PLAINS"/"US_ND_STANDING_ROCK_SIOUX_TRIBE_OF_NORTH_SOUTH",
+    ROOT/"US_TURTLE_ISLAND_NATIVES"/"ROCKY_MOUNTAIN"/"US_MT_BLACKFEET_TRIBE_OF_THE_BLACKFEET_INDIAN_",
+]
+
+LATAM8 = [
+    ROOT/"LATIN_AMERICA"/"US_MX_MEXICO",
+    ROOT/"LATIN_AMERICA"/"US_GT_GUATEMALA",
+    ROOT/"LATIN_AMERICA"/"US_HN_HONDURAS",
+    ROOT/"LATIN_AMERICA"/"US_SV_EL_SALVADOR",
+    ROOT/"LATIN_AMERICA"/"US_NI_NICARAGUA",
+    ROOT/"LATIN_AMERICA"/"US_PA_PANAMA",
+    ROOT/"LATIN_AMERICA"/"US_HT_HAITI",
+    ROOT/"LATIN_AMERICA"/"US_PR_PUERTO_RICO",
+]
+
+ASIA8 = [
+    ROOT/"ASIA"/"US_VN_VIETNAM",
+    ROOT/"ASIA"/"US_PH_PHILIPPINES",
+    ROOT/"ASIA"/"US_ID_INDONESIA",
+    ROOT/"ASIA"/"US_KR_SOUTH_KOREA",
+    ROOT/"ASIA"/"US_IQ_IRAQ",
+    ROOT/"ASIA"/"US_AF_AFGHANISTAN",
+    ROOT/"ASIA"/"US_IR_IRAN",
+    ROOT/"ASIA"/"US_KH_CAMBODIA",
+]
+
 PACIFIC8 = [
     ROOT/"PACIFIC"/"US_AS_AMERICAN_SAMOA",
     ROOT/"PACIFIC"/"US_CK_COOK_ISLANDS",
@@ -36,8 +69,8 @@ def find_repos():
             for d in p.iterdir():
                 if d.is_dir() and (d / ".git").exists():
                     repos.append(d)
-    # include PACIFIC8 untracked targets explicitly
-    for d in PACIFIC8:
+    # include explicit wave targets
+    for d in PACIFIC8 + ASIA8 + LATAM8 + TURTLE8:
         if d.exists():
             repos.append(d)
     seen = set()
@@ -75,7 +108,10 @@ def check(repo):
                     issues.append('manifest_self_entry_present')
                     break
                 fp = repo/rel
-                if fp.exists() and fp.is_file():
+                if not fp.exists():
+                    issues.append('manifest_missing_file')
+                    break
+                if fp.is_file():
                     try:
                         if sha256_file(fp) != (row.get('sha256') or ''):
                             issues.append('manifest_hash_mismatch')
@@ -89,7 +125,10 @@ def check(repo):
             with ci.open("r", encoding="utf-8", newline="") as f:
                 reader=csv.DictReader(f)
                 fields=set(reader.fieldnames or [])
-                if mcsv.exists():
+                # enforce new schema when repo has adopted it (manifest or any new field present) or is an active wave target
+                is_wave_target = repo in set(PACIFIC8+ASIA8+LATAM8+TURTLE8)
+                has_new_schema = mcsv.exists() or any(f in fields for f in ["verification_status","verification_rule","quality_flag","substantive","capture_access","provenance"])
+                if is_wave_target or has_new_schema:
                     for req in ["verification_status","verification_rule","legal_review_status","quality_flag","substantive"]:
                         if req not in fields:
                             issues.append(f"citation_missing_field:{req}")
@@ -102,10 +141,23 @@ def check(repo):
                         break
                     qf=(row.get('quality_flag') or '')
                     sub=(row.get('substantive') or '').strip().lower()
-                    if qf.startswith('NO_CAPTURE') or qf.startswith('NOT_SUBSTANTIVE'):
-                        if sub not in ('false','0',''):
-                            pass
-                if "verified_citation_without_gate" in issues:
+                    local=(row.get('local_artifact') or row.get('local_path') or '').strip()
+                    sha=(row.get('sha256') or '').strip()
+                    if (qf.startswith('NO_CAPTURE') or qf.startswith('NOT_SUBSTANTIVE')) and sub not in ('false','0'):
+                        issues.append('nocapture_substantive_not_false')
+                        break
+                    # artifact-backed rows should have explicit substantive and basic provenance fields (enforced for wave targets/new-layout repos)
+                    if (is_wave_target or mcsv.exists()) and local and sha and not qf.startswith('NO_CAPTURE') and not qf.startswith('NOT_SUBSTANTIVE'):
+                        if sub not in ('true','1','false','0'):
+                            issues.append('artifact_substantive_empty')
+                            break
+                        if not (row.get('provenance') or '').strip():
+                            issues.append('artifact_provenance_empty')
+                            break
+                        if not (row.get('capture_access') or '').strip():
+                            issues.append('artifact_capture_access_empty')
+                            break
+                if "verified_citation_without_gate" in issues or 'nocapture_substantive_not_false' in issues:
                     break
     # valuation workbook legacy
     wb = repo/"00_Master_Knowledge_Base/VALUATION_WORKBOOK.csv"

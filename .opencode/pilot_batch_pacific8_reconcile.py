@@ -52,26 +52,52 @@ def normalize_meta(meta_path: Path):
     except Exception:
         return None
     changed = False
-    if (
-        meta.get("provenance") == "browser-rendered-outerHTML"
-        or str(meta.get("http_status")) == "unknown_browser_outerhtml_capture"
-    ):
+    # alias normalization
+    if not meta.get("http_status") and meta.get("status") is not None:
+        meta["http_status"] = meta.get("status"); changed = True
+    if not meta.get("fetched_at") and meta.get("captured_at"):
+        meta["fetched_at"] = meta.get("captured_at"); changed = True
+    prov = str(meta.get("provenance") or "")
+    is_browser = prov == "browser-rendered-outerHTML" or prov.startswith("browser-rendered outerHTML") or str(meta.get("http_status")) == "unknown_browser_outerhtml_capture"
+    if is_browser:
+        if "browser-rendered" not in str(meta.get("provenance") or ""):
+            meta["provenance"] = "browser-rendered-outerHTML"; changed = True
         if meta.get("capture_access") != "PUBLIC_CAPTURE_UNAUTHENTICATED":
             meta["capture_access"] = "PUBLIC_CAPTURE_UNAUTHENTICATED"; changed = True
         if meta.get("legal_review_status") != "PENDING_LEGAL_REVIEW":
             meta["legal_review_status"] = "PENDING_LEGAL_REVIEW"; changed = True
-        qf = str(meta.get("quality_flag") or "")
-        note = str(meta.get("annotation_note") or "")
-        is_nonsub = (meta.get("substantive") is False or qf.startswith("NOT_SUBSTANTIVE") or "Pending recapture" in note)
-        if meta.get("substantive") is None and not is_nonsub:
-            meta["substantive"] = True; changed = True
+    # derive bytes
+    b = meta.get("bytes")
+    try: b_int = int(b) if b is not None and str(b).strip() != "" else None
+    except Exception: b_int = None
+    sha = str(meta.get("sha256") or "")
+    empty_sha = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    headers = meta.get("headers") or {}
+    hdr_text = json.dumps(headers).lower() if isinstance(headers, dict) else str(headers).lower()
+    challenge = any(x in hdr_text for x in ["x-amzn-waf-action", "cf-chl", "challenge"])
     qf = str(meta.get("quality_flag") or "")
-    if qf.startswith("NO_CAPTURE") or qf.startswith("NOT_SUBSTANTIVE"):
+    note = str(meta.get("annotation_note") or "")
+    looks_nonsub = qf.startswith("NOT_SUBSTANTIVE") or qf.startswith("NO_CAPTURE") or "Pending recapture" in note or "pending recapture" in note.lower()
+    if b_int == 0 or sha == empty_sha or challenge:
+        looks_nonsub = True
+        if not qf.startswith("NO_CAPTURE"):
+            meta["quality_flag"] = "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE" if challenge else "NOT_SUBSTANTIVE_EMPTY_PENDING_RECAPTURE"; changed = True
+            qf = meta["quality_flag"]
+        if not note:
+            meta["annotation_note"] = "Empty/challenge capture detected; not substantive evidence. Pending recapture."; changed = True
+    if looks_nonsub:
         if meta.get("substantive") is not False:
             meta["substantive"] = False; changed = True
         if meta.get("legal_review_status") != "PENDING_LEGAL_REVIEW":
             meta["legal_review_status"] = "PENDING_LEGAL_REVIEW"; changed = True
-    # never allow VERIFIED without human sign-off marker; keep conservative
+    # normal artifact-backed capture: make substantive explicit
+    if not looks_nonsub and sha and sha != empty_sha:
+        if meta.get("substantive") is None or meta.get("substantive") == "":
+            meta["substantive"] = True; changed = True
+        if not str(meta.get("quality_flag") or "").strip():
+            meta["quality_flag"] = "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"; changed = True
+        if not str(meta.get("capture_access") or "").strip():
+            meta["capture_access"] = "PUBLIC_CAPTURE_UNAUTHENTICATED"; changed = True
     if str(meta.get("legal_review_status","")).upper() == "VERIFIED" and not meta.get("human_signoff"):
         meta["legal_review_status"] = "PENDING_LEGAL_REVIEW"; changed = True
     if changed:
@@ -92,7 +118,7 @@ def load_existing_citation_ids(repo: Path):
             st=str(r.get("http_status","") or "").strip()
             if art: by_artifact.setdefault(art,cid)
             by_key.setdefault((url,art,qf,st),cid)
-            if art=="":
+            if art=="" or st=="NO_CAPTURE" or qf.startswith("NO_CAPTURE"):
                 by_key.setdefault((url,"","NO_CAPTURE_PENDING_RECAPTURE","NO_CAPTURE"),cid)
     return by_artifact, by_key
 
@@ -118,6 +144,18 @@ def build_citation_rows(repo: Path):
             vstatus = str(meta.get("verification_status","") or "PENDING_LEGAL_REVIEW")
             if vstatus.upper()=="VERIFIED" and not meta.get("human_signoff"):
                 vstatus = "PENDING_LEGAL_REVIEW"
+            prov=str(meta.get("provenance","") or "")
+            if not prov and sha:
+                prov="browser-rendered-outerHTML" if str(status)=="unknown_browser_outerhtml_capture" else "direct-http-fetch"
+            cap_acc=str(meta.get("capture_access","") or "") or ("PUBLIC_CAPTURE_UNAUTHENTICATED" if sha else "")
+            subval=meta.get("substantive")
+            if subval is None or str(subval).strip()=="":
+                if qf.startswith("NO_CAPTURE") or qf.startswith("NOT_SUBSTANTIVE"):
+                    subval=False
+                elif sha:
+                    subval=True
+            if sha and not str(qf).strip() and subval is True:
+                qf="SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
             rows.append({
                 "citation_id": cid,
                 "title": meta.get("title", art.stem),
@@ -129,19 +167,19 @@ def build_citation_rows(repo: Path):
                 "http_status": status,
                 "content_type": meta.get("content_type", ""),
                 "fetched_at": meta.get("fetched_at", ""),
-                "provenance": meta.get("provenance", ""),
-                "capture_access": meta.get("capture_access", ""),
+                "provenance": prov,
+                "capture_access": cap_acc,
                 "legal_review_status": meta.get("legal_review_status", "PENDING_LEGAL_REVIEW"),
                 "verification_status": vstatus,
                 "verification_rule": str(meta.get("verification_rule","") or "NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT"),
-                "substantive": meta.get("substantive"),
+                "substantive": subval,
                 "quality_flag": qf,
                 "annotation_note": meta.get("annotation_note", ""),
             })
     for nc in nc_by_repo.get(repo.name, []):
         url = nc.get("url","")
         qf="NO_CAPTURE_PENDING_RECAPTURE"; status="NO_CAPTURE"
-        cid = by_key.get((url,"",qf,status)) or by_artifact.get("") or hashlib.sha256((url+"|NO_CAPTURE").encode("utf-8")).hexdigest()[:16]
+        cid = by_key.get((url,"",qf,status)) or by_key.get((url,"","NO_CAPTURE_PENDING_RECAPTURE","NO_CAPTURE")) or hashlib.sha256((url+"|NO_CAPTURE|"+str(nc.get('title',''))).encode("utf-8")).hexdigest()[:16]
         rows.append({
             "citation_id": cid,
             "title": nc.get("title", ""),
@@ -181,6 +219,7 @@ def write_citation_indexes(repo: Path, rows):
             k=(er.get('url',''),er.get('local_artifact','') or er.get('local_path',''),er.get('quality_flag',''),str(er.get('http_status','')))
             ex_by_key[k]=er
         merged=[]
+        seen_keys=set()
         for r in rows:
             k=(r.get('url',''),r.get('local_artifact','') or r.get('local_path',''),r.get('quality_flag',''),str(r.get('http_status','')))
             er=ex_by_key.get(k,{})
@@ -190,6 +229,29 @@ def write_citation_indexes(repo: Path, rows):
             out['verification_rule']=str(out.get('verification_rule') or 'NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT')
             if str(out.get('verification_status')).upper()=='VERIFIED' and not str(out.get('human_signoff','')).strip():
                 out['verification_status']='PENDING_LEGAL_REVIEW'
+            merged.append(out); seen_keys.add(k)
+        # preserve unmatched existing rows (normalize, do not drop silently)
+        for k,er in ex_by_key.items():
+            if k in seen_keys: continue
+            out=dict(er)
+            out['verification_status']=str(out.get('verification_status') or 'PENDING_LEGAL_REVIEW')
+            out['verification_rule']=str(out.get('verification_rule') or 'NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT')
+            if str(out.get('verification_status')).upper()=='VERIFIED' and not str(out.get('human_signoff','')).strip():
+                out['verification_status']='PENDING_LEGAL_REVIEW'
+            out.setdefault('legal_review_status','PENDING_LEGAL_REVIEW')
+            qf=str(out.get('quality_flag') or '')
+            sub=str(out.get('substantive') if out.get('substantive') is not None else '').strip().lower()
+            local=str(out.get('local_artifact') or out.get('local_path') or '').strip()
+            sha=str(out.get('sha256') or '').strip()
+            if qf.startswith('NO_CAPTURE') or qf.startswith('NOT_SUBSTANTIVE'):
+                out['substantive']=False
+            elif local and sha and sub not in ('true','1','false','0'):
+                out['substantive']=True
+                if not qf: out['quality_flag']='SUBSTANTIVE_CAPTURE_PENDING_REVIEW'
+            if local and sha and not str(out.get('provenance') or '').strip():
+                out['provenance']='direct-http-fetch'
+            if local and sha and not str(out.get('capture_access') or '').strip():
+                out['capture_access']='PUBLIC_CAPTURE_UNAUTHENTICATED'
             merged.append(out)
         write_csv(out_dir/"CITATION_INDEX.csv", fields, merged)
         lines=["# Citation Index","","| Citation ID | Title | URL | Local Path | SHA256 | Status | Substantive | Quality Flag | Legal Review | Verification |","|---|---|---|---|---|---|---|---|---|---|"]

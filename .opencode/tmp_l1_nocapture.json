@@ -1,0 +1,331 @@
+[
+  {
+    "repo_key": "US_MX_MEXICO",
+    "title": "National Archives - Mexico",
+    "url": "https://www.archives.gov/research/foreign-policy/mexico",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_MX_MEXICO",
+    "title": "Library of Congress - Mexico",
+    "url": "https://www.loc.gov/search/?q=mexico+united+states+intervention",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_MX_MEXICO",
+    "title": "UN Digital Library - Mexico",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=mexico",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_MX_MEXICO",
+    "title": "World Bank - Mexico",
+    "url": "https://data.worldbank.org/country/mexico",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_MX_MEXICO",
+    "title": "UNHCR - Mexico",
+    "url": "https://www.unhcr.org/countries/mexico",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_GT_GUATEMALA",
+    "title": "National Archives - Guatemala",
+    "url": "https://www.archives.gov/research/foreign-policy/guatemala",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_GT_GUATEMALA",
+    "title": "Library of Congress - Guatemala",
+    "url": "https://www.loc.gov/search/?q=guatemala+united+states+1954",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_GT_GUATEMALA",
+    "title": "UN Digital Library - Guatemala",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=guatemala",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_GT_GUATEMALA",
+    "title": "National Security Archive - Guatemala",
+    "url": "https://nsarchive.gwu.edu/briefing-book/guatemala/2011-10-24/guatemala-1954-coup",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_GT_GUATEMALA",
+    "title": "World Bank - Guatemala",
+    "url": "https://data.worldbank.org/country/guatemala",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_GT_GUATEMALA",
+    "title": "UNHCR - Guatemala",
+    "url": "https://www.unhcr.org/countries/guatemala",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_HN_HONDURAS",
+    "title": "National Archives - Honduras",
+    "url": "https://www.archives.gov/research/foreign-policy/honduras",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_HN_HONDURAS",
+    "title": "Library of Congress - Honduras",
+    "url": "https://www.loc.gov/search/?q=honduras+united+states",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_HN_HONDURAS",
+    "title": "State Dept - Honduras",
+    "url": "https://www.state.gov/countries-areas/honduras/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_HN_HONDURAS",
+    "title": "UN Digital Library - Honduras",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=honduras",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_HN_HONDURAS",
+    "title": "World Bank - Honduras",
+    "url": "https://data.worldbank.org/country/honduras",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_HN_HONDURAS",
+    "title": "UNHCR - Honduras",
+    "url": "https://www.unhcr.org/countries/honduras",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_SV_EL_SALVADOR",
+    "title": "National Archives - El Salvador",
+    "url": "https://www.archives.gov/research/foreign-policy/el-salvador",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_SV_EL_SALVADOR",
+    "title": "Library of Congress - El Salvador",
+    "url": "https://www.loc.gov/search/?q=el+salvador+united+states",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_SV_EL_SALVADOR",
+    "title": "State Dept - El Salvador",
+    "url": "https://www.state.gov/countries-areas/el-salvador/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_SV_EL_SALVADOR",
+    "title": "UN Digital Library - El Salvador",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=el+salvador",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_SV_EL_SALVADOR",
+    "title": "UN Truth Commission - El Salvador",
+    "url": "https://digitallibrary.un.org/record/183599?ln=en",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_SV_EL_SALVADOR",
+    "title": "World Bank - El Salvador",
+    "url": "https://data.worldbank.org/country/el-salvador",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_SV_EL_SALVADOR",
+    "title": "UNHCR - El Salvador",
+    "url": "https://www.unhcr.org/countries/el-salvador",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_NI_NICARAGUA",
+    "title": "National Archives - Nicaragua",
+    "url": "https://www.archives.gov/research/foreign-policy/nicaragua",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_NI_NICARAGUA",
+    "title": "Library of Congress - Nicaragua",
+    "url": "https://www.loc.gov/search/?q=nicaragua+united+states+contra",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_NI_NICARAGUA",
+    "title": "State Dept - Nicaragua",
+    "url": "https://www.state.gov/countries-areas/nicaragua/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_NI_NICARAGUA",
+    "title": "UN Digital Library - Nicaragua",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=nicaragua",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_NI_NICARAGUA",
+    "title": "World Bank - Nicaragua",
+    "url": "https://data.worldbank.org/country/nicaragua",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_NI_NICARAGUA",
+    "title": "UNHCR - Nicaragua",
+    "url": "https://www.unhcr.org/countries/nicaragua",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_PA_PANAMA",
+    "title": "National Archives - Panama",
+    "url": "https://www.archives.gov/research/foreign-policy/panama",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_PA_PANAMA",
+    "title": "Library of Congress - Panama",
+    "url": "https://www.loc.gov/search/?q=panama+united+states+invasion+1989",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_PA_PANAMA",
+    "title": "Yale Avalon - Panama Canal Treaty 1977",
+    "url": "https://avalon.law.yale.edu/20th_century/panama.asp",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_PA_PANAMA",
+    "title": "UN Digital Library - Panama",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=panama",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_PA_PANAMA",
+    "title": "World Bank - Panama",
+    "url": "https://data.worldbank.org/country/panama",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_PA_PANAMA",
+    "title": "UNHCR - Panama",
+    "url": "https://www.unhcr.org/countries/panama",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_HT_HAITI",
+    "title": "National Archives - Haiti",
+    "url": "https://www.archives.gov/research/foreign-policy/haiti",
+    "error": "Harvest HTTP Error 404: Not Found; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_HT_HAITI",
+    "title": "Library of Congress - Haiti",
+    "url": "https://www.loc.gov/search/?q=haiti+united+states+occupation",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_HT_HAITI",
+    "title": "State Dept - Haiti",
+    "url": "https://www.state.gov/countries-areas/haiti/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_HT_HAITI",
+    "title": "UN Digital Library - Haiti",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=haiti",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_HT_HAITI",
+    "title": "World Bank - Haiti",
+    "url": "https://data.worldbank.org/country/haiti",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_HT_HAITI",
+    "title": "UNHCR - Haiti",
+    "url": "https://www.unhcr.org/countries/haiti",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_PR_PUERTO_RICO",
+    "title": "Library of Congress - Puerto Rico",
+    "url": "https://www.loc.gov/search/?q=puerto+rico+united+states+colonial",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_PR_PUERTO_RICO",
+    "title": "UN Digital Library - Puerto Rico / Decolonization",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=puerto+rico+decolonization",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_PR_PUERTO_RICO",
+    "title": "U.S. Congress - Puerto Rico Status",
+    "url": "https://www.congress.gov/search?q=%7B%22source%22%3A%22legislation%22%2C%22search%22%3A%22Puerto+Rico+status%22%7D",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_PR_PUERTO_RICO",
+    "title": "World Bank - Puerto Rico",
+    "url": "https://data.worldbank.org/country/puerto-rico",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  },
+  {
+    "repo_key": "US_PR_PUERTO_RICO",
+    "title": "GAO - Puerto Rico",
+    "url": "https://www.gao.gov/puerto-rico",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:29:01.128027Z"
+  }
+]

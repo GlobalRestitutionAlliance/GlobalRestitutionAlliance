@@ -1,0 +1,331 @@
+[
+  {
+    "repo_key": "US_VN_VIETNAM",
+    "title": "Yale Avalon - Paris Peace Accords 1973",
+    "url": "https://avalon.law.yale.edu/20th_century/paris.asp",
+    "error": "Direct harvest HTTP 404; URL not found. HTTP Error 404: Not Found",
+    "recorded_at": "2026-11-23T14:22:38.403904Z"
+  },
+  {
+    "repo_key": "US_VN_VIETNAM",
+    "title": "ICRC - Vietnam",
+    "url": "https://www.icrc.org/en/where-we-work/asia-pacific/vietnam",
+    "error": "Direct harvest HTTP 404; URL not found. HTTP Error 404: Not Found",
+    "recorded_at": "2026-11-23T14:22:38.403904Z"
+  },
+  {
+    "repo_key": "US_PH_PHILIPPINES",
+    "title": "National Archives - Philippine-American War",
+    "url": "https://www.archives.gov/research/military/philippine-american-war",
+    "error": "Direct harvest HTTP 404; URL not found. HTTP Error 404: Not Found",
+    "recorded_at": "2026-11-23T14:22:38.403904Z"
+  },
+  {
+    "repo_key": "US_IQ_IRAQ",
+    "title": "National Archives - Iraq",
+    "url": "https://www.archives.gov/research/military/iraq-war",
+    "error": "Direct harvest HTTP 404; URL not found. HTTP Error 404: Not Found",
+    "recorded_at": "2026-11-23T14:22:38.403904Z"
+  },
+  {
+    "repo_key": "US_AF_AFGHANISTAN",
+    "title": "National Archives - Afghanistan",
+    "url": "https://www.archives.gov/research/military/afghanistan-war",
+    "error": "Direct harvest HTTP 404; URL not found. HTTP Error 404: Not Found",
+    "recorded_at": "2026-11-23T14:22:38.403904Z"
+  },
+  {
+    "repo_key": "US_IR_IRAN",
+    "title": "Yale Avalon - Algiers Accords 1981",
+    "url": "https://avalon.law.yale.edu/20th_century/algiers.asp",
+    "error": "Direct harvest HTTP 404; URL not found. HTTP Error 404: Not Found",
+    "recorded_at": "2026-11-23T14:22:38.403904Z"
+  },
+  {
+    "repo_key": "US_IR_IRAN",
+    "title": "National Security Archive - Iran",
+    "url": "https://nsarchive.gwu.edu/briefing-book/iran/2018-02-12/cia-confirms-role-1953-iran-coup",
+    "error": "Direct harvest HTTP 404; URL not found. HTTP Error 404: Not Found",
+    "recorded_at": "2026-11-23T14:22:38.403904Z"
+  },
+  {
+    "repo_key": "US_KH_CAMBODIA",
+    "title": "National Archives - Cambodia",
+    "url": "https://www.archives.gov/research/military/vietnam-war/cambodia",
+    "error": "Direct harvest HTTP 404; URL not found. HTTP Error 404: Not Found",
+    "recorded_at": "2026-11-23T14:22:38.403904Z"
+  },
+  {
+    "repo_key": "US_KH_CAMBODIA",
+    "title": "Yale Avalon - Paris Peace Agreements 1991",
+    "url": "https://avalon.law.yale.edu/20th_century/cambodia.asp",
+    "error": "Direct harvest HTTP 404; URL not found. HTTP Error 404: Not Found",
+    "recorded_at": "2026-11-23T14:22:38.403904Z"
+  },
+  {
+    "repo_key": "US_VN_VIETNAM",
+    "title": "Library of Congress - Vietnam",
+    "url": "https://www.loc.gov/search/?q=vietnam+war+united+states",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_VN_VIETNAM",
+    "title": "UN Digital Library - Vietnam",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=vietnam",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_VN_VIETNAM",
+    "title": "World Bank - Vietnam",
+    "url": "https://data.worldbank.org/country/viet-nam",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_VN_VIETNAM",
+    "title": "UNHCR - Vietnam",
+    "url": "https://www.unhcr.org/countries/viet-nam",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_PH_PHILIPPINES",
+    "title": "Library of Congress - Philippines",
+    "url": "https://www.loc.gov/search/?q=philippines+united+states+colonial",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_PH_PHILIPPINES",
+    "title": "UN Digital Library - Philippines",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=philippines",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_PH_PHILIPPINES",
+    "title": "Official Gazette - Philippines",
+    "url": "https://www.officialgazette.gov.ph/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_PH_PHILIPPINES",
+    "title": "World Bank - Philippines",
+    "url": "https://data.worldbank.org/country/philippines",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_PH_PHILIPPINES",
+    "title": "UNHCR - Philippines",
+    "url": "https://www.unhcr.org/countries/philippines",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_ID_INDONESIA",
+    "title": "Library of Congress - Indonesia",
+    "url": "https://www.loc.gov/search/?q=indonesia+united+states+1965",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_ID_INDONESIA",
+    "title": "UN Digital Library - Indonesia",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=indonesia",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_ID_INDONESIA",
+    "title": "World Bank - Indonesia",
+    "url": "https://data.worldbank.org/country/indonesia",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_ID_INDONESIA",
+    "title": "UNHCR - Indonesia",
+    "url": "https://www.unhcr.org/countries/indonesia",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_KR_SOUTH_KOREA",
+    "title": "Library of Congress - Korea",
+    "url": "https://www.loc.gov/search/?q=korea+united+states+military",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_KR_SOUTH_KOREA",
+    "title": "UN Digital Library - Korea",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=republic+of+korea",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_KR_SOUTH_KOREA",
+    "title": "World Bank - Korea",
+    "url": "https://data.worldbank.org/country/korea-rep",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_KR_SOUTH_KOREA",
+    "title": "UNHCR - Korea",
+    "url": "https://www.unhcr.org/countries/republic-korea",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_KR_SOUTH_KOREA",
+    "title": "USFK - United States Forces Korea",
+    "url": "https://www.usfk.mil/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_IQ_IRAQ",
+    "title": "Library of Congress - Iraq",
+    "url": "https://www.loc.gov/search/?q=iraq+war+united+states",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_IQ_IRAQ",
+    "title": "State Dept - Iraq",
+    "url": "https://www.state.gov/countries-areas/iraq/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_IQ_IRAQ",
+    "title": "UN Digital Library - Iraq",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=iraq",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_IQ_IRAQ",
+    "title": "UNHCR - Iraq",
+    "url": "https://www.unhcr.org/countries/iraq",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_IQ_IRAQ",
+    "title": "World Bank - Iraq",
+    "url": "https://data.worldbank.org/country/iraq",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_IQ_IRAQ",
+    "title": "UNAMI - UN Assistance Mission for Iraq",
+    "url": "https://unami.unmissions.org/",
+    "error": "Harvest <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because co; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_AF_AFGHANISTAN",
+    "title": "Library of Congress - Afghanistan",
+    "url": "https://www.loc.gov/search/?q=afghanistan+united+states+war",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_AF_AFGHANISTAN",
+    "title": "State Dept - Afghanistan",
+    "url": "https://www.state.gov/countries-areas/afghanistan/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_AF_AFGHANISTAN",
+    "title": "UN Digital Library - Afghanistan",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=afghanistan",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_AF_AFGHANISTAN",
+    "title": "UNHCR - Afghanistan",
+    "url": "https://www.unhcr.org/countries/afghanistan",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_AF_AFGHANISTAN",
+    "title": "World Bank - Afghanistan",
+    "url": "https://data.worldbank.org/country/afghanistan",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_AF_AFGHANISTAN",
+    "title": "UNAMA - UN Assistance Mission in Afghanistan",
+    "url": "https://unama.unmissions.org/",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_IR_IRAN",
+    "title": "Library of Congress - Iran",
+    "url": "https://www.loc.gov/search/?q=iran+united+states+1953+coup",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_IR_IRAN",
+    "title": "UN Digital Library - Iran",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=iran",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_IR_IRAN",
+    "title": "World Bank - Iran",
+    "url": "https://data.worldbank.org/country/iran-islamic-rep",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_IR_IRAN",
+    "title": "UNHCR - Iran",
+    "url": "https://www.unhcr.org/countries/iran-islamic-republic",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_KH_CAMBODIA",
+    "title": "Library of Congress - Cambodia",
+    "url": "https://www.loc.gov/search/?q=cambodia+bombing+united+states",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_KH_CAMBODIA",
+    "title": "UN Digital Library - Cambodia",
+    "url": "https://digitallibrary.un.org/search?ln=en&p=cambodia",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_KH_CAMBODIA",
+    "title": "World Bank - Cambodia",
+    "url": "https://data.worldbank.org/country/cambodia",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  },
+  {
+    "repo_key": "US_KH_CAMBODIA",
+    "title": "UNHCR - Cambodia",
+    "url": "https://www.unhcr.org/countries/cambodia",
+    "error": "Harvest HTTP Error 403: Forbidden; browser fallback blocked/challenge or not captured. Pending recapture.",
+    "recorded_at": "2026-11-23T14:24:16.584900Z"
+  }
+]
