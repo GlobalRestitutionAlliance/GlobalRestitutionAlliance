@@ -253,6 +253,46 @@ def write_citation_indexes(repo: Path, rows):
             if local and sha and not str(out.get('capture_access') or '').strip():
                 out['capture_access']='PUBLIC_CAPTURE_UNAUTHENTICATED'
             merged.append(out)
+        # collapse contradictory duplicates by local_artifact (safety-preserving)
+        def _safety_rank(r):
+            qf=str(r.get('quality_flag') or '')
+            sub=str(r.get('substantive') if r.get('substantive') is not None else '').strip().lower()
+            sha=str(r.get('sha256') or '')
+            is_empty = sha=='e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+            if qf.startswith('NO_CAPTURE') or qf.startswith('NOT_SUBSTANTIVE') or sub in ('false','0') or is_empty:
+                return 0
+            if str(r.get('verification_status','')).upper()=='VERIFIED' and str(r.get('human_signoff','')).strip():
+                return 2
+            return 1
+        by_art={}
+        no_art=[]
+        for r in merged:
+            art=str(r.get('local_artifact') or r.get('local_path') or '').strip()
+            if art:
+                prev=by_art.get(art)
+                if prev is None or _safety_rank(r) < _safety_rank(prev):
+                    if prev and not r.get('citation_id'): r['citation_id']=prev.get('citation_id')
+                    # ensure not-substantive empty/challenge never marked substantive
+                    if _safety_rank(r)==0:
+                        r['substantive']=False
+                        if not str(r.get('quality_flag') or '').startswith(('NO_CAPTURE','NOT_SUBSTANTIVE')):
+                            r['quality_flag']='NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE'
+                    by_art[art]=r
+                elif _safety_rank(prev)==0:
+                    prev['substantive']=False
+                    by_art[art]=prev
+            else:
+                no_art.append(r)
+        merged=list(by_art.values())+no_art
+        # final dedupe
+        by_cid={}; dedup=[]; seen2=set()
+        for r in merged:
+            cid=str(r.get('citation_id') or '')
+            k=(r.get('url',''),r.get('local_artifact') or r.get('local_path',''),r.get('quality_flag',''),str(r.get('http_status','')))
+            if cid and cid in by_cid: continue
+            if k in seen2: continue
+            by_cid[cid]=r; seen2.add(k); dedup.append(r)
+        merged=dedup
         write_csv(out_dir/"CITATION_INDEX.csv", fields, merged)
         lines=["# Citation Index","","| Citation ID | Title | URL | Local Path | SHA256 | Status | Substantive | Quality Flag | Legal Review | Verification |","|---|---|---|---|---|---|---|---|---|---|"]
         for r in merged:
@@ -336,14 +376,13 @@ def refresh_manifest(repo: Path):
     entries=build_entries(exclude_extra={"VERIFICATION_KEYS/sha256_manifest.txt"})
     write_csv(manifest_csv, ["path","bytes","sha256","mtime_utc"], entries)
     vk = repo/"VERIFICATION_KEYS"/"sha256_manifest.txt"
-    if vk.exists():
-        lines=[f"{e['sha256']}  {e['path']}" for e in entries]
-        vk.write_text("\n".join(lines)+"\n", encoding="utf-8")
-        # add legacy manifest entry with accurate hash
-        st=vk.stat()
-        entries.append({"path":"VERIFICATION_KEYS/sha256_manifest.txt","bytes":st.st_size,"sha256":sha256_file(vk),"mtime_utc":datetime.datetime.utcfromtimestamp(st.st_mtime).isoformat()+"Z"})
-        entries.sort(key=lambda e:e['path'])
-        write_csv(manifest_csv, ["path","bytes","sha256","mtime_utc"], entries)
+    vk.parent.mkdir(parents=True, exist_ok=True)
+    lines=[f"{e['sha256']}  {e['path']}" for e in entries]
+    vk.write_text("\n".join(lines)+"\n", encoding="utf-8")
+    st=vk.stat()
+    entries.append({"path":"VERIFICATION_KEYS/sha256_manifest.txt","bytes":st.st_size,"sha256":sha256_file(vk),"mtime_utc":datetime.datetime.utcfromtimestamp(st.st_mtime).isoformat()+"Z"})
+    entries.sort(key=lambda e:e['path'])
+    write_csv(manifest_csv, ["path","bytes","sha256","mtime_utc"], entries)
 
 
 def enforce_valuation_tbd(repo: Path):

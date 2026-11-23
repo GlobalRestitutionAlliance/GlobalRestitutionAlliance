@@ -3,6 +3,21 @@ from pathlib import Path
 
 ROOT = Path(r"W:\Legal")
 
+LATAM_W2 = [
+    ROOT/'LATIN_AMERICA'/'US_AG_ANTIGUA_AND_BARBUDA',ROOT/'LATIN_AMERICA'/'US_AR_ARGENTINA',ROOT/'LATIN_AMERICA'/'US_BB_BARBADOS',ROOT/'LATIN_AMERICA'/'US_BO_BOLIVIA',
+    ROOT/'LATIN_AMERICA'/'US_BR_BRAZIL',ROOT/'LATIN_AMERICA'/'US_BS_BAHAMAS',ROOT/'LATIN_AMERICA'/'US_BZ_BELIZE',ROOT/'LATIN_AMERICA'/'US_CL_CHILE',
+]
+LATAM_W3 = [
+    ROOT/'LATIN_AMERICA'/'US_CO_COLOMBIA',ROOT/'LATIN_AMERICA'/'US_CR_COSTA_RICA',ROOT/'LATIN_AMERICA'/'US_DM_DOMINICA',ROOT/'LATIN_AMERICA'/'US_DO_DOMINICAN_REPUBLIC',
+    ROOT/'LATIN_AMERICA'/'US_EC_ECUADOR',ROOT/'LATIN_AMERICA'/'US_GD_GRENADA',ROOT/'LATIN_AMERICA'/'US_GY_GUYANA',ROOT/'LATIN_AMERICA'/'US_JM_JAMAICA',
+]
+LATAM_W4 = [
+    ROOT/'LATIN_AMERICA'/'US_KN_SAINT_KITTS_AND_NEVIS',ROOT/'LATIN_AMERICA'/'US_LC_SAINT_LUCIA',ROOT/'LATIN_AMERICA'/'US_PE_PERU',ROOT/'LATIN_AMERICA'/'US_PY_PARAGUAY',
+    ROOT/'LATIN_AMERICA'/'US_SR_SURINAME',ROOT/'LATIN_AMERICA'/'US_TT_TRINIDAD_AND_TOBAGO',ROOT/'LATIN_AMERICA'/'US_UY_URUGUAY',ROOT/'LATIN_AMERICA'/'US_VC_SAINT_VINCENT_AND_THE_GRENADINES',
+]
+LATAM_W5 = [
+    ROOT/'LATIN_AMERICA'/'US_VE_VENEZUELA',
+]
 TURTLE8 = [
     ROOT/"US_TURTLE_ISLAND_NATIVES"/"EASTERN_OKLAHOMA"/"US_OK_CHEROKEE_NATION",
     ROOT/"US_TURTLE_ISLAND_NATIVES"/"GREAT_PLAINS"/"US_SD_OGLALA_SIOUX_TRIBE",
@@ -14,6 +29,56 @@ TURTLE8 = [
     ROOT/"US_TURTLE_ISLAND_NATIVES"/"ROCKY_MOUNTAIN"/"US_MT_BLACKFEET_TRIBE_OF_THE_BLACKFEET_INDIAN_",
 ]
 
+ASIA8_W2 = [
+    ROOT/'ASIA'/'US_AE_UNITED_ARAB_EMIRATES',
+    ROOT/'ASIA'/'US_AM_ARMENIA',
+    ROOT/'ASIA'/'US_AZ_AZERBAIJAN',
+    ROOT/'ASIA'/'US_BD_BANGLADESH',
+    ROOT/'ASIA'/'US_BH_BAHRAIN',
+    ROOT/'ASIA'/'US_BN_BRUNEI',
+    ROOT/'ASIA'/'US_BT_BHUTAN',
+    ROOT/'ASIA'/'US_CN_CHINA',
+]
+ASIA8_W3 = [
+    ROOT/'ASIA'/'US_CY_CYPRUS',
+    ROOT/'ASIA'/'US_GE_GEORGIA',
+    ROOT/'ASIA'/'US_IN_INDIA',
+    ROOT/'ASIA'/'US_JO_JORDAN',
+    ROOT/'ASIA'/'US_JP_JAPAN',
+    ROOT/'ASIA'/'US_KG_KYRGYZSTAN',
+    ROOT/'ASIA'/'US_KP_NORTH_KOREA',
+    ROOT/'ASIA'/'US_KW_KUWAIT',
+]
+ASIA8_W4 = [
+    ROOT/'ASIA'/'US_KZ_KAZAKHSTAN',
+    ROOT/'ASIA'/'US_LA_LAOS',
+    ROOT/'ASIA'/'US_LB_LEBANON',
+    ROOT/'ASIA'/'US_LK_SRI_LANKA',
+    ROOT/'ASIA'/'US_MM_MYANMAR',
+    ROOT/'ASIA'/'US_MN_MONGOLIA',
+    ROOT/'ASIA'/'US_MV_MALDIVES',
+    ROOT/'ASIA'/'US_MY_MALAYSIA',
+]
+ASIA8_W5 = [
+    ROOT/'ASIA'/'US_NP_NEPAL',
+    ROOT/'ASIA'/'US_OM_OMAN',
+    ROOT/'ASIA'/'US_PK_PAKISTAN',
+    ROOT/'ASIA'/'US_PS_PALESTINE',
+    ROOT/'ASIA'/'US_QA_QATAR',
+    ROOT/'ASIA'/'US_SA_SAUDI_ARABIA',
+    ROOT/'ASIA'/'US_SG_SINGAPORE',
+    ROOT/'ASIA'/'US_SY_SYRIA',
+]
+ASIA8_W6 = [
+    ROOT/'ASIA'/'US_TH_THAILAND',
+    ROOT/'ASIA'/'US_TJ_TAJIKISTAN',
+    ROOT/'ASIA'/'US_TL_TIMOR_LESTE',
+    ROOT/'ASIA'/'US_TM_TURKMENISTAN',
+    ROOT/'ASIA'/'US_TR_TURKEY',
+    ROOT/'ASIA'/'US_TW_TAIWAN',
+    ROOT/'ASIA'/'US_UZ_UZBEKISTAN',
+    ROOT/'ASIA'/'US_YE_YEMEN',
+]
 LATAM8 = [
     ROOT/"LATIN_AMERICA"/"US_MX_MEXICO",
     ROOT/"LATIN_AMERICA"/"US_GT_GUATEMALA",
@@ -70,7 +135,7 @@ def find_repos():
                 if d.is_dir() and (d / ".git").exists():
                     repos.append(d)
     # include explicit wave targets
-    for d in PACIFIC8 + ASIA8 + LATAM8 + TURTLE8:
+    for d in PACIFIC8 + ASIA8 + ASIA8_W2 + ASIA8_W3 + ASIA8_W4 + ASIA8_W5 + ASIA8_W6 + LATAM8 + LATAM_W2 + LATAM_W3 + LATAM_W4 + LATAM_W5 + TURTLE8:
         if d.exists():
             repos.append(d)
     seen = set()
@@ -126,7 +191,7 @@ def check(repo):
                 reader=csv.DictReader(f)
                 fields=set(reader.fieldnames or [])
                 # enforce new schema when repo has adopted it (manifest or any new field present) or is an active wave target
-                is_wave_target = repo in set(PACIFIC8+ASIA8+LATAM8+TURTLE8)
+                is_wave_target = repo in set(PACIFIC8+ASIA8+ASIA8_W2+ASIA8_W3+ASIA8_W4+ASIA8_W5+ASIA8_W6+LATAM8+LATAM_W2+LATAM_W3+LATAM_W4+LATAM_W5+TURTLE8)
                 has_new_schema = mcsv.exists() or any(f in fields for f in ["verification_status","verification_rule","quality_flag","substantive","capture_access","provenance"])
                 if is_wave_target or has_new_schema:
                     for req in ["verification_status","verification_rule","legal_review_status","quality_flag","substantive"]:
