@@ -94,3 +94,13 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - **QA**: atch5_qa.py CHECKED 731, ISSUES 0.
 - **Push**: all 8 repos pushed to GRA origin/master.
 - **Status**: complete.
+
+## 2026-11-22 - Africa Pilot Wave 2 (8 repos, enrichment+browser fallback)
+- **Repos (GRA, local AFRICA/)**: US_AO_ANGOLA, US_BF_BURKINA_FASO, US_BI_BURUNDI, US_BW_BOTSWANA, US_CF_CENTRAL_AFRICAN_REPUBLIC, US_CG_CONGO_REPUBLIC_OF_THE, US_CI_COTE_DIVOIRE, US_CM_CAMEROON
+- **Actions**: ran `pilot_batch_africa8_wave2.py` scaffold/harvest/enrich steps; added SOURCE_REGISTRY.csv, 3000 VALUATION_WORKSHEET.csv (TBD, PENDING_LEGAL_REVIEW), 3000 claim_vector_registry_3000.json (TBD, AUTO_CANDIDATE_PENDING_REVIEW), VALUATION_METHODOLOGY_PILOT.md; rebuilt citations/manifests. Browser-fallback outerHTML captures distributed for missing URLs with `http_status=unknown_browser_outerhtml_capture`, `capture_access=PUBLIC_CAPTURE_UNAUTHENTICATED`, browser-rendered provenance.
+- **Capture status**: 72/73 targeted missing URLs captured/distributed; `US_BF_BURKINA_FASO` UNESCO Slave Route (`https://www.unesco.org/en/routes-enslaved-peoples`) failed 3x (`net::ERR_CONNECTION_RESET`) - not fabricated, remains pending recapture.
+- **404 handling**: 8 LOC browser captures flagged `substantive:false`, `quality_flag=NOT_SUBSTANTIVE_404_PENDING_RECAPTURE` in metas; CITATION_INDEX.csv/md annotated with `quality_flag/substantive/annotation_note`; manifests refreshed.
+- **QA**: `batch5_qa.py` => CHECKED 731, ISSUES 0 (after 404 flagging/manifest refresh and post-review fix).
+- **Adversarial review (ses_df9ed2490ffe48F2MsMY09uAxa)**: 1 MAJOR resolved - added 404/non-substantive annotation columns to affected CITATION_INDEX.csv rows and regenerated citation MD/manifests. No BLOCKING/CRITICAL/HIGH.
+- **Push**: all 8 repos committed and pushed to GRA `origin/master`.
+- **Status**: complete.
