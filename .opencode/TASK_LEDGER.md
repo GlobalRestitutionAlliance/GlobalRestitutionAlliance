@@ -86,3 +86,9 @@ Bolster all 33 non-Cuba LATAM campaigns to Cuba-template depth/coverage and docu
 - **QA recheck**: batch5_qa.py => CHECKED 731, ISSUES 0.
 - **Pushes**: 8 Africa repos pushed to GRA origin main; main repo pushed to r03lvis/main, origin/main, origin/master.
 - **Status**: complete.
+## 2026-11-22 - Completion Pilot Wave (8 repos, incomplete-pilot normalization)
+- **Repos (GRA)**: PACIFIC/US_MH_MARSHALL_ISLANDS; US_AFRICAN_AMERICAN_REPARATIONS (+ african-american-gb/nl/pt subrepos); US_DOMESTIC_VICTIMS/US_DW_NUCLEAR_DOWNWINDERS, US_JA_JAPANESE_AMERICAN_INTERNEES; US_TURTLE_ISLAND_NATIVES/NAVAJO/US_AZ_NAVAJO_NATION_ARIZONA_NEW_MEXICO_UTAH
+- **Goal**: add missing SOURCE_REGISTRY, 3000 VALUATION_WORKSHEET, 3000 claim_vector_registry_3000; preserve existing pilot/workbook; rebuild citations/manifests.
+- **Actions**: added SOURCE_REGISTRY, direct harvest, browser-fallback captures for missing high-value URLs, created 3000 VALUATION_WORKSHEET + 3000 claim_vector_registry_3000 (all TBD, PENDING_LEGAL_REVIEW, AUTO_CANDIDATE_PENDING_REVIEW), preserved existing pilot/workbook; rebuilt citations/manifests. Browser metas include capture_access=PUBLIC_CAPTURE_UNAUTHENTICATED.
+- **QA**: pending recheck.
+- **Status**: adversarial review + commit/push pending.
